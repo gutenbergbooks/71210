@@ -1,0 +1,4166 @@
+﻿The Project Gutenberg eBook of Kalastajia, by Holger Drachmann
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Kalastajia
+       Valikoima kertomuksia tanskalaisten kalastajien elämästä
+
+Author: Holger Drachmann
+
+Translator: Juhani Aho
+
+Release Date: July 17, 2023 [eBook #71210]
+
+Language: Finnish
+
+Credits: Juhani Kärkkäinen and Tapio Riikonen
+
+*** START OF THE PROJECT GUTENBERG EBOOK KALASTAJIA ***
+
+
+
+
+
+KALASTAJIA
+
+Valikoima kertomuksia tanskalaisten kalastajien elämästä
+
+
+Kirj.
+
+HOLGER DRACHMANN
+
+
+Suomentanut
+
+Juhani Aho
+
+
+
+
+
+Porvoossa,
+Werner Söderström,
+1896.
+
+
+
+
+SISÄLLYS:
+
+Esipuhe
+Björn Sivertsenin häämatka
+Cyprianus
+Kovin kourin
+Meren hylky
+Laivakorput
+Intian saali
+Tuuli kiihtyy
+Mykän kertomus haaksirikosta
+Tosi satu
+
+
+
+
+ESIPUHE
+
+
+_Holger Drachmann_ on suuruus pohjoismaisten kirjailijain joukossa,
+vaikka hän suomalaiselle yleisölle on tähän saakka ollut melkein
+tuntematon suuruus. Tuskin mitään on näet tältä mainiolta kirjailijalta
+tähän saakka vielä suomenkielelle käännetty.
+
+Holger Drachmann on sekä suorasanainen kirjailija että runoniekka, mutta
+kirjoittipa hän runoa tai proosaa, aina on hän runoilija puhtainta
+perua. Kotimaassaan Tanskassa arvostellaan häntä maansa etevimmäksi
+lyyrilliseksi runoilijaksi ja välitön, uhkuva, voimakas ja miehekäs
+lyyrillisyys onkin hänen pää-ansioitaan. Tuskin on sitä ilmausta
+Tanskan kansan luonteessa ja tunne-elämässä, tuskin sitä vivahdusta
+sen luonnossa, jolta ei olisi hänen salakielisessä kanteleessaan
+soinut. Kansansa hyvät ja heikot puolet kuvastuvat sekä hänen omassa
+luonteessaan että hänen kirjallisissa tuotteissaan. Hedelmällisellä
+tasankomaalla ja meren ympäröimillä saarilla asuva tanskalainen on
+hilpeä, vilkas, hyväluontoinen ja hiukan kevytmielinen, samalla kuin
+helppo yhteys ulkomaan kanssa ja suuri pääkaupunki on kasvattanut
+hiukan veltostunutta maailman tottumusta ja vanhoille sivistysmaille
+omituista ivaa. Kaikki nämä ominaisuudet kuvastuvat Drachmannin
+teoksissa mitä vaihtelevimpien tunnelmien temmellyksessä. Siksi on
+häntä syystä sanottukin Tanskan tanskalaisimmaksi kirjailijaksi.
+
+Pitkä on luettelo hänen teoksistaan. Yksin lukien on niitä ilmestynyt
+37 nidosta, joiden joukossa on runovihkoja, novellikokoelmia,
+näytelmiä, murhe- ja satunäytelmiä, isänmaallisia lauluja ja
+sotalauluja, joita on verrattu Runebergin "Wänrikki Stoolin
+tarinoihin", eepillisiä historiallisia runoelmia, matkakertomuksia ja
+romaaneja.
+
+Suurinna ja onnistuneimpana esiintyy tämä monipuolinen kirjailija
+kuitenkin pienissä kertomuksissa kansan elämästä, etenkin merikansan
+s.o. merimiesten ja kalastajain elämästä. Siihen määrin on hän tällä
+alalla antanut parhaansa, että häntä toisella liikanimeltä on kutsuttu
+myöskin "meren runoilijaksi".
+
+Näistä merikansan elämää kuvaavista kertomuksista tarjotaan nyt pieni
+valikoima suomalaiselle yleisölle. Suoranaisen aiheen tämän tuttavuuden
+tekemiseen tarjoo vielä se seikka, että Drachmann äskettäin täytti 50
+vuotta ja vietettiin hänen syntypäiväänsä lokakuun 9 p:ää kirjailijan
+isänmaassa kirjallishistoriallisena merkkipäivänä.
+
+Drachmann, jonka isä oli tanskalainen runoilija, syntyi Kööpenhaminassa
+9 p:nä lokakuuta 1846. Ylioppilaaksi tultuaan v. 1865 aikoi hän
+maalariksi, oleskellen v. 1870 Lontoossa maalausta harjoittaen ja
+samalla ollen sanomalehtien kirjeenvaihtajana. Lontoosta palasi
+hän kuitenkin kotimaahansa jo v. 1871, jolloin tärkeä käänne hänen
+elämässään tapahtui. Siihen aikaan oli näet Georg Brandes alkanut pitää
+kuuluisia luennoitaan virtauksista 19:nnen vuosisadan kirjallisuudessa
+ja tempasi uusi kirjallinen innostus, jolta oli realismin kuohuaikaa,
+Drachmanninkin mukaansa niin, että hän antautui kirjalliselle alalle.
+Samana vuonna julkaisi hän näet vallankumouksellisen runoelman
+"Englantilaisia sosialisteja" ja seuraavana vuonna kokoelman
+suorasanaisia kertomuksia "Med Kul og Kridt" (Kynäpiirroksia) ynnä
+runokokoelman "Digte", joiden sisältö oli sosialistista laatua.
+Näiden julkaisemisen kautta teki hän nimensä tunnetuksi ja kohosi
+senaikaisen nuoren realistisen Tanskan johtajaksi. Suurinta
+huomiota saavutti hän kuitenkin ehkä isänmaallisilla kuvauksillaan
+saksalaisten valloittamasta Tanskasta (Sleswigistä ja Holsteinista),
+jotka löytyvät v. 1877 ilmestyneessä kirjassa "Derover fra Grænsen.
+Streiftaag over det danske Termopylæ (Als-Dybböl)" s.o.: "Rajan takana.
+Waelluksia Tanskan Termopylessä." Näitä teoksia on sitten seurannut
+melkein joka vuosi ja välistä kahdestikin vuodessa teos toistaan
+parempi — tai huonompi, sillä Holger Drachmann on kovin epätasainen
+ja epäjohdonmukainen kirjailija, joka ei ainoastaan innostu mitä
+erilaisimpiin aiheihin, multa myöskin on tunnustanut vastakkaisia
+aatesuuntia omikseen. Sen kautta, että hän milloin on kuulunut ei
+ainoastaan kirjalliseen, mutta myöskin valtiolliseen vasemmistoon,
+jotka Tanskassa niinkuin muuallakin usein kulkevat saman lipun alla,
+milloin taas osoittanut taipumusta liittymään oikeiston riveihin, on
+hän saanut kokea ankaraa kohtelua molempain puolelta. Hänen neronsa on
+kuitenkin aina lopulla kohottanut hänet yläpuolelle puolueiden ja se
+korkea asema hänellä vieläkin on.
+
+Suuren osan aikaansa on Drachmann oleskellut ulkomailla, asuen m.m.
+Italiassa, josta aiheet moniin hänen teoksiinsa ovat kotoisin. Tätä
+nykyä asuu kirjailijavanhus Hampurissa. Useita kertoja on valtio hänen
+teoksiaan palkinnut m.m. antaen hänelle 1400 markan suuruisen vuotuisen
+eläkkeen.
+
+_Suomentaja_.
+
+
+
+
+Björn Sivertsenin häämatka.
+
+
+Suuri karhu [björn = karhu] hankki häitään.
+
+Kaikkiin tavanmukaisiin valmistuksiin oli ryhdytty ja niistä oli
+tärkein tämä: hän oli mennyt kihloihin.
+
+Kuinka siihen oikeastaan oli tullut ryhdytyksi, sitä ei tämä taru tiedä
+kertoa. Hän oli perinyt huoneet vanhan kalastaja-onterin kuoleman
+jälkeen ja maksanut pois veljensä Kielsin osan. Tämä oli sitten
+rakentanut majansa tuonnemmaksi kylään.
+
+Björn istui nyt talossaan kaikkine kalastuskamsuineen ja tunsihe hiukan
+yksinäiseksi kaiken tämän rikkautensa keskessä.
+
+Hän kantautui nyt useammin kuin ennen kievariin, täytti lyhyen
+puunysänsä, pisti tarinaksi ja kostutteli kurkkuaan.
+
+Iloinen kievarin isäntä oli nainut vuosi sitten ja pistihe vähä väliä
+ovesta ulos "katsomaan jotain".
+
+Mitä sinä oikeastaan tähystelet niin tarkkaan? kysyi Björn. Etkö voi
+antaa akkain siellä sisällä lasta hoitaa?
+
+Isäntä sanoi tähystelevänsä "hampaita".
+
+Hampaita?
+
+Niinpä niin. Niin pian kuin hampaat tulevat esiin, herkiää se
+huutamasta.
+
+Vai niinkö! Kuulehan, kapakoitsija, mahtaisiko tuota saada katsoa?
+
+Isä kuletti hänet ylpeänä lapsikammariin, jossa nuori emäntä istui
+somassa aamupuvussa ikkunan luona lapsi helmassaan.
+
+Äiti kumartui pienokaisen yli ja näkyi hänkin hampaita etsivän.
+
+Björn tervehti ja lähestyi vitkalleen.
+
+Tule vaan katsomaan! sanoi nuori emäntä hymyillen.
+
+Jättiläinen kumarsihe katsomaan; lapsi pelästyi tuuheata tukkaa ja
+pörröistä partaa ja alkoi parkua.
+
+Björn vetäytyi pelästyksissään pois, mutta kääntyi kuitenkin monta
+kertaa jälelleen, ennenkun lähti tuvasta.
+
+Kun hän ja isäntä taas olivat kahden kesken isännän "kajuutassa",
+seisoi Björn vähän aikaa aatoksissaan ja raapi korvallistaan paksuilla
+sormillaan.
+
+Onhan se vähän kumma kapine tuo tuommoinen pikku toveri, häh? Sillä oli
+oikein kynnet sormissa, ja se katsoi minuun!
+
+Nuori isä oli niin innostunut, että polvet notkuivat, ja käsiään
+jauhaen sanoi hän:
+
+Semmoinen pitäisi sinunkin hankkia. Onhan sinulla talo ja kaikki, mitä
+tarvitaan!
+
+Onpa niinkin, tilat on tehdyt; mutta eihän ole niinkään helppoa saada
+akkaa.
+
+Siitä vaipui Björn taas ajatuksiinsa ja kun isäntä heläytti lasinsa
+hänen lasiinsa, tuijotti hän yhä vaan eteensä.
+
+Tiedätkö, mitä minä ajattelen?
+
+No, puhu suusi puhtaaksi!
+
+Sitä vaan tässä ajattelen, että lienenkö minä milloinkaan ollut noin
+pieni?
+
+Toivon äitisi vuoksi, sanoi isäntä naurahtaen, että olit silloin
+tullessasi vielä pienempi kuin minun perilliseni on nyt!
+
+Eikä siitä asiasta sitten sen enempää puhuttu.
+
+Vähän aikaa sen jälkeen oli Björn viemässä purrellaan perunoita
+lähimpään kaupunkiin.
+
+Mukanaan oli hänellä eräs sukulaisensa, Puna-Anders, ja kun he olivat
+saaneet perunansa myydyiksi hyvästä hinnasta ja kun he vielä olivat
+satamassa ja odottivat parempaa tuulta, niin tapahtui, että eräs
+sen kaupungin vanha kippari, joka oli lakannut purjehtimasta, mutta
+ei kuitenkaan malttanut kokonaan pysyä erillään meriasioista, tuli
+satamaan kädet syvälle taskuihin pistettyinä ja pienet aina jotain
+tähystelevät porsaan silmät sirrallaan.
+
+Hän pysähtyi laivasillalle seisomaan, pani silmänsä vielä enemmän
+sirralleen ja katseli purtta kuin mittaa siitä ottaakseen.
+
+Hei, miehet, mistäs ollaan?
+
+Björn katsoi taivaalle ikäänkuin kysymys noin päivän selvästä asiasta
+olisi häntä suuresti kummastuttanut.
+
+Fiskebekistä — tietysti!
+
+Oletko itse omistaja?
+
+Minkä?
+
+Ka, purrenpa!
+
+Björn katsoi kippariin ja pani kouransa korvan taa:
+
+Minä olen vähäkuuloinen; mutta jos puhutte purrestani, niin on se minun!
+
+Onko siinä mitä vikaa?
+
+Kaikissahan meissä vikaa lienee ja venheissä tietysti myöskin!
+
+Se ei siis ole aivan uusi?...
+
+Björniä alkoi jo harmittaa.
+
+Kuulehan nyt, hyvä mies, kuinka vanha sinä itse olet?
+
+Kippari nauroi ja otti nyt vasta nyrkit taskusta.
+
+Myytkö purtesi?
+
+Björn katseli Puna-Andersia ja Puna-Anders katseli Björniä. Sitten
+katselivat he molemmat kysyjää ja lopulta katsoivat he purtta.
+
+Mitä arvelet, Anders? kysyi Björn.
+
+Niin, mitä arvelet?
+
+Björn oli hyvällä tuulella. Perunalasti oli mennyt kuin kuumilla
+kivillä ja ostaja oli pitänyt vielä hyvät harjakkaiset. Viimein iski
+Björn itseään aika tavalla reiteen ja vetäsi suunsa liki korvia.
+
+Auta armias! miksikäpä en tuota möisikin?
+
+Ka, myö, kun myöt! sanoi Anders. Ainahan uuden saat!
+
+Miksikäs en saisi! huusi Björn ja nyökäytti päätään kipparille.
+
+Paljoko tahdot? huusi kippari.
+
+Kaksisataa riksiä kaikkineen päivineen!
+
+Ota sata neljäkymmentä!
+
+Björn ei vastannut, mutta alkoi irtauttaa rossia.
+
+Kuka on purjeet ommellut?
+
+Itse sama, joka peräsintäkin puristaa! vastasi Björn ja heitti
+perärossin irti.
+
+Hei! huudettiin sillalta. Pane kiinni rossi ja päästä minut purteesi!
+
+Käytiin siinä tutkimaan ja tarkastamaan vanhaa purtta. Pohjaa, kantta,
+kaaria, nauloja, maalausta tähysteltiin, ovia ja tuhtoja koeteltiin
+huolellisesti, ja tunnin kuluttua seisoivat Björn ja hänen toverinsa
+sen ravintolan edustalla, jossa harjakkaiset oli juotu. Kesäaurinko
+paistoi heitä kasvoihin, kasvot hehkuivat ja silmät kiiluivat, mutta
+kun Björn kääntyi satamaan päin ja näki purttaan hinattavan pois
+äskeiseltä paikaltaan, niin värähtivät hänen nauravat huulensa ja hän
+kääntyi Andersin puoleen kysyen:
+
+Mitähän ne sanovat, kun tulemme kotiin ilman purttamme?
+
+Anders oli hyvin arvelevan näköinen.
+
+En tuota osaa sanoa. Mutta omahan oli purtesi ja lupasihan kippari sitä
+hyvin pidellä, tervata ja maalata tarpeen mukaan!
+
+Olet oikeassa! vastasi Björn. Mutta täytyykö meidän _kävellä_ kotiin?
+
+Ilma oli lämmin. Aurinko poltti. Oli hyvästikin kolme peninkulmaa
+kalastajakylään ja tie oli kauttaaltaan hiekka-aavikkoa.
+
+Ettäkö ajaisimme? kysyi Anders. Pelkään pahoin, että hevosmiehet ovat
+jo lähteneet, etkähän aikone kyydillä ajaa?
+
+Björn seisoi vähän aikaa tuumiskellen. Ehkei haittaisi, jos lykkäisi
+kotiin menonsa ja kaikki selitykset hiukan tuonnemmaksi.
+
+Entä jos lähtisimme kaupunkiin (pääkaupunkiin)?
+
+Maksatko matkan? kysyi Anders varovaisuuden vuoksi.
+
+Totta kai! vastasi Björn ja löi poveaan, jossa hänellä oli lompakkonsa.
+
+Retki oli päätetty. Molemmat menivät he rautatieasemalle ulkopuolelle
+kaupunkia. Junan oli kohta lähdettävä. He olivat kuin suuria lapsia
+kumpikin. Kyllä he olivat pääkaupungissa käyneet, mutta eivät tätä
+ennen rautatiellä ajaneet.
+
+Heidät neuvottiin pilettiluukulle. Björn asettui reiän suulle lompakko
+kädessä.
+
+Saisinko lipun kahdelle miehelle kaupunkiin? vaati Björn äänellä, joka
+oli olevinaan kuiskaava, mutta joka kuului yli koko huoneen.
+
+Edestakaisinko? kysyttiin luukusta.
+
+Mitä se siellä haastaa? kysyi Björn toveriltaan.
+
+Toinen vai kolmas luokka? kuului taas tuima ääni sieltä sisältä.
+
+Miehet katsoivat toisiaan.
+
+Ota niin paljon kuin saat! kuiskasi Anders, jonka mielestä ei ollut
+syytä säästää, kun toinen maksoi.
+
+No niin, anna sitten kaikki tyyni! huusi Björn ja työnsi setelin
+levotonta ääntä kohti.
+
+Tässä kaksi pilettiä edestakaisin 2:ssa luokassa; voitte palata
+iltajunassa, ymmärrättekö?
+
+Björn sai koko kasan hopearahoja takaisin ynnä piletit. Hän punnitsi
+rahoja kädessään ja jätti markan rahan laudalle.
+
+Tänään on meillä varaa antaa juomarahoja! kuiskasi hän yhtä äänekkäästi
+kuin äsken toverilleen.
+
+Piletin myyjä pisti nenänsä luukusta ja huusi vihaisesti:
+
+Korjatkaa pois rahanne!
+
+Vai niin! sanoi Björn vähän häpeissään, ja pisti markan liivin
+taskuunsa. Ja kun he menivät odotussalin läpi asemasillalle, murahti
+hän:
+
+Se perhanan kapakoitsija kun on aina kertonut, että jos tahtoo ajaa
+komeasti rautatiellä, pitää vähän voidella renkejä. Mutta täällä
+näytään oltavan ylpeitä!
+
+Heidät työnnettiin vaunuun ja ovi suljettiin.
+
+Ennestään istui siellä jo paksu lyhyttukkainen mies, valkokaulanen ja
+mustaan, pitkähelmaiseen takkiin puettu. Hänen naamansa oli lihava,
+hyväntahtoinen ja ylen punanen.
+
+Puh, kun täällä on kuuma! sanoi Björn ja laski alas ikkunan.
+
+Paksua miestä rupesi ryvittämään.
+
+Sitten vihelsi veturi ja juna lähti liikkeelle.
+
+Nyt se menee — hitto vieköön! huusi Anders.
+
+Saattaapa olla, että menossa on! huusi Björn samaan tapaan, kun vaunu
+alkoi heitellä vauhdin lisääntyessä.
+
+Avaa toinenkin ikkuna, Anders! huusi Björn hetken kuluttua. Alkaa
+sydäntäni etoa tässä laatikossa. En ole mokomaksenikaan näin maalla
+ennen purjehtinut!
+
+Paksu mies ryki yhä enemmän.
+
+Häiritseekö se ehkä herraa? kysyi Björn kohteliaasti.
+
+Häiritsee.
+
+Björn käski toverinsa "sulkemaan reikänsä".
+
+Tuli juna sitten tiukkaan käänteesen, vaunu heitti ulospäin ja Björn
+horjahti puoleksi pitkälleen istuimellaan.
+
+Nyt olen nähnyt senkin saakelin! huudahti hän vähän hämmästyen. Mitäs
+luulet, Anders? mehän ajamme hehkuvimpaan helvettiin tällä tavalla!
+
+Kiroiletteko aina tuolla tavoin, hyvä ystäväni? kysyi paksu herra.
+
+Björn katsahti häneen ja iski silmää.
+
+Miten milloinkin sopii, mutta enimmäkseen maissa ollessa. Vaatii suolaa
+leipään, sanoi leipurin koira, kun lihaa varasti!
+
+En luule tarvittavan! Tahdon vaan sanoa, että olen _pappi!_
+
+Pappi! toisti Björn ja tarkasteli hänen kasvojaan. Anteeksi, mutta
+uskallatteko vannoa sen päälle?
+
+Paksu herra katsoi häneen ensin ankarasti. Mutta tuo suuri lapsi
+tuossa vastapäätä oli mainiolla tuulella ja kaikki suuttumus kilpistyi
+takaisin hänen vähän yksinkertaisen, mutta samalla veitikkamaisen
+hymyilynsä tieltä.
+
+Hetken kuluttua olivat he hyviä ystäviä ja vastoin tapaansa kertoi
+Björn papille purtensa myynnin. Pyylevä pappi nauroi niin, että oli
+sitten tukehtua rykimiseensä, ja ennenkun oltiin pääkaupungissa, oli
+hän saanut Björnin lupaamaan, että tämä seuraavana päivänä tulisi häntä
+tervehtimään hänen pappilaansa vähän matkaa pääkaupungista.
+
+Puna-Anders palasi jo samana iltana takaisin ja Björn ajoi seuraavana
+aamuna yksin pappia tervehtimään.
+
+Kuinka sitten lienee käynyt tai ollut käymättä, niin teki Björn tämän
+perästä yhä useampia pääkaupunkimatkoja ja pistihe aina pappilassakin,
+jonka läheisyydessä hän omien puheittensa mukaan "oli hameeseen
+sotkeutunut".
+
+Juuri sen enempää ei tästä asiasta saatu tietää. Hänellä oli suuri
+kirkas kultasormus paksua sormea puristamassa. Miten se oli alkujaan
+saatu sormesta alas solahtamaan, on vaikea sanoa, mutta siinä se nyt
+oli ja pysyi. Ja Björn itsekin "oli ja pysyi".
+
+Kaiken talvea oli hän ollut naimatuumissa. Kestikievarin isäntä ja
+emäntä olivat häntä kiusanneet; hän oli suuttunut leikillään ja
+suuttunut todella, oli taas sovittu pois, hän oli näyttänyt tytön
+valokuvan, joka oli aivan musta kasvoiltaan ja jolla oli kaksi suurta
+mönjän punaista leukanauhaa, ja jota hän yhtämittaa pyyhki nuttunsa
+hihalla "saadakseen oikean näön esiin". Ei hän oikeastaan suvainnut
+tälle valokuvalle naurettavan, mutta oli kuitenkin siksi rehellinen
+myöntääkseen, "että se oli enemmän neekerin kuin kunniallisen
+maalaistytön näköinen".
+
+Talven kuluessa oli hän hankkinut itselleen uuden venheen. Se oli
+tavanmukaisilla menoilla koetettu ja nimeksi sille annettu "Lentokala".
+
+Mutta ristiäispidoissa oli tullut riita. Tuo muuten niin hyväntahtoinen
+Björn oli suuttunut siitä, että hänen purttaan ruvettiin kutsumaan
+"Kiven purijaksi".
+
+Voimatta selittää yhtä vähän itselleen kuin muille, miksi tuo nimi
+muka oli niin loukkaava, oli hän siitä kuitenkin suuttunut ja "tehnyt
+tyhmyyksiä".
+
+Kun pursi oli ristitty, niin oli se ristitty, ja niin oli se aina sitä
+myöten valmis eikä siinä ollut kenenkään tarvis ruveta sukkeluuksia
+latelemaan; ja jos kuka tahtoi niitä ladella, niin varokoon nenäänsä,
+sillä muuten saattaa tapahtua, että heilahtaa j.n.e.
+
+Seuraavana päivänä hän ollen tyytymätön itseensä meni uskottunsa
+kievarin isännän puheille. Se hänen mieltään kovasti painosti, että hän
+oli niin huonosti vieraitaan kohdellut.
+
+Kievarin isäntä lohdutteli häntä parhaansa mukaan. Se oli kaikki —
+sanoi hän — seurausta niistä naimapuuhista. Kun oli semmoisia tuumia
+pää täynnä, niin ei voinut oikein pysyä tasapainossa, mutta oli mieli
+joko liiaksi riemuinen tai liiaksi riitainen. Sen hän tiesi omasta
+kokemuksestaan. Parasta oli tehdä asiasta pikainen päätös.
+
+Björn ei vastannut; mutisi vaan jotain keväästä ja lakanoista ja
+liinavaatteista. Ja niin lähti hän merelle "Lentokalansa" kanssa.
+
+Se _lenti;_ siitä ei ollut epäilemistäkään. Ei ollut puhettakaan siitä,
+että pursi olisi ollut kiven purija — sen hän vielä näyttäisi niille
+irvihampaille!
+
+Ja nyt oli kevät tullut ja nyt "kaikesta siitä liisteristä oli tuleva
+loppu".
+
+Hän oli hankkinut itselleen hyvän, uuden venheen; nyt vannoi hän
+hankkivansa itselleen eukonkin.
+
+Ja häät pidettiin.
+
+Pariskunta vihittiin tietysti tuolla maalaisseurakunnan kirkossa. Mutta
+eräs Tiinan läheisistä sukulaisista — morsiamen nimi oli Tiina — oli
+tahtonut, koska Tiinan vanhemmat olivat kuolleet ja hän oli ravintolan
+pitäjä Kööpenhaminassa, viettää häät kaupungissa.
+
+Björn oli ollut kovasti vastaan.
+
+Hän oli veljensä kanssa purjehtinut kaupunkiin uudessa purressaan ja
+ankkuroinut sen Kröijerin torin edustalle. Niels vartioi venhettä,
+eikä Björn aikonut viipyä maissa enemmän aikaa kuin että solmu vaan
+ehdittiin solmita.
+
+Sen tehtyä ajettaisiin suoraa päätä kaupunkiin ja astuttaisiin purteen
+ja purjehdittaisiin "muori" kotiin.
+
+Vaan tätä vastaan oli taas Tiina ja hänen puolueensa. Eihän käynyt
+päinsä viettää häitä ilman "pitoja"; ja mikä kiire nyt oli heti kohta
+veteen heittäytyä? Ennätettäisiin siinä vielä sittekin pulikoida!
+arveli Tiina.
+
+Tätä mielipidettä kannatti tarmokkaasti myöskin Tiinan sukulainen,
+ravintolan pitäjä, "Kullatun tervakannun" isäntä.
+
+Karhu murisi, mutta älykäs kun oli, vaikeni hän pian. Hän teki
+salaisuudessa sen, mitä insinöörien tavoin puhuen sanotaan
+"kontramiimaksi" ja antoi veljelleen viittauksen, että tämä hinaisi
+"Lentokalan" Toldbodeniin, sijoittaisi sen siellä lossimiesten
+venhevalkamaan, laittaisi kaikki reilaan lähtöä varten ja sitten
+itse menisi "Kullatun tervakannun" ravintolaan, joka oli maalaisten,
+sotamiesten ja sen semmoisten mieluinen käymäpaikka.
+
+Sillä tavoin oli kukin kohdaltaan voitostaan varma; ja niin pidettiin
+häät. Tuo maalaispappi vihki heidät ensin kirkossaan, tarjosi sherryä
+kotonaan ja lahjoitti kummallekin hopealusikan muistoksi.
+
+Björn pisti sherryn ja lusikat "liivinsä alle" ja sitten ajoi
+ravintolan pitäjä heidät kaupunkiin. Pappilan pihalla huudettiin
+heille hurraata ja nyt istui iloinen seurue "Kullatun tervakannun"
+kellarikerroksessa lammaspaistien, sylttien, kinkkujen ja kaikellaisten
+muiden herkkujen ääressä.
+
+Sitten tarjottiin naisille makeata likööriä ja vanhaa ranskanviiniä ja
+miehille ryyppyjä ja punssia.
+
+Ja ikkunasta näkyi karkea, päivän paahtama palomuuri ja kun ojensi
+ruumiinsa pöydän yli tai laski päänsä naapurinsa helmaan, voi hyvin,
+hyvin ylhäältä nähdä sinistä taivasta noin kaitaisen esiliinan verran
+ja joitakuita ajelehtivia pilviä.
+
+Saapuvilla oli muutamia Tiinan naispuolisia sukulaisia ja sitten oli
+siellä ravintolan pitäjän läheisiä sukulaisia ja hyviä ystäviä.
+
+Läheisten sukulaisten joukossa on erittäinkin mainittava eräs
+väkipyörän kiertäjä, joka ilmaisi osanottavaisuutensa vastanaineiden
+onneen juomalla itsensä hetikohta humalaan ja pitämällä liikuttavia
+puheita.
+
+Hyvien ystävien joukossa oli taas eräs mitalirintainen mies, "entinen
+oikeuden palvelija", joksi hän soi itseään kutsuttavan, hyvin märän
+näköinen arestihuoneen vartija, joka muistona sotilasajo iltaan — hän
+oli ollut aliupseeri — käytti kankeaa kaulahuivia ja kantoi Dannebrogin
+nauhassa riippuvaa vaskirahaa.
+
+Hän näytti kaiken aikaa hautovan sitä epäluuloa, että joku tästä
+seurueesta tuolla pöydän alipäässä vie hopealusikkansa mennessään.
+Sentähden pysyttelihe hän — luultavasti tämän epäluulonsa nojalla —
+tarpeellisen välimatkan päässä muista vieraista. Yhtämittaa kaateli hän
+itselleen lukemattoman määrän pieniä naukkuja puoleksi tyhjentämäänsä
+pikariin sen siitään humaltumatta. Sitten naurahti hän aiheettomasti,
+keikisti partaansa taas puolen ryyppyä ja tyrkkäsi kyynärpäällään
+isäntäänsä kylkeen, jota kutsui "vanhaksi asetoverikseen. Hä! Mitä!
+Muistellaanko entisiä aikoja!"
+
+Se oli hänen iloisuutensa ylin ilmaus.
+
+Björniä kutsui hän "herra katteiniksi". Mutta kun hän oli tehnyt sen
+pari kertaa, katsahti puhuteltu häneen tuimasti ja virkkoi:
+
+Kuulehan nyt, hyvä ystävä, herkeä jo katteinittelemastasi tai minä
+suutun!
+
+Tämän pienen muistutuksen saatuaan sanoi oikeuden palvelija: "herra
+venhemies!"
+
+Björn ei ollut oikein omalla tuulellaan. Hän istui vähän niinkuin
+yksinään, johon myöskin hänen vähäkuuloisuutensa vaikutti. Hän kyllä
+_täytti_ paikkansa, mutta Niilo pysyi yhäkin poissa ja Tiina, morsian
+— niin, hän istui sulhasensa vieressä mustassa merinohameessaan,
+morsiusseppele päässä ja huntu hartioilla, punaset kädet helmassa,
+äärettömän totisena ja suorana tuolillaan niinkuin olisi vastikään
+kyynäräpuun nielaissut.
+
+Kai oli se niin olevakin. Morsian ei saa olla liian iloinen. Mutta
+jo hänen luonteessaankin näkyi olevan sitä arvokkaisuutta, joka
+varmaankin on hyvälle emännälle tarpeellista, mutta joka vaikutti vähän
+kylmäisevästi täällä makeain ryyppyjen ja höyryävien kinkkujen ääressä.
+
+"Ei häntä ainakaan voitu liiasta rakastelemisesta syyttää", sanoi Björn
+jälkeenpäin, tuosta suuresta tapahtumasta puhuessaan.
+
+Morsian istui yksin ja sulhanen istui yksin. Morsian söi vähän,
+sulhanen kahden edestä; ja sillä välin piti väkipyörän kiertäjä
+puheitaan, aurinko paahtoi tuolla ylhäällä palomuuria ja Björn kumartui
+Tiinan yli ja tirkisti ulos ikkunasta.
+
+Tiina korjaili huntunsa helmoja ja silitteli hamettaan. Mitä sinä
+katselet? kysyi hän.
+
+Katselen vaan tuonne ylös, vastasi Björn.
+
+Tiina seurasi hänen katseittensa suuntaa.
+
+Siellä olisi mainiot huoneet neljännessä kerroksessa. Olisi siellä
+toista asua kuin vedellä kellua.
+
+Katselen vaan tuulen suuntaa. Nyt olisi mainio tilaisuus lähteä. Tuuli
+on kääntynyt ihan etelään.
+
+Tiina katseli vähän levottomasti häneen ja sitten ravintolan pitäjään.
+
+Tuuli on kääntynyt ihan etelään ja puhaltaa navakasti! jatkoi Björn.
+Nyt se on ollut luoteella jo kauvan ja kampeaa varmaankin ennen iltaa
+entisille sijoilleen. Semmoista tilaisuutta ei tule moneen päivään.
+
+Tiina antoi merkin ravintolan pitäjälle ja tämä kohotti "oikein vanhan,
+rehellisen eläköönhuudon" Björnin kunniaksi. Tahdottiin välttämättä
+saada hänet toisiin ajatuksiin ja väkipyörän kiertäjä piti viidennen
+puheensa. Sitten alotti ravintolan pitäjä laulun, jota oikeuden
+palvelija säesteli rummuttamalla huuliaan kuin torven läppää:
+
+    Nyt malja puolisoiden
+    Juokaamme siis,
+    Että onneksi noiden
+    Elonsa valkeneis!
+    Ja eläkööt he siksi, kunnes kuolevat pois,
+    Paljon lapsia saakoot, se toivomme ois!
+    Hurraata heille nyt huutakaamme,
+    Ja pohjahan klasimme kallistakaamme!
+
+Silloin nousi — vastaväitteistä huolimatta — väkipyörän kiertäjä
+vielä kerran puhumaan, ja koettaissaan saada jalansijaa pitämällä
+kiinni kahden vierustoverinsa kauluksesta, puhui hän, vesissä silmin,
+viimeisen kerran seuraavin sanoin:
+
+Hyvät ystäväni, oikein hyvät ystäväni ja kuulijani; sillä ystäviähän
+olemme kaikki keskenämme, vai mitä?
+
+Joo, joo! vastattiin kaikilta tahoilta.
+
+Niinpä tahdomme me siis — koska on velvollisuutemme virkkaa heille
+sananen, ennenkun he eroavat isästä ja äidistä ja vaimoonsa sidotut —
+mitä sanon minä, ennenkun he eroavat tästä ystäväseurasta...
+
+He jäävät tänne huomiseen! virkkoi ravintolan pitäjä.
+
+Eivät jääkään! huusi Björn ja löi nyrkkinsä pöytään.
+
+Kuulkaa häntä! huusi Niels, joka juuri silloin astui sisään. Tuuli on
+hyvä ja etelässä, Björn!
+
+Minä tiedän sen! vastasi Björn ja oli noussut seisoalleen.
+
+Hiljaa! huusi isäntä. Antakaa kiertäjän puhua loppuun.
+
+Niin, kuulkaa nyt minua, rakkaat ystäväni! soperteli väkipyörän
+kiertäjä ja heilahteli edestakaisin. Mehän olemme kaikki ihmisiä ja me
+rakastamme kaikki rakasta synnyinmaatamme. Minä en sano isänmaata, minä
+sanon synnyinmaata. Sillä emmehän tiedä, mistä isämme ovat tulleet,
+mutta sen me tiedämme, missä itse olemme syntyneet...
+
+Mitä roskaa se on! huusi Niels, joka oli käsittänyt aseman ja oli
+sotatuulella.
+
+Mikä mies se on tuo? kysyi puhuja ja koetti sameine silmineen saada
+tuon vieraan olennon eteensä vakiutumaan. Onko se mies, joka ei tahdo
+juoda sy-synnyinmaansa ma-maljaa, niin sanon minä: Hyi saakeli, sanon
+minä!
+
+Niels katsahti merkitsevästi Björniin.
+
+Puhdistammeko pahnan ja otamme sitten Tiinan kanssamme?
+
+Björn viittasi hänelle kädellään. Mutta kun se häävieras, joka oli
+tukenut väkipyörän kiertäjää, kuuli "pahnasta" puhuttavan, päästi hän
+kiertäjän menemään, tämä kaatui nenälleen, siitä syntyi suuri häläkkä,
+huudettiin ja meluttiin ja Niels oli tarttunut oikeuden palvelijan
+hännykseen — silloin asettui Tiina, aseman juuri kireimmillään ollessa,
+muinaisajan uljaiden naisten tavoin, päättävästi herransa ja puolisonsa
+rinnalle, ja ilmoitti, että "hän kernaammin purjehti hänen kanssaan
+vaikka Jyllantiin kuin että suvaitsi tämmöistä meteliä omissa häissään
+tapahtuvan".
+
+Sillä oli asia päätetty ja ratkaistu. Väkipyörän kiertäjä kannettiin
+viereiseen huoneesen sängylle; käsiä puristettiin ja laseja
+kilistettiin. Björn ja Niels esiintyivät nyt mitä herttaisimpina; Niels
+tilasi boolin _omalla_ kustannuksellaan. Ravintolan pitäjäkin mukautui.
+
+Rauha ja sopu palasivat, maljoja maisteltiin ja lauluja laulettiin.
+
+Ja sitten ruvettiin lähtemään.
+
+Björn oli riemuissaan voitostaan kutsunut koko seurueen, myöskin
+oikeuden palvelijan, huvipurjehdukselle.
+
+"Hän kyllä heittäisi heidät maihin kalkkipolttimon luona, elleivät
+tahtoisi lentää kauvemmaksi 'Lentokalan' selässä."
+
+Kutsumus otettiin toistaiseksi vastaan, ett'ei äsken parantuneita
+haavoja uudelleen auki revittäisi. Mutta kun tultiin ulos "Kullatusta
+tervakannusta" vaikuttivat raitis ilma, auringon valo, voitto ja
+sulhasmiehen ajatukset kaikki yhteensä niin voimakkaasti Björniin,
+että hän yhtäkkiä tarttui Tiinaa vyötäisiin ja vannoi tahtovansa
+tanssia hänen kanssaan hampurin polskaa, ja huolimatta morsiamen
+itsepintaisista vastaponnistuksista pani hän todellakin ohikulkevien
+suureksi hämmästykseksi ja riemuksi tuumansa toimeen.
+
+Sen tehtyään päästi hän Tiinan ja tarttui oikeuden palvelijaan, jonka
+täytyi tehdä hänen kanssaan laukkavuoro katua pitkin. Mutta silloin
+selitti oikeuden palvelija, että tämä oli jo "hävytöntä", riuhtasihe
+irti ja poistui niin punaisena kuin kuninkaallinen vaunukuski, vetäen
+vielä ravintolan pitäjänkin mennessään.
+
+Seuraavaan katukulmaan oli naulattu ilmoitus suuresta eläinten
+näyttelystä, johon oli kuvattu elefantteja, apinoita ja karhuja.
+Etenkin nämä viimemainitut herättivät sulhasen huomiota; hän sanoi
+tahtovansa mennä katsomaan kaimojaan ja häävieraiden oli täysi työ
+saadessa hänet järkiinsä.
+
+Mutta tästä syntynyttä väittelyä oli kokoontunut koko joukko väkeä
+kuulemaan. Seurattiin suurella uteliaisuudella kookkaan kalastajan
+vilkasta puhetta ja kun hän nyt yleisön vilpittömäksi iloksi esitti
+kohtauksia karhujen elämästä, niin lähtivät loput kutsuvieraista
+käpälämäkeen, samalla kuin osa kuokkavieraita seurasi Björniä, Tiinaa
+ja Nielsiä hyvän matkaa Toldbodeniin.
+
+Kas niin, Björn, ei hyvää liiaksi! rauhoitteli häntä Niels, kun näki
+poliisinkin jo liittyneen hääsaattoon.
+
+Enkö saisi pitää hauskaa omissa häissäni? kysyi aina hyväluontoinen
+Björn ja katseli ilosta loistaen ympärilleen.
+
+Tiina oli itkuun purskahtamaisillaan, mutta kärsi kuitenkin nurkumatta.
+Hän oli onnensa osan valinnut, menköön nyt kuten parhaiten taitaa.
+
+Kyllä kai se siitä vielä antautuu, ajatteli hän itseään lohdutellen.
+
+Ja niin tultiin Toldbodeniin ja astuttiin purteen.
+
+Käärit kai vähän purjeita! tuumivat lossimiehet.
+
+Täydet purjeet! huusi Björn. Tämä on häämatkani!
+
+Vai niin! vastasivat lossimiehet selitykseen tyytyväisinä, mutta
+kuiskasivat kuitenkin Nielsille: osaako hän hoitaa venhettä?
+
+Hänkö? vastasi Niels ja hymyili.
+
+Oletko valmis, Niels? huusi Björn.
+
+Hyvä on!
+
+Oletko sijoittanut Tiinan hyvästi pohjaan?
+
+Hyvä on!
+
+Ann' mennä sitten!
+
+Hurraa! huutivat kaikki lossimiehet, mutta pudistelivat kuitenkin
+päätään.
+
+Siitä tulee märkä häämatka, ell'ei hän purjeita vähennä.
+
+Ja märkä siitä tulikin.
+
+Tiina ei sitä koskaan unohtanut ja Björn kertoi siitä myöhemmin
+seuraavasti:
+
+Me lensimme halki laineiden. "Lentokala" lenti kuin lempo. Kaikki
+luotsivenheet jäivät kuin humahtaen jälelle; ne huusivat meille jotain,
+mutta minä heilutin hattua ja kysyin, voivatko he erottaa, millä
+värillä pursi oli maalattu?
+
+Kaikki purjehtijat laskivat riepunsa alas, toinen toisensa perästä;
+mutta me annoimme niiden seista.
+
+Kai se ne kantanee? kysyi Niels.
+
+Sen _täytyy_ kantaa! vastasin minä.
+
+Tiina makasi pohjalla ja työnsi takaisin kaikki ravintolanpitäjän
+herkut. Onneksi oli, ett'ei se ollut syönyt enempää kuin mitä oli
+syönyt.
+
+Minä vaan kehoittelin häntä, ett'ei olisi milläänkään, mutta en luule
+hänen juuri kuulleen, mitä sanoin.
+
+Niels ja minä olimme likomärät, purjeet olivat likomärät ja Tiina oli
+likomärkä.
+
+En ole koskaan, en ennen enkä jälkeen sillä tavoin purjehtinut.
+
+Kotiin saakka en uskaltanut häntä viedä. Me laskimme kauppakaupunkiin
+ja nousimme maihin.
+
+Kippari, joka oli vanhan venheeni ostanut, oli laivasillalla.
+
+Mitenkäs olette te tämmöisessä säässä täysin purjein laskeneet? kysyi
+hän. Onko teillä lastia?
+
+On häälastia! vastasin minä; jo se on enemmän kuollutta kuin elävää
+lastia. Olkaa hyvä ja auttakaa vähän; meidän täytyy saada muori maihin,
+muuten se ehkä henkensä heittää!
+
+Ja siitä saimme Tiinan maihin. Ei voinut hän jaloillaan seista, ja
+meidän täytyi viedä hänet erään hyvän tuttavani luo kaupunkiin. Ja
+siellä makasi hän kolme päivää ja kolme yötä ja minun täytyi kuleksia
+kuivin suin kaupungissa sen aikaa, eikä kyennyt hän edes nenääni
+nuolasemaan.
+
+Syntyihän siitä sitten koko komerssi, kun Tiina tointui; ja satoihan
+niitä haukkumisia myöskin siitä, että "olin häntä noin kiikutellut".
+
+Mutta eihän pidä vaatia mahdottomia ihmisiltä, jotka tulevat suoraan
+maalta, eivätkä ole nähneet yhtaikaa vettä enemmän kuin mikä mahtuu
+papin kastemaljaan.
+
+Ja vaikka minä saankin haukkumisia, ja saan aina samoja joka kerta kuin
+kerron tästä retkestä, niin että Tiina on kuulemassa, niin pyyhkäisen
+minä vaan näin — kas näin — käs'selälläni nenäni alusta ja sanon: oli
+se kuitenkin ihmeellisin häämatka, minkä olen milloinkaan tehnyt!
+
+Enkä minä sen seikan tähden ole niitä sen useampia tehnytkään.
+
+
+
+
+Cyprianus.
+
+
+Anders Andersen kertoi eräänä iltana:
+
+"Lars istuu tuulen puoleisella laidalla, kumartuu alas ja laittelee
+painolastikiviä.
+
+"Sillä meillä oli hyvä tuuli, puhalsi perähangoilta ja nuorat olivat
+pingallaan; pursi oli vakava, ja se, joka perässä istui, tunsi sen
+ulkoa kuin aapisen, eikä siinä ollut mitään tehtävää Larsilla eikä
+muutenkaan.
+
+"Me olimme tulleet maan suojaan ja laineet tulivat perästä ja purteni —
+se uusi pursi — liiteli ylös ja alas eikä ollut sillä ollenkaan aikaa
+pysähtelemään, mutta mennä touhusi oikein aika vauhtia eteenpäin.
+
+"Ja Lars istui, niinkuin sanoin, ja laitteli painolastikiviä.
+
+"Lars oli nuori mies, jonka olin saanut apumiehekseni Johanneksen
+jälkeen, joka oli loukannut itsensä.
+
+"Se luistaa oikein hyvin, Lars? sanoin minä.
+
+"Lusitaapa todellakin, sanoo hän. Sinulla on aina ollut hyviä venheitä,
+Anders Andersen, ja aina olet sinä saanut hyvästi kalaa, jos et yhdellä
+lailla niin toisella: ja se saattaa olla tyytyväinen, joka on päässyt
+toverinasi kulkemaan.
+
+"Onhan niitä huonompiakin tovereita! sanon minä; ja on venheitäkin
+huonompia kuin tämä!
+
+"Onpa tietenkin! sanoi Lars. Mutta mikä se on tämä paperi täällä kivien
+välissä?
+
+"Panesta tulemaan se tänne peremmä, sanon minä.
+
+"Lars panee tulemaan paperin, jossa on jotain painettua kirjoitusta. Ja
+paperi oli sekä keltanen että likanen, ja jos minä sanon mieleni, niin
+arvasin minä, että se voi olla palanen jostain vanhasta sanomalehdestä.
+
+"Mutta sitä en sanonut Larsille.
+
+"Mitä se on? kysyy Lars.
+
+"Hm! sanon minä. Se voi olla monenkin moista.
+
+"Kuinka niin? sanoo Lars. Mutta mitä luulet sinä sen olevan?
+
+"En tiedä, Lars, sanon minä. Voi olla sitä, voi olla tätä.
+
+"Ja minä kohotan perääni, ja nostan perälaudan luukkua, jossa viskainta
+pidetään, ja tarkastelen paperipalasta; ja sitten pistän minä paperin
+sinne sisään ja panen luukun paikoilleen ja istahdan itse luukun
+päälle; ja sitten sanon minä, kun venhe taas kääntyy tuuleen: Se sopii!
+
+"Mikä sopii? sanoo Lars.
+
+"_Cimbrianus!_ sanon minä..."
+
+Sitten istuu Lars vähän aikaa ja soluttelee kiviä sormiensa välissä, ja
+sitten katsahtaa hän minuun ja kysyy:
+
+"Mitä sillä tarkoitat?
+
+"Tarkoitan aina mitä sanon, poikaseni!
+
+"Taas istuu hän hetkisen ja kysyy taas:
+
+"Tarkoitatko sillä sanoa, että sinulla on _Cimbrianus_ venheessä?
+
+"Minä sanon, että se paperipalanen, jonka sinä löysit, sopii tuohon
+laatikkoon, jossa minulla on tavarani! Se on minun laatikkoni! eikä
+kukaan pääse sinne paitse Anders Andersen ja minä itse!
+
+"Tulemme siitä maihin ja miehet tulevat meitä auttamaan ja me vedämme
+purren kuiville ja panemme tuet alle ja otamme tavarat venheestä ja
+naiset tulevat myöskin rantaan ja vaimoni kysyy Larsilta:
+
+"Minnekkä sinulla on semmoinen kiire Lars?
+
+"Hän ei vastaa mitään, mutta katsahtaa minuun ja kiinnittää kulkuaan
+hietikkoa pitkin ja menee suoraa päätä kapakkaan.
+
+"Anna sinä hänen mennä! sanon minä vaimolleni. Hän on pistänyt sormensa
+myrkkykalanruotoon, jonka löysi kivien välistä venheen pohjalla!
+
+"Kunhan ei vaan olisi pahastikin pistänyt! sanoo eukkoni ja aikoo
+lähteä jälkeen.
+
+"Mutta minä pidätän hänet ja sanon, ettei tarvitse hätäillä; ehkei se
+ole niin vaarallista.
+
+"Lars katsahti taakseen niinkuin jotain siihen sanoakseen. Ei
+kuitenkaan virkkanut mitään, vaan kiirehti tiehensä.
+
+"Lähden siitä sitten minäkin illalla kapakkaan.
+
+"Astun etumaiseen huoneesen ja toivotan jumalan rauhaa ja istuudun
+penkin päähän.
+
+"Siellä istuvat jo pieni Kasper Kullraemmer ja Johan Ditten ja Povl
+Svendsen ja Kaliforniamies ja Björn ja useita muita miehiä ja useimmat
+väistivät he tieltäni ja herkesivät haastamasta.
+
+"Istui siellä Larskin ja oli istunut jo kauvankin, jonka saattoi
+helposti huomata.
+
+"Jumalan rauhaa! sanon minä vielä kerran. Mitäs miettehet tänä iltana
+maksaa, jos saanee luvan kysyä?"
+
+He eivät nyt juuri mitään virkkaneet, mutta olihan minulla lupa
+ajatella mitä halutti. Ja sen minä teinkin ja sitten sanoin minä
+Larssille: No, Lars, mitenkäs oli sen kalanruodon?
+
+"Minkä kalanruodon? kysyy Johan Ditten; sillä aina piti hänen saada
+kaikki tietää.
+
+"Se on tietysti valetta! sanoo Kaliforniamies. Sillä hänen tapansa oli
+aina sanoa, että kaikki on valetta. Sen oli hän oppinut Ameriikassa.
+
+"Mitä te siinä istutte ja mutisette? kysyi silloin Björn ja pani
+kouransa korvan taa. Oletko sinä nyt taas kujeilemassa, Anders?
+
+"Pyysin juodakseni lasin olutta, ja sitten kysyin minä Björniltä, eikö
+hän tahtoisi tehdä seuraa.
+
+"En huoli, vastasi Björn. Mitä sinä olet uskotellut Larsille?
+
+"Join ensin olueni ja vastasin sitten, ett'en ollenkaan ymmärtänyt,
+miksi he kaikki olivat niin kireällä päällä.
+
+"Elä luikertele! sanoi Povl Svendsen. Vastaa suoraan, onko totta, että
+sinulla on _Cimbrianus_?"
+
+"Cimbrianus? mitä paljon se on? Se on ilkeä kirja, tiemmä, sanoi vanha
+Kasper Kullraemmer. Eikä ole hyväksi kenellä se on."
+
+"Vaan kuitenkin olet sanonut Larsille, että sinulla on se kirja! sanoi
+Björn."
+
+"Niin sanoi! huusi Lars ja löi nyrkkinsä pöytään nähdessään, että
+kaikki olivat hänen puolellaan. Jos olen sanonut sen, niin kai lienen
+tarkoittanutkin, mitä olen sanonut, vastasin minä. Mutta nyt sanon
+minä, ett'en tiedä mitään siitä kirjasta, josta te nyt puhutte.
+Toivoisin kuitenkin tietäväni, sillä silloin en varmaankaan olisi
+kadottanut kaikkia silliverkkojani; tai olisin ainakin voinut sanoa,
+ketä ne ruotsalaiset olivat, jotta verkkoni varastivat.
+
+"Siinä nyt kuulette! huusi Lars ja muuttautui toiselle puolelle pöydän.
+
+"Se on helv— vale! sanoi Kaliforniamies.
+
+"Sinä pidät meitä pilkkanasi! sanoi Björn.
+
+"Petä hänet mitenkä petät! sanoi Povi.
+
+"Ja silloin nousi vanha Kasper ylös ja tarttui lasiinsa ja sanoi,
+että oli häpeäksi koko kylälle, että täällä oli semmoinen kalastaja;
+sillä joko minä tein pilkkaa ja ivaa heistä kaikista tai käytin minä
+'epärehellisiä' keinoja venheessäni; ja olkoon nyt, että tässä oli
+kysymys toisesta tai toisesta, hän ei ainakaan viitsi täällä kauvemmin
+istua!
+
+"Ja sen sanottuaan otti hän hattunsa naulasta ja meni.
+
+"Samoin tekivät muutkin, toinen toisensa perästä. Lars solahti ulos
+ovesta minuun katsomatta, mutta toisilla oli kullakin minulle jotain
+sanomista. Eivätkä ne suinkaan miellyttäviä asioita sanoneet, sillä
+kunkin heltta oli hiukan kuumunut kapakassa istuessa ja oli siinä
+sitten vähän vanhaa känääkin siitä, että minä sain hyvästi kaloja.
+Mutta kun minä en ollut siitä millänikään, niin istuin minä siinä ja
+myhähtelin koko asialle.
+
+"Viimeinen joka meni ulos, oli Björn — tavallisuuden mukaan. Tiina oli
+ensi alussa pitänyt tapanaan tulla häntä noutamaan, mutta siitä oli
+Björn tehnyt lopun. Sillä, sanoi hän, naisilla on _omat_ tehtävänsä ja
+miehillä _omansa,_ eivätkä ne saa sekoittaa niitä toisiinsa. Sillä hän
+on hyvä kalastaja ja kunnon perheenisä ja hän kyllä itse pitää huolen
+siitä, milloin hän menee kotiin, niin ett'ei talo tule siitä kärsimään.
+
+"Hän tuli nyt luokseni ja laski suuren nyrkkinsä niskalleni — mutta
+hyvin varovasti — ja sanoi: Kuule, Anders, mehän olemme vanhoja
+tuttuja, me molemmat; tunnusta nyt asia, niinkuin se on. Onko siinä
+mitään tuossa Cimbrianuksessa eli onko se vaan sinun kujeitasi? Minä en
+kerro siitä kenellekään!
+
+"Mutta minä vastasin, ett'en minä siitä mitään tiennyt.
+
+"Silloin otti hän nyrkkinsä pois ja meni ulos ovesta sen enempää
+kyselemättä. Kääntyihän vaan ovessa ja katsoi minuun.
+
+"Mutta minulla oli silmäni siellä, missä nenäni oli: lasissani. Ja
+sitten meni hän.
+
+"Kohta tein minäkin samoin.
+
+"Seuraavana päivänä odottelin minä Larsia venheelleni. Mutta hän ei
+tullut. Minä otin toisen miehen mukaani merelle ja tapahtui niin, että
+me saimme sinä päivänä verkkojen täydeltä silakoita. Kun palasimme
+kotiin, oli Lars ollut vaimoni luona ja sanonut itsensä irti yhtiöstä.
+
+"Antaa vaan sanoa! sanoin minä.
+
+"Kun tapasimme toisemme, niin hän vaan katsoa jyräsi minuun kulmainsa
+alta ja samoin tekivät vähitellen kaikki muutkin.
+
+"Annoin heidän jyrätä ja hoidin vaan toimiani. Mutta sitten tapahtui
+niin, että ruotsalaiset kävivät kovin lähenteleviksi ja tekivät meille
+kaikenlaista kiusaa ottamalla pois pyydyksiämme ja muullakin tavoin
+meitä häväisten.
+
+"Lopulta kehittyivät asiat niin pitkälle, että Björn, joka myöskin
+oli menettänyt pyydyksiä, suuttui silmittömäksi ja puhallutti miehet
+torvella kokoon, ja me tulimme kaikki ja seisoimme siinä ja väittelimme
+puoleen ja toiseen, mitä nyt olisi tehtävä.
+
+"Kuulia ja ruutia! sanoi Björn, sillä hän oli oikein vihainen.
+
+"Toiset arvelivat kuitenkin, ett'ei käynyt sillä tavoin, ja kun he
+kauvan olivat tarinoineet sinne ja tänne, niin pyysin minäkin vihdoin
+sananvuoroa:
+
+"Saattaisihan niitä rosvoja ampuakin, sanoin minä, mutta sitten
+joudumme me itse paljon pahempaan pulaan jälestä päin. Eikähän liene
+hyötyä linnassa istumisestakaan, kun on vaimo ja lapsia hoidettavana.
+Olisi paljoa parempi, jos saisimme tietää niiden nimet, jotka
+pyydyksiämme varastelevat, niin voisimme antaa heidät ilmi ja niin
+olisi meidän valituksillamme jotain varmaa pohjaa!
+
+"Voisitko sinä ehkä sanoa meille nimen? kysyi Povl Svendsen, ja iski
+silmää toisille.
+
+"Ehkä mä voisin! vastasin minä. Se, joka on varastanut pyydyksiämme, on
+nimeltään Ole Jönsson Liljedal ja asuu vastapäätä Maagelejessa!
+
+"Kaikki vetäytyivät he kolme askelta taapäin eikä kukaan virkkanut
+mitään.
+
+"Mitä hän sanoo? kysyi Björn ja pani kouransa korvan taa.
+
+"He kertoivat hänelle sanani, jonka jälkeen Björn katsoi merkitsevästi
+minuun ja kysyi:
+
+"Oletko varma asiasta?
+
+"Varma olen! vastasin minä.
+
+"Ja sitten menivät kaikki kokouksen pitäjät tiehensä. He eivät
+_uskaltaneet_ olla minua lähellä; ja siitä illasta alkaen pitivät he
+minua ilmeisenä noitana.
+
+"Se nyt oli muuten hyvin luonnollista noitumista. Sillä minä olin
+edellisenä päivänä löytänyt muutamia omista verkoistani, jotka selvästi
+oli leikattu poijusta irti veitsellä, ajelehtimassa kalamatalikolla
+ruotsalaisessa nuorassa, jonka kohossa oli rosvon nimi.
+
+"Mutta siitä en tietysti virkkanut muille mitään.
+
+"Asiassa ei saatu mitään aikaan. Björn sai kyllä kirjoituksen
+teetetyksi ja lähetti sen oikeusministerille, mutta liekö ollut
+oikein kartoitettu, koska emme siitä kuulleet hiiskahdustakaan. Vai
+olisiko ministeri sen hukannut taikka ei osannut hänen sihteerinsä
+lukea Björnin karhun käpäliä. Eihän siis voi moittia heitä siitä,
+että antoivat sen ajelehtia niinkuin ne verkotkin, joiden tähden oli
+valitettu.
+
+"Se vaan on varmaa, että nyt se heidän Cimbrianuksensa vasta oikein
+isoksi äityi. Ei kukaan tahtonut olla missään tekemisissä minun
+kanssani, ja kuitenkin kiertelivät he minun ympärilläni, ja jos
+sanon totuuden, niin alkoi minua jo suututtaa koko tämä hassu juttu.
+Sillä jos minä _nyt_ olisin väittänyt sen valheeksi ja pilanteoksi,
+niin eivät he olisi uskoneet minua, enkähän minä voinut sanoa sitä
+todeksikaan; sillä ei kai sitä nyt ole koskaan ollut semmoista kirjaa,
+enkä ainakaan _minä_ ole sitä nähnyt. Vai mitä _te_ siitä arvelette?"...
+
+Anders Andersen tarkasteli minua syrjäsilmällä, ollen puoleksi
+veitikkamainen, puoleksi välinpitämätön. Näytti minusta kuitenkin
+siltä, että hänen kasvonsa tällä kertaa olivat tavallista totisemmat ja
+teki hän minuun yleensä sen vaikutuksen kuin olisi hän ollut pulassa,
+tuo kunnon mies.
+
+Kuuluisuus saattaa välistä olla aika kiusallista laatua.
+
+En vastannut mitään, tein vaan merkin, että hän jatkaisi.
+
+Hän jatkoi, nähtävästi vähän pettyneenä siitä, ett'ei saanut apua:
+
+"Olin niinkuin sanoin, jo kyllästynyt tähän pilaan, mutta tuumasin
+kuitenkin: joka leikkiin rupee, se leikin kestäköön! ja minä luimistin
+korviani ja toimitin askareitani.
+
+"Sain kalaa siihen aikaan tavattoman hyvin, kun muilla oli kovin huono
+onni. Ja kaikkeen siihen oli tietysti syynä Cimbrianus.
+
+"Eräänä aamupäivänä, kun olin tullut maihin ja sillit olivat päästetyt
+verkoista ja naiset olivat ajaneet ne ostajan luo ja verkot oli pantu
+kuivamaan ja kaikki muut olivat menneet kotiinsa nukkumaan, — niin olin
+minä jäänyt vielä venheeni luo jotain askaroimaan.
+
+"Niin tulee siinä silloin Lars luokseni eikä katso minua silmiin, vaan
+sanoo:
+
+"Anders Andersen, ruvetaanko taas yhdessä kalastamaan?
+
+"Ei, Lars hyvä, sanon minä; venheessäni on nyt täydet miehet, eikä
+siinä ole sijaa useammille!
+
+"Eiköhän mahtaisi sentään vielä olla?
+
+"Ei ole! vastaan minä.
+
+"Tahdotko lainata minulle kirjasi? kysyy hän.
+
+"Minkä kirjan?
+
+"Kyllä sinä itse sen tiedät.
+
+"Ei ole minulla mitään muuta kirjaa kuin virsikirja ja allakka. Ne
+kyllä saat!
+
+"Lainaa minulle kirjasi vaan yhdeksi päiväksi.
+
+"Minkä kirjan?
+
+"Cimbrianuksen! kuiskaa hän ja katsoo minua suoraan silmiin.
+
+"Sinä olet narri, sanon minä ja käännän hänelle selkäni.
+
+"Vielä minä tämän muistan! sanoo hän sitten.
+
+"Hyvä on kun muistat! sanon minä ja jatkan työtäni.
+
+"Hetken kuluttua, kun ei ketään ollut näkyvissä, tulee vanha Kasper
+Kulleraemmer hiipien luokseni. Hän oli koko ajan ollut kaikista jyrkin
+minua kohtaan.
+
+"Päivää, Anders! sanoo hän.
+
+"Jumal' antakoon!
+
+"Olet saanut hyvästi silliä tänään.
+
+"Aina hiukan.
+
+"Niin, sinä hoidat hommasi, Anders, ja olet meitä kaikkia muita
+taitavampi kalastaja, olet kuin oletkin.
+
+"Minulla on uusi venhe, hyvät pyydykset, — paitse ne, jotka
+ruotsalainen varasti — ja taitavat apumiehet. Itse olen täsmällinen; se
+on se joka auttaa, ja kun Jumalakin puolestaan auttaa...
+
+"Jumala? sanoo Kasper ja siirtyy vielä lähemmä minua. Kuule, Anders,
+luuletko, että hänen apunsa aina riittää?
+
+"Niin sanoo pappi ja on se itsestäänkin luultavaa. Mitä tarkoitat?
+
+"En juuri mitään tarkoita. Tahtoisin vaan kysyä sinulta — mehän olemme
+vanhat tutut, me, eikähän pitäisi olla riitaa välillämme, koska siitä
+ei ole mitään vahinkoa sinulle eikä mitään hyötyä meille — KALASTAJIA
+etkö voisi lainata minulle kirjaasi, vaikkapa vaan muutamiksi päiviksi?
+
+"Mitä kirjaa?
+
+"Kyllä sen itse parhaiten tiedät!
+
+"Tiedän vaan, että te olette typeriä ihmisiä kaikki täällä, joille
+voi uskotella mitä hyvänsä. Mutta nyt täytyy teidän antaa minun olla
+rauhassa, eli minä suutun!
+
+"Paljoko tahdot, jos lainaat minulle kirjasi 8 päiväksi?
+
+"Tuhat tuhatta tuhoa saat, jos et lakkaa lörpöttelemästä. Ymmärrätkö?
+
+"Näytti kuin olisi hän jo ymmärtänyt, sillä hän meni tiehensä; mutta
+sitten tuli se ja sitten se ja nyt ovat he kiusanneet minua näinä
+päivinä niin, ett'en saa rauhaa missään. Ja ihmeellisintä on, että
+minä saan kaloja venheen täydeltä, kun eivät muut saa puolta nelikkoa.
+Niin ett'eihän heitä oikeastaan voi moittia siitä, että heidän päänsä
+on käynyt vähän pyörälle. Mutta hiidessä olisi saanut olla koko juttu;
+sillä joka kerta kuin me nyt menemme yöksi merelle ja minä istun
+perässä, niin ajattelen sitä ja tätä ja tuota kirjaa myös, että jos
+semmoinen todellakin olisi olemassa? Se on nyt semmoista vanhaa typerää
+juttua, josta akat ja vanhat kalastajat puhuvat, jotka eivät kykene
+muuhun kuin suutaan soittamaan. Ja sentähden uskottelin minä sen tuolle
+yksinkertaiselle Larsille. Mutta jos nyt sentään semmoinen kirja olisi
+olemassa...?"
+
+Anders Andersen keskeytti puheensa ja katseli minuun hyvin utelevasti.
+
+Minä nousin ylös ja kiitin häntä ja annoin hänelle sen selityksen, että
+mikäli tiesin oli semmoinen kirja olemassa ja että sitä ihmiset vanhaan
+aikaan hyvin halusivat omistaakseen; mutta voiko se nykyaikana auttaa
+ihmisiä kalansaaliissa, siitä en osannut ainakaan minä mitään sanoa,
+kun en itse ollut koettanut.
+
+Muuta selitystä ei hän saanut. Ja sitten kätki hän kasvojensa ilmeen
+niinkuin tapansa oli, niin ett'ei voinut nähdä, oliko hän tyytyväinen
+eli ei.
+
+Minä matkustin kaupunkiin muutamia päiviä sen jälkeen ja tulin
+sattumalta kulkeneeksi yhden noita pieniä puotia ohitse, joita
+on Kongens Hanven varrella ja joista sotamiehet ostavat pienet
+ostoksensa. Usein olin nuoruudessani seisoskellut noiden ikkunain
+ääressä ja lukenut niitä "viisuja", joita niiden sisään oli ripustettu
+ja joita luultavasti sotamiehetkin ostelivat — kun en minä itseäni
+lukuunottamatta tiennyt, kuka muukaan niitä ostaisi.
+
+Tapasin täällä paitse joukon uusia sekä iloisia että surullisia
+viisuja myöskin vanhat tuttavani "Unikirjan", "Ritari Pietarin ja
+kulta-avaimet", ja oikean _Cyprianuksen._
+
+Nimikirjaimet olivat painetut oikein silmäänpistävällä paksulla
+musteella; alkulehti oli muutoin punanen.
+
+Se sopii! ajattelin minä itsekseni muistaessani samalla ystäväni
+kalastajat. Pistin kirjan povitaskuuni ja palasin heidän kyläänsä. Näin
+jälleen kalastajani majat ja venheet, nuo hienosta, lentävästä hiedasta
+muodostuneet hietasärkät ja nuo tukevat, rauhalliset kalastajat.
+
+Tapasin Anders Andersenin. Lähdemmekö merelle kalaan iltapäivällä? Onko
+teillä aikaa? kysyin minä.
+
+Hän vastasi kohteliaasti niinkuin tapansa oli: Aina on minulla aikaa
+teitä varten.
+
+Lähdimme kalaan kahdenkesken.
+
+Hänellä oli oikein hyvä ja kaunis venhe. Tuuli oli raitis ja myötäinen
+eikä siinä ollut paljon huolehdittavaa, minä istuin perässä ja Anders
+istui tuulen puolella keskellä venhettä ja leikitteli muun työn
+puutteessa kantolastikivien kanssa.
+
+Se halkasee hyvin laineet, sanoin minä. Onko kukaan sitte jälkeenpäin
+kysellyt tuota "kirjaa"?
+
+Sitäkö tyhmää kirjaa? Minä jo luulin, että olitte sen unohtaneet!
+
+Ei, kyllä minä olen sen muistanut. Luulenpa, että kirjan voisi
+löytääkin, jos oikein tahtoisi.
+
+Hän katsoi minuun ja oli hyvin tervejärkisen ja epäuskoisen näköinen.
+
+Kuulkaahan nyt, elkäähän sentään minua narrinanne pitäkö, vaikka
+viimeksi puhuinkin vähän liikaa. Olen jo sanonut heille, miten
+asianlaita oli ja olen päässyt rauhaan — varsinkin kun sillitkin
+katosivat teidän mentyänne.
+
+Vai niin. Mutta _jos_ nyt semmoinen kirja kuitenkin olisi olemassa...!
+Tehän tiedätte, että on vaarallista laskea leikkiä sellaisten asiain
+kanssa?
+
+Anders Andersen vihelti eikä mitään vastannut.
+
+Pistin käteni povitaskuun ja ai'oin juuri ottaa esille tuon ostamani
+painetun vihkosen, mutta solahutinkin sen väljän takinhihani läpi
+kouraani.
+
+Minulla on vähän nälkä, sanoin minä. Tulee nälkä merellä; eikö teillä
+ehkä olisi pala leipää tai lasillinen olutta täällä perälaatikossa?
+
+Tehkää hyvin ja katsokaa itse. Avaatte vaan luukkua hiukan... ei siellä
+mitään herkkuja ole, mutta kun tyytynette vähään...!
+
+Mitä teillä on täällä laatikossa?
+
+Liekö vanhat sukkani. Ruoka on alla! Löytyykö?
+
+Jo löysin! Mutta täällä on jotain paperia...!
+
+Paperiako?
+
+Niin, kirja on!
+
+Kirja — laatikossako?
+
+Katsokaa itse — olkaa hyvä!
+
+Ojensin hänelle _Cyprianuksen._
+
+Hänen kasvonsa kävivät kalman kalpeiksi. Hän istui siinä kirja kädessä
+ja tuijotti kirjaimiin. Sitten pudotti hän sen ja katsoi vuoron minuun
+ja vuoron kirjaan.
+
+Mi-mitä tästä ajattelette?
+
+Mitäs itse ajattelette, Anders Andersen? — Me tuijotimme toisiamme
+silmiin. Sitten nousi hän.
+
+Te olette se kaikista suurin...!
+
+En voinut enää kauvemmin pidättää itseäni.
+
+Saatte pitää sen, kun sen kerran olen teidän takaanne löytänyt. Mutta
+sitä ette saa kertoa, että _minä_ löysin sen!
+
+Hän kumarsi kiitokseksi, pisti kirjan poveensa ja pani liivinsä
+tarkasti nappiin.
+
+Nyt tästä vasta kujeet syntyvät. Laskekaa vähän! Kas niin! Tuolta tulee
+lisää tuulta ja nythän meillä on se pirun taikakalu venheessä...
+
+Ja Anders Andersen nauroi ja minä nauroin mukana. Mutta yhtäkkiä kävi
+hän totiseksi ja kysyi:
+
+Oletteko varma asiastanne?
+
+Mistä?
+
+Ettei siinä ole mitään...
+
+No ei niin pienintäkään!
+
+
+
+
+Kovin kourin.
+
+
+Jens Svendsen oli — häpeä sanoa — parantumaton juoppo.
+
+Jens oli naimisissa Björnin ja Nielsin pikkuserkun kanssa.
+
+Hän kuului siis vaan osaksi perheesen, mutta luettiin kuitenkin
+sukulaiseksi Hannan vuoksi.
+
+Hanna oli hänen vaimonsa. Hän oli yhtä vähän kuin Tiinakaan
+sukupuolensa lempeimpiä. Mutta jos luonto oli kieltänytkin häneltä
+hellän mielen hyveet, oli se korvaukseksi varustanut hänet voimakkailla
+käsivarsilla ja terävillä silmillä, joita molempia hän käytti
+estääkseen perhettä aivan kokonaan vaipumasta kurjuuden kuiluun.
+
+Se kyllä olikin tarpeen. Jens oli niin usein "poissa" omalla tavallaan,
+kun muut miehet olivat poissa pyydyksillään.
+
+Muuten oli hän kyllä niinkuin niin monet muut märkätaiteilijat siivo ja
+hyväluontoinen heikkoinakin hetkinään.
+
+Lapsistaan — hänellä oli kaksi poikaa ja yksi tyttö — näkyi hänellä
+olevan hyvin hämärä käsitys. Välistä kun hän tuli syrjäkaria niinkuin
+krapu hamuillen kalastajakylän katulankkuja pitkin, saattoi hän
+seisahtua, nostaa raskaat silmäkulmansa ylös ilmaan, koettaen saada
+niiden näköpiirissä pysyttää edes jotain niistä monista esineistä,
+jotka aaltoilivat hänen ohitsensa niinkuin vaaleaan sumuun kiedottuina.
+
+Ne olivat tavallisesti nuo esineet kalastajani valko- ja keltatukkaisia
+lapsia.
+
+Prrr! sanoi hän ja ojensi etusormensa heitä kohden, ikäänkuin olisi
+tahtonut kirjoittaa kuvioita ja kirjaimia eteensä ilmaan.
+
+He pysähtyivät, nauraa virnistelivät hänelle tai piiloutuivat
+peloissaan toistensa selän taa — aina sen mukaan, minkä ikäisiä ja
+kokoisia olivat.
+
+Onko se — onko se Sivert?
+
+E-e!
+
+Onko se — Jakob?
+
+Ei vastausta.
+
+Onko se ehkä Johanna?
+
+Ei vastausta, ja sitten huudetaan: E-eei!
+
+Hän näkyi rauhoittuneen. Ne olivat nuo hänen kolme lastaan. Hänen oli
+aina vähän vaikea muistaa nimiä. Saatuaan nuo kieltävät vastaukset,
+tunsi hän omantuntonsa rauhoitetuksi siksi päiväksi.
+
+Jos hän sitävastoin sai myöntävät vastaukset, laski hän ensin alas
+etusormensa ja asetti sen sitten päätään pudistaen nenälleen.
+
+Vähän aikaa tässä asemassa mietittyään lausui hän hitaasti ja pannen
+painoa kullekin sanalle:
+
+Niinpä — saatte — sitten — mennä — kotiin — lapset!
+
+Hänellä oli rauha kaikkien ihmisten kanssa, paitsi yhden. Oli yksi
+ihminen, jota hän pelkäsi. Se oli tietysti hänen vaimonsa.
+
+Hän oli lakannut miettimästä, kuinka suurella tai pienellä syyllä hän
+häntä pelkäsi, ja kuinka suurta vääryyttä hän teki vaimoaan vastaan.
+Välistä sai joku sukulaisista, välistä hänen vaimonsakin hänet
+kohentumaan, jopa merellekin lähtemään. Mutta hänen omantuntonsa vaivat
+olivat tuollaisen retken jälkeen niin suuret ja hänen kokemuksensa
+maailmasta ja ihmisistä niin uudet ja oudot, että hän pelästyksissään
+sukelsi siihen unhotuksen viinavirtaan, jossa hän oli tottunut niin
+suurella taidolla pulikoimaan.
+
+Hänellä oli kaksi hyvää ystävää.
+
+Toinen niistä oli hänen lankonsa Martin soittoniekka.
+
+Martin soittoniekka oli tietysti saanut nimensä siitä, ett'ei hän
+koskaan soittanut eikä ollut edes ajatellutkaan ruveta soittokonetta
+käsittelemään. Hänen isoisänsä sitävastoin oli — jos saa uskoa mitä
+kerrottiin — nuoruudessaan soitellut tanssimusiikkia juhlatiloissa ja
+siitä saakka oli nimi kulkenut perheessä ikuisena perintönä.
+
+Martin ei siis soittanut. Me voimme lisätä, ett'ei hän tehnyt mitään
+muutakaan.
+
+Hän ei tupakoinut, ei nauttinut väkeviä, ei kiroillut eikä riidellyt
+akkansa kanssa. Hänellä ei ollut mitään noista tavallisista kalastajain
+heikkouksista, mutta vastapainoksi ei hän myöskään kalastanut.
+
+Hän oli ehkä hiukan "pyhä". Se ei kuitenkaan tullut näkyviin millään
+silmäänpistävällä, tai hänen ympäristöään loukkaavalla tavalla.
+Syystä tai toisesta oli hän luopunut useimmista tämän pahan maailman
+heikkouksista, ja palkkioksi siitä oli hän vapauttanut itsensä kaikista
+tämän maailman askareista.
+
+Luultavasti "valmistautui hän" — niinkuin Björn arveli — "käymään sitä
+utakammin työhön kiinni kerran toiseen maailmaan päästyään!"
+
+Jos Fiskebaekin kalastajat olisivat osanneet oppineiden sanoja käyttää,
+olisivat he ehkä kutsuneet häntä filosoofiksi.
+
+Hän mietiskeli asiain menoa, mutta ei ottanut osaa niiden kulkuun.
+
+Hän ei oikeastaan koskaan lausunut mitään tuomiota mistään asiasta
+ei ainakaan mitään ennenaikaista tai ankaraa. Se henkinen ilmapiiri,
+jossa eli, oli niin kaukana ja korkealla, ja hänen mukavuuden vaistonsa
+niin kehittynyt, ett'ei hän koskaan laskeutunut kulkemaan sitä pitkää
+taivalta, joka erotti hänen oman kantansa muiden kannasta. Samoin
+kuin eräs toinen muinaisajan filosoofi, jätti hän vaimonsa huoleksi
+perheensä ylläpidon, ja niin kerrottiin, että hän samoin kuin tuo
+toinenkin suuri mies tuhkataajaan sai kuulla siitä pahoja sanoja
+vähemmän jalo-aatteiselta vaimoltaan.
+
+Tämä mies oli Jens Svendsenin toinen ystävä.
+
+Toinen oli hänen koiransa "Peto".
+
+Jensillä oli näet koira, villakoira, joka muisti kerran olleensa
+valkoinenkin ja pitkäkorvainen.
+
+Mutta kauvan, kauvan sitten oli sen karva ollut niin väittelyn alainen,
+ett'ei nyt enää maksanut vaivaa karvasta puhuakaan.
+
+Samalla olivat ajanhammas ja oma paha tapa hieroa niitä lankkuihin
+ja kieritellä niitä hiekassa kuluttaneet sen korvanlehtiä niin, että
+koiraa ensi näkemässä saattoi luulla piskiksi.
+
+Mutta tarkkaan katsottuna oli se kuitenkin villakoira ja omisti
+kaikki tämän rodun hyvät ominaisuudet. Sen äly oli uskomattomiin asti
+kehittynyt; iloisuus oli vaan kadonnut, ja kun se välistä viehättyi
+lasten kanssa telmimään, katui se sitä hetikohta; ne olot, joissa se
+eli ja vaikutti, olivat niin totiset, ett'ei mitään kevytmielisyyttä
+saattanut puolustaa.
+
+"Peto" oli tavattoman älykäs ja tavattoman kehittynyt koira.
+
+Jens oli kerran saanut sen eräästä laivasta. Se oli tapahtunut
+hänen "parempien" päiviensä aikana, jolloin hän kävi hiukan kauppaa
+ohikulkevien laivain kanssa. Oli hierottu kauppaa eräästä köydenpäästä,
+mutta ei oltu päästy oikein hinnoilla sopimaan. Jensin mielestä oli
+köydenpää liika pieni ja viina-annos — jonka hän siitä oli suorittanut
+— liika suuri.
+
+Silloin nakkasivat he koiran hänen venheesensä hinnan tasoittamiseksi.
+
+Se oli tapahtunut koiran valkosien päivien aikana. Koira oli silloin
+vielä melkein penikka, mutta osoitti jo erinomaisia älyn merkkejä,
+ja minkä se niin loistavasti alussa lupasi, sen se sittemmin vuosi
+vuodelta täytti.
+
+Se oli kasvanut yhdessä lasten kanssa ja suvaitsi heidän tehdä
+itselleen melkein mitä hyvänsä. Hannaa se ei sitävastoin voinut sietää,
+mutta osasi kuitenkin hillitä tunteensa häntäkin kohtaan.
+
+Kohta tulopäivänä oli Hanna tervehtinyt häntä kenkänsä kärellä ja
+huutanut:
+
+Pitääkö meidän vielä tuo petokin elättää?
+
+Koira oli siitä vähän hölmistynyt ja ryöminyt piiloon siksi päiväksi.
+Mutta yöllä oli se hiipinyt esiin, nuuskinut kengän käsiinsä ja
+jyrsinyt sen pohjattomaksi.
+
+Siitä alkaen ruvettiin sitä "Pedoksi" kutsumaan.
+
+Vanhin poika, joka siihen aikaan juuri opetteli puhumaan, oli sen siksi
+ristinyt ja nimi tarttui.
+
+Koiralle itselleen lienee yhdentekevää, mikä nimi sillä on. Varmuudella
+sitä tietysti ei voi väittää, mutta hyvin luultavaa se on. Välittämättä
+nimensä epäedullisesta merkityksestä kantoi "Peto" sitä uskollisena
+isännälleen ja hyväntahtoisena lapsille, ollen alituisella sotajalalla
+Hannan kanssa ja osoittaen mitä täydellisintä välinpitämättömyyttä
+kaikkia vieraita kohtaan.
+
+Sitä mukaa kuin olot tuolla kotona kävivät kurjemmiksi, liittyi koira
+yhä lähemmin ja lopulta aivan kokonaan isäntäänsä.
+
+Se seurasi häntä kapakkaan, mutta ei astunut koskaan ovesta sisään.
+
+Niin kauvan kuin isäntänsä oli sisällä, asteli se edestakaisin
+takapihalla, joka oli rannanpuolella. Se tervehti — mutta vaan näön
+vuoksi — ravintolanpitäjän kahlekoiraa, juoksi sitten rantatöyräälle,
+jossa hieroi korviaan maalle ajautuneihin merikaisloihin, vetäsi pari
+kertaa sieramiinsa raitista meri-ilmaa, pyörähti muutamia kertoja
+häntänsä ympäri ja paneutui sitten kääröön oven eteen.
+
+Jos kuka pyrki sisään tai ulos, täytyi hänen kiivetä koiran yli. "Peto"
+ei liikahtanut paikaltaan, ennenkun ovi aukeni ja sen oma isäntä
+kompuroi ulos.
+
+Silloin seisoi koira kohta pystyssä valmiina seuraamaan mukana.
+
+Se teki uudelleen kaikki isäntänsä kiertomatkat ja joka ei tuntenut
+"Petoa" entuudestaan, hän saattoi luulla hänestä mitä pahaa hyvänsä.
+
+Kun Björn kohtasi nuo toverukset tällaisella kävelyllä, vihelsi hän
+tavallisesti koiralle; mutta vaikka Björn olikin ainoa vieras, jolle
+koira osoitti jotain huomiota, niin oli se kuitenkin surullisesta
+velvollisuudestaan siksi selvillä antaakseen minkään vihellyksen
+houkutella itseään ainoatakaan askelta totutulta ladultaan, eivätkä
+siinä olisi kaiken maailman luupalatkaan mitään vaikuttaneet.
+
+Se on ihmeellinen koira vanavedessä kulkemaan, vaikka Jens, se sika,
+kovin mutkitteleekin! tuumaili Björn mietteissään.
+
+Ja Björn seisoi ja katseli hetken aikaa koiran ja isäntänsä jälkeen.
+
+"Peto" tallusteli Jensin askelissa häntä ja korvat surumielisesti
+riipuksissa ja silloin tällöin vähän päätään pudistellen. Kun tämä
+liiaksi kallistelihe uhaten kaatuakseen, hypähti se syrjään ja haukahti
+lyhyesti ja ojentavasti: Vov!
+
+Se auttoi melkein aina.
+
+Jens kokosi viimeiset voimansa, sai taas kiinni häilyvästä
+tasapainostaan ja loi raskaan, laimean katseen seuraajaansa.
+
+Kiitos!
+
+Siitä kulkivat he sitten eteenpäin siksi, kunnes Jens ajoi lankkuun
+kiinni.
+
+"Peto" siirtyi silloin keskelle tietä, etsi syvimmän kärrynjälen, pisti
+häntänsä siihen, jäykisti etujalkansa ja jäi odottamaan.
+
+Björn seisoi, kun sattui olemaan joutilasta aikaa, välistä pitkät ajat
+lähimmän nurkan takana ja katseli tuota omituista näytelmää.
+
+Kun Jens taas alkoi irtautua lankusta, niin tapahtui tuon tuostakin,
+että tasapainolaki lakkasi häntä suojelemasta.
+
+Lankku jäi pystyyn, mutta Jens kaatui.
+
+Siinä sitä nyt oltiin. "Peto" hypähti taas jaloilleen, läheni
+varovasti, nuuski karvoja, pisti hännän hiekkaan, ulvahti vähän ja
+asettui jalat harrallaan parin kyynärän päähän toveristaan.
+
+Mutta vähitellen alkoi "Pedon" pää painua maata vasten; sen punaset
+silmät tuijottivat säälien onnettomaan, mutta samalla oli niissä vihaa,
+niinkuin olisi hän tahtonut sanoa:
+
+Hyi saakeli, sitä kirottua viinaa!
+
+Vaan kun ei mikään muu näkynyt auttavan, juoksi hän säännöllisesti joka
+kerta Martin soittoniekan luo apua hakemaan.
+
+Se kyllä tiesi tapaavansa hänet aina kotona.
+
+Kun koira tuli yksin ja hätäisen näköisenä, tiesi Martin heti, millä
+asioilla se kulki.
+
+Martin soittoniekka astui kohta ulos. Olipa sade tai pouta, kesä tai
+talvi, aina oli Martin samalla tavalla puettu. Hänellä oli päässään
+nahkanen sadelakki, joka alituisesta tervaamisesta oli käynyt niin
+kovalle kuorelle, että se oli kuin laava tulivuoren laella. Hänen
+ruskeanpunainen villaröijynsä olisi ollut kallisarvoinen lahja johonkin
+kansantieteelliseen museoon — jos näet vaate olisi kestänyt matkan
+vaivoja. Hänen purjekangas-kengistään oli vaan yksi mielipide koko
+kylässä, se näet, että niiden kunnossapitämiseen kului vuosittain
+enemmän purjerihmaa kuin koko kylän muihin tarpeisiin.
+
+Tässä puvussa seurasi hän koiraa ja on se pidettävä todistuksena
+"Pedon" erinomaisesta älystä, ett'ei se tuota kummitusta pelästynyt.
+
+Koira juoksi edellä ja käännähti vähä vähä jälelleen katsoakseen,
+tuliko toinen perästä.
+
+Martin ei koskaan pitänyt kiirettä. Oikea filosoofi toimii kaikissa
+oloissa tyynesti. Sitäpaitse tiesi hän kokemuksesta, ett'ei häntä tällä
+kertaa jätettäisi.
+
+Tuli siitä soittoniekka sitten siihen, missä Jens makasi.
+
+"Peto" asettautui ääreen ja alkoi ulvoa, tahtoen sanoa:
+
+Nyt olen minä tehnyt tehtäväni; ole nyt hyvä ja tee sinä vuorostasi.
+
+Ja Martin soittoniekka kävi käsiksi tehtäväänsä.
+
+Hän istuutui lankkua kannattavan pölkyn päähän, otti lakin päästään,
+pyyhki hihallaan harmaantunutta tukkaansa, tarkasteli laavakuoren monia
+halkeamia ja puheli sitä tehdessään näin:
+
+Siinä sinä nyt olet, Jens!
+
+Ei vastausta.
+
+Tulet kapakasta, Jens!
+
+Ei vastausta.
+
+Saisit jo heretä ryyppäämästä, Jens.
+
+"Peto" ulvahti.
+
+Kuuletko, Jens; koirakin, vaikka on järjetön eläin, on yhtä mieltä
+kanssani. Hä! Ja kun koiralla on niin paljon älyä, pitäisi sinullakin
+olla älyä luopua viinasta, hä?
+
+Jens soperteli jotain semmoista kuin että pitäisi taas päästä
+jaloilleen.
+
+Mutta Martin ei liikahtanut paikaltaan.
+
+Mitäpä se sinua auttanee, Jens? Vaikka nyt tänään nostankin sinut
+jaloillesi, niin kaadut taas huomenna. Sanonko sinulle, Jens, mikä sinä
+olet? Jens, sinä olet sika!
+
+Koira ulvoi hyväksyvästi.
+
+Makaava sopersi taas jotain; se oli kysymys, joka päättyi sanaan
+"Hanna".
+
+Martin asetti lakin päähänsä ja nousi ylös.
+
+Ei, hän ei ole kotona nyt; koettakaamme siis päästä pois ja tulla
+kotiin ja nukkua itsemme selväksi, ennenkun hän tulee takasin!
+
+Siinä oli arka asia, jonka filosoofikin käsitti. Häntä itseäänkin
+haukuttiin, vaikk'ei hän juonut; toista peitottiin, mutta hänpä joikin.
+Mutta syystä tai syyttä, heitä yhdisti yhteinen onnettomuus. Ja niin
+auttoi filosoofl juomarin jaloilleen ja antoi hänelle häntä kotiin
+saattaessaan ja koiran edellä juostessa kaikenlaisia nuhteita ja hyviä
+neuvoja tyynellä ja siivolla tavallaan.
+
+Nuhteita ja neuvoja; eivät ne kuitenkaan mitään auttaneet.
+
+Oli kerran kesäinen yö. Muutamat kylpyvieraista olivat panneet
+toimeen pienet kemut ravintolassa reippaimpien kalastajien iloksi.
+Oli erottu iloisina ja tyytyväisinä. Meri oli tyven ja hopeansininen
+ja itäisen taivaan hattarat loistelivat yhä kirkkaampina. Venheet ja
+muut lähempänä olevat esineet kuvastuivat tummansinisinä taivaanrantaa
+vasten.
+
+Kaikki olivat vaiti.
+
+Silloin sanoi Björn, että se oikeastaan on omituista; kun tavallisina
+päivinä tulee tähän aikaan aamusta rantaan ja laittelee kapineitaan
+venheesen, niin ei tule ollenkaan huomiolle panneeksi, kuinka kaunista
+se kaikki tämä on. Mutta kun on vieraita ihmisiä mukana, ja kun ei ole
+mitään tekemistä verkkojen ja pyydyksien kanssa, niin on se ikäänkuin —
+ikäänkuin...
+
+Ikäänkuin lukisi piplian historiaa! jatkoi Povl Svendsen.
+
+Niin, jotain sentapaista! arveli Björn.
+
+Seisottiin taas vähän aikaa äänettöminä, ja sitten tehtiin jo eroa, kun
+rantahiekalla huomattiin joku makaamassa.
+
+Se on Jens Svendsen! huudettiin.
+
+Kokoonnuttiin hänen ympärilleen ja pudisteltiin häntä.
+
+Hän ei liikahtanutkaan.
+
+Onko mies kuollut? arveli muuan kylpyvieraista, jota alkoi viluttaa
+kylmässä aamu-ilmassa.
+
+Ei se pakana niin helposti kuole! vastasi Björn ja vyöräytti hänet
+kylelleen.
+
+Pullo putosi Jensin povesta.
+
+Björn otti pullon ja tarkasteli sitä ilmaa vasten.
+
+Se on tyhjä.
+
+Jensin läheisemmät ja etäisemmät sukulaiset seisoivat ympärillä ja
+pitivät neuvottelua. Ei siinä paljoa puhuttu; nuo ihmiset surkuttelivat
+Hannaa, että sen piti elättää tuollaista kelvotonta; toisekseen on
+juoppous merimiesten ja merenrantalaisten mielestä asia, joka — niin,
+se annetaan osaksi anteeksi, kun siinä on niin monta hullunkurista
+puolta; ja merimies rakastaa leikkiä.
+
+Vaan toisekseen: "tämä on jo laidatonta", niinkuin Björn sanoi. Jos tuo
+elämä saisi vain jatkua, niin joutuisi perhe sukulaisten niskoille ja
+Jens köyhäin kotiin. Pitäjähän se oikeastaan saisi maksaa; mutta perhe
+saisi _häpeän,_ — ja Björnit olivat arkoja arvostaan.
+
+Eikö sille voisi antaa kylpyä, joka kerrankin tepsisi? ehdotteli muuan.
+
+Miehet kohottivat epäillen olkapäitään, mutta kun tehtiin varma
+ehdotus, niin se hyväksyttiin.
+
+Asia alkoi pilaa tehden, mutta kun mielet keskustellessa nyt kerran
+olivat tulleet liikkeesen, niin ryhdyttiin täydellä todella toimeen
+panemaan ehdotusta.
+
+Tuo sikahumalassa oleva mies riisuttiin ja hänen päällensä vedettiin
+pitkä yöpaita, jonka eräs kylpyvieraista luovutti tähän tarkoitukseen
+käytettäväksi.
+
+Pullo pistettiin hänen rinnan päälle ristiin pantujen käsien väliin.
+
+Kestikievarin isäntä antoi tuoda pitkän puutarhapenkin ja Jens Svendsen
+vieritettiin penkille.
+
+Sitten nostettiin hänet sukulaisten voimakkaille olkapäille ja
+kannettiin — kuolon hiljaisuuden vallitessa — nukkuvan kalastajakylän
+läpi.
+
+Kestikievarin isäntä ja eräs nuori ylioppilas kulkivat edellä
+kukin lyhtyineen. Kylpyvieraat ja kalastajat olivat saattoväkenä;
+ja sarastava aamu valaisi hämärällä, aavemaisella valollaan tuota
+kammottavaa ja samalla hullunkurista ilveilyä.
+
+"Mutta missä on koira?" oli Björn kysynyt.
+
+Kaikki kummastelivat, ettei se ollut saapuvilla. Eihän se tavallisesti
+koskaan pettänyt, olipa yö eli päivä.
+
+Mutta kun pysähdyttiin sen majan eteen, missä Jens ja Hanna asuivat,
+kuului sieltä heikkoa vikinää ja pidätettyä murinaa.
+
+"Peto" oli sulettu huoneesen.
+
+Pantiin paari punaseksi maalatun oven eteen ja yksi kantajista alkoi
+soittaa harmonikalla: "En tiedä, koska loppuni tulee".
+
+Koiran vikinä muuttui ulvonnaksi ja se raapi ovea sisästäpäin.
+
+Kantajat ja saattoväki vetäytyivät vähän syrjempään, ainoastaan
+soitteleva Povl Svendsen jäi istumaan lähimmän lankkupölkyn nenään
+virttään soittamaan.
+
+Lankkujen ja aitojen päältä tarkastelivat muut punaseksi maalattua ovea.
+
+Silloin kuului sisältä Hannan ääni.
+
+Pidätkö suusi, kirottu Peto!
+
+Koira lakkasi ulvomasta. Kohta aukeni ovi ja paljas, voimakas käsivarsi
+heitti hänet pihalle.
+
+Heitto oli niin voimakas, että koira lensi suoraan yöpaidassa lepäävän
+miehen rinnan päälle.
+
+"Peto" kohosi taas jaloilleen, tuijotti hetken aikaa allaan olevaan
+ruumiisen, hyppäsi sitten maahan, ja alkoi kamalasti ulvoen juosta
+edestakaisin tuvan edustalla, niinkuin yhtäkkiä olisi saanut
+raivotaudin.
+
+Vähitellen rauhoittui se, lähestyi paaria, nuuski penkkiä, kohosi
+takajaloilleen, nuuski makaavaa ja puhkesi viimein kovaan,
+läpitunkevaan ulinaan.
+
+Sen voisi ehkä tulkita näin:
+
+Minä en nyt mitenkään pääse tästä selville. Sen kyllä huomaan, että hän
+ei ole kuollut. Mutta tulkaa ainakin minua auttamaan — sama se, vaikka
+saankin jälestäpäin selkääni!
+
+Harmonikan soittaja oli vetäynyt syrjään ja seisoi nyt hänkin aidan
+takana muiden kanssa.
+
+Silloin aukeni ovi, Hanna tuli ulos lyhythihainen paita päällään,
+käsivarret paljaina, lyhyt säkkikankaasta tehty hame lanteilla, jalassa
+mustat villasukat ja puukengät; kädessä oli hänellä pesinkarttu.
+
+Oletko se sinä, sen...? huusi hän eikä malttanut katsoa eteensä, vaan
+seisoi siinä käsi ojona niinkuin loukatun kotilieden kostonhimoinen
+hengetär valmiina lukemaan tuomiotaan onnettoman yli.
+
+Voi, Herra Jumala varjelkoon!
+
+Karttu putosi hänen kädestään ja sanatonna tuijotti hän eteensä.
+
+Aamuhämärän epäselvässä valossa, jota täällä huoneiden välissä oli
+vielä niukemmalta, makasi mies siinä — ruumisvaatteissa, kalpeana ja
+liikkumatonna.
+
+Vaikeroiden vaipui hän penkille vainajan viereen.
+
+Ei huomannut hän nuoria, ei pulloakaan.
+
+Hän oli kuollut, hukkunut, yli ajettu...
+
+Hän oli rakastanut Jenssiä, kun tämä oli nuori ja reipas kalastaja.
+Välillä oleva aika kaikkine seikkoineen oli yhtäkkiä kadonnut. Hän oli
+kerran rakastanut häntä, nyt oli hän kuollut.
+
+Hanna vaikeroi:
+
+Jens, oma Jenssini! Etkö voi nyt mitään virkkaa? Mitä on sinulle
+tapahtunut? — Tule, pikku koiraseni, tule! Voi, hyvä Jumala, hän on
+kuollut; ja lapset, ne onnettomat!
+
+Hän ei ollenkaan tullut ajatelleeksi, että lapset varmaankin olisivat
+onnettomammat semmoisen isän _kanssa_ kuin _ilman._ Hän kutsui koiraa;
+hän tahtoi tällä hetkellä osoittaa hellyyttään jollekin. Mutta koiralla
+oli hyvä muisti; se siirtyi yhä ulomma sinne päin, missä Povl Svendsen
+oli kätkeytynyt lankun varjoon.
+
+Povl Svendsen oli iloinen veitikka. Hän ei voinut kauvemmin pidättää
+itseään. Harmonikkaansa äännähyttäen hätisti hän koiraa luotaan ja
+silloin huomasi hänet Hanna.
+
+Hän hyppäsi pystyyn. Nyt selvisi hänelle yhtäkkiä kaikki. Nyt huomasi
+hän puutarhan penkin ja nuorat ja — pullon.
+
+Jens makasi ja horisi jotain hampaittensa välissä.
+
+- Odotahan sinä! huusi Hanna, syöksi sisään ovesta ja palasi sieltä
+likavesikorvon kanssa, jonka sisällyksen hän tyhjensi autuaasti kuolon
+uneen nukkuneen silmille.
+
+Kuollut ulahti, kiskoi nuoriaan ja alkoi anoa armoa.
+
+Vastustamaton naurun rähäkkä remahti lankulta ja aidoilta.
+
+Hanna katseli ympärilleen ensin säikähdyksissään, sitten kostoa tuhkien.
+
+Vai armoa sinulle, vai armoa! Ei, selkääsi saat — ja selkäänsä pitäisi
+saada kaikkien niiden konnien, jotka pitävät onnetonta vaimoparkaa
+pilkkanaan. Tuossa saat ruumispaidastasi ja tuossa saat pullostasi, sen
+hylkiö! Ulvo mitä ulvot! Ulvo mitä ulvot!
+
+Hän oli tarttunut äsken pois heittämäänsä karttuun ja nyt sai penkkiin
+köytetty raukka varmalla, mutta säälimättömällä kädellä selkäänsä niin,
+että luut ruski.
+
+Koira, joka nyt huomasi toden tulleen, hääri ympärillä hameesen
+tarttuakseen, mutta sai muutamia niin tuntuvia iskuja turpaansa, että
+ulisten peräytyi.
+
+Jens sai selkäänsä kuin puimakoneesta. Hän kiljui, repi nuoria ja
+rukoili armoa. Mutta yhä sakeammin satoi iskuja ja miesten täytyi
+viimein juosta hätään ja ajaa kostonhimoinen aviopuoliso väkisin
+tiehensä ja telketä ovi hänen jälkeensä.
+
+Nuorat päästeltiin irti ja Jens nousi istumaan penkille. Pullo oli
+vierähtänyt hiekkaan. Käsiin, kasvoihin, rintaan ja jalkoihin olivat
+iskut sattuneet. Hän tekeytyi kovin kurjaksi ja tarkasteli verisiä
+sormiaan ja turvonneita jäseniään.
+
+Björn kävi häntä puhuttelemaan.
+
+Pidä suusi, Jens, ja kiitä Jumalaasi, jos tämä löyly on ollut hyväksi.
+_Niin_ perinpohjaisesti et vielä varmaankaan ole ennen saanut takkiisi
+ja ell'ei _tämä_ nyt auta, niin taitaa olla parasta, että hiivaamme
+sinut mereen heti paikalla.
+
+Se olisi oikein sinulle! vahvistivat kaikki muutkin.
+
+Jens töllisteli ympärilleen. Viina oli melkein kokonaan haihtunut
+peitottaessa. Hölmistyksissään, pahasti piestynä, läpimärkänä ja
+polttavista kivuista huolimatta vilusta väristen tunsi hän kenties
+ensi kerran elämässään, mikä nöyryytys on miehelle saada ruumiillista
+kuritusta naiselta vieraiden ihmisten läsnä ollessa.
+
+Kaikellaisia monimutkaisia ajatuksia kipenöitsi ilmoille noista ennen
+niin unteloista, raukeista silmistä. Hän katseli toisesta toiseen. Ne
+nauroivat ja vetäytyivät kujeillen takaisin ikäänkuin olisivat häntä
+pelänneet. Hän ymmärsi ivan; hän kumartui maahan, tarttui pulloa
+kaulaan, ja raivoten kivuista ja nöyryytyksestä, ja uskaltamatta käydä
+_ihmisten_ kimppuun, musersi hän pullon koiran otsaa vasten, kun tämä
+häntäänsä heilutellen häntä lähestyi.
+
+Koira lyykähti kokoon, ojensi jalkansa, potki vähän eikä sitten enää
+liikahtanut.
+
+Se olisi saanut olla tekemättä! virkkoi Björn.
+
+Jens tuijotti koiraansa. Sitten parkasi hän pahasti ja iski nyrkit
+silmiinsä.
+
+Voi minua kurjaa, voi minua kurjaa!
+
+Kaikki vetäytyivät äänettöminä syrjään ja jättivät hänet yöpaita yllään
+istumaan penkille murhatun ystävänsä viereen.
+
+He kuulivat kauvas hänen itkunsa.
+
+Antaa hänen olla! sanoi Björn. Ei haitanne, jos vähän saa miettiä.
+Siitä on kauvan, kun hän on sitä tehnyt!
+
+Hetken kuluttua nähtiin Martin Soittoniekka, jonka ohikulkevat olivat
+herättäneet, astuvan ulos ovestaan tyynenä ja rauhallisena kantaen
+käsissään muutamia kestikievarin isännältä saatuja vaatekappaleita.
+
+Aamuauringon kellertävässä valossa puki hän ne Jens Svendsenin päälle.
+Ja sitten kantoivat he koiran Soittoniekan luo.
+
+Seuraavana päivänä levisi se huhu kylässä, että Martin Soittoniekka
+ja Jens Svendsen olivat lähteneet yhdessä merelle kalaan. Ei kukaan
+tahtonut uskoa tarua todeksi, mutta tosi se oli.
+
+Yhtä totta oli sekin, että Jens seuraavana päivänä lähti yksin kalaan.
+Filosoofi pysyi periaatteelleen uskollisena, mutta Jens oli saanut
+uusia periaatteita; ja _niille_ pysyi hän uskollisena.
+
+Jens kalasteli eikä turhia puhunut. Soittoniekka pysyi maissa
+miettien ja tuumiskellen. He olivat molemmat yhdessä perustaneet
+"raittiusseuran." Se oli ainoa niillä tienoin.
+
+
+
+
+Meren hylky.
+
+
+Juuri niin — onko teillä tupakkaa? — juuri niin kuin sanon, niin se
+tapahtui. Kuka hän oli, oliko saksalainen vai englantilainen, vai oliko
+ehkä hollantilainen, sitä en voi sanoa; sillä puhua ei hän osannut, ei
+ainakaan mikäli minä tiedän.
+
+— Tupa oli tavallisuuden mukaan väkeä täynnä, jotka kaikki olivat
+äänessä yht'aikaa.
+
+Mutta kun Ole Yvesen alotti, niin lakkasivat muut, ja joku kysyi:
+
+Mitä se oli, Ole?
+
+Olisit kuunnellut, niin nyt tietäisit. Mutta onko sinulla tupakkaa
+kukkarossasi?
+
+Saas tästä!
+
+Ole sai kukkaron ja täytti piippunsa. Sitten alkoi hän alusta.
+
+Puhuin siitä meren hylystä. Siitä on, näetkö, monta vuotta jo kulunut,
+ainakin kolmekymmentä, ja siihen aikaan oli meren pohja turskia täynnä.
+Nyt saattaa vetää kaksi, kolmesataa syltää eikä saa päätäkään. Mutta
+silloin oli meren pohja turskia täynnä. Olin kalassa Jens Spiltin ja
+Hans Nedenernin kanssa, sen, joka sitten hukkui Ameriikan matkalla.
+Jens ja minä seisoimme perässä ja vedimme siimaa venheesen ja Hans
+istui keskellä venettä airoissa. Olimme jo saaneet useita kymmeniä
+turskia, kun siima yht'äkkiä tarttuu kiinni eikä nouse.
+
+Ka, vedä, vedä! sanon minä.
+
+Se on raskas, sanoi Jens. Mitä se mahtanee olla?
+
+Vedä vaan, sanon minä, niin saat tietää.
+
+Hän vetää ja minä laittelen vasua, johon koukut pannaan, sillä minä
+luulin, että sieltä nyt nousee hyvin suuri turska.
+
+Semmoinen turilas! sanoo Jens, joka oli totellut ja vetänyt.
+
+Käännän päätäni ja katson veteen.
+
+Ensin nousee sieltä käsi, sitten rinta ja vähän parrakasta leukaa.
+Mutta sitten pullahtavat rinta ja parta piiloon, sillä toinen koukku
+oli tarttunut vähän alemma housun kaulukseen ja sitten kolahtaa kengän
+korko venheen laitaan.
+
+Minne se nyt hävisi? huutaa Jens, joka oli hellittänyt nuoraa.
+
+Minä käskin taas vetämään. Ja sitten nousee se toisen kerran pitkänä ja
+kankeana ja seisoo melkein pystyssä.
+
+Päästä menemään! huusi Hans.
+
+Päästänkö? kysyi Jens.
+
+Tarkastelen ruumista ja tarkastelen venhettä ja sanon sitten:
+
+Onhan tuo kuitenkin ihminen!
+
+No, me vedämme siis nuorasta ja saamme hänet keikautetuksi laidan
+päälle. Kauheasti siitä vettä lähti ja oli sitä vähän vaikea pidellä,
+kun oli selästään veltto, niinkuin kuollut kala; mutta me saimme
+istutetuksi hänet venheesen, selkä kokkaa vasten ja kasvot maihin päin.
+
+Ja siinä hän istui.
+
+Aurinko oli jo laskemaisillaan ja paistoi häntä suoraan silmiin. Ja kun
+me lapoimme siimaa ja silloin tällöin päästimme turskan koukusta irti,
+täytyi meidän vähä väliä kääntyä kokkaan päin ja katsahtaa häneen.
+
+Hans, joka souti keskellä venettä, luuli aina tuon tuostakin niskaansa
+kutkuttavan. Hän muuttelehti levottomana tuhdollaan ja pälyi olkapäänsä
+yli kokkaan päin.
+
+Mitä siinä pälyt, Hans? kysyin minä.
+
+Hans ei vastannut mitään, mutta alkoi viheltää.
+
+Kalastaja ei vihellä venheessään! sanoin.
+
+Hetken kuluttua sanoo Jens:
+
+Minusta näyttää, että hän tuijottaa meihin!
+
+Loruja! sanon minä. Mitenkä voisi kuollut tuijottaa?
+
+— Hetken kuluttua sanoi Jens taas samaa ja Hans kävi levottomaksi
+tuhdollaan. Ja juuri kuin me olimme lappaneet sisään koko siiman,
+niin hellittää Hans airot ja kumartuu ja tempaa suuren ristikalan
+(meritähden) venheen pohjalta, ja kääntyy ja paiskaa sen hukkunutta
+vasten otsikkoa, niin että puolet kasvoistakin siihen peittyvät.
+
+Sitä ei olisi sinun pitänyt tehdä, Hans! sanon minä.
+
+Se on paljon mahdollista, vastaa hän. Mutta mikä pakko teidän oli ottaa
+se venheesen. Joka kerta kuin olen häntä olkain yli katsellut, niin on
+hän tuijottanut minua silmiin eikä se ole ollenkaan hauskaa, varsinkin
+kun se niskaan tuijottaa! — No niin; auringon laskun aikana tulemme
+maihin ja siellä on paljon väkeä rannalla ja he huutavat meille: mikä
+outo toveri teillä on siellä venheessänne?
+
+Emme vastanneet mitään, ennenkun kokka on tarttunut rantaan.
+
+Silloin hyppäsimme maihin ja aloimme vetää venhettä; ja useat muut
+auttoivat meitä; sillä aina ollaan avuliaita, kun ei ole satamaa eikä
+tuulen suojaa.
+
+Kun nyt olimme saaneet venheen kuiville, niin sanon minä niille, jotka
+seisovat ympärillämme: Nyt voitte itse tulla katsomaan, mikä meillä on
+venheessämme!
+
+Kaikki tulevat tietysti katsomaan. Ja silloin kysyy vanha Niels Skaffer:
+
+Onko sillä kelloa eli muuta semmoista?
+
+Sitä emme ole tulleet ajatelleeksi! sanon minä. Ja minä aion ruveta
+avaamaan sen takkia; mutta silloin varoittaa minua luotsivanhin, ett'ei
+pidä siihen koskea; ensin pitää lähettää noutamaan poliisia ja ainakin
+täytyy kysyä tullikontrollööriltä.
+
+Luulin tuommoista tavaraa tullittomaksi! sanoo Hans ja kohottaa vähän
+ruumista kauluksesta.
+
+Kaikki nauramaan, ja kun pilantekijä aina yltyy toisten naurusta, niin
+alkoi Hans tehdä kaikellaisia kujeita ruumiin kanssa.
+
+Tuo ei ole mieleeni, sanon minä, ja vielä sitä saatat tulla katumaan.
+
+Hans heitti ruumiin rauhaan ja sitten tuli tullikontrollööri,
+päristellen niinkuin hevonen, ja virkatakki kiireessä vinoon
+napitettuna. Hän oli aina hyvin miestä mielestään, kun oli jotain
+tekeillä; sillä harvoin oli hänellä tilaisuutta nokkaansa mihinkään
+pistää.
+
+Mitäs tavaroita teillä nyt on venheessänne? huusi hän jo kaukaa.
+
+Katsokaa itse, herra konterlööri! vastasin minä.
+
+Nyt oli Jens heittänyt tervavaatteen ruumiin yli silloin kuin luotsi
+sanoi, ettei siihen saa koskea. Kontrollööri tulee venheen luo ja
+pärskyy kuin valaskala ja aivastelee ja niistelee nenäänsä punasella
+liinallaan, joka aina riippui hänen univormunsa perän takana.
+
+No, miehet! sanoo hän ja muuttuu varsin ystävälliseksi; mitäs makeita
+teillä on tänä päivänä venheessänne?
+
+Ei meillä juuri mitään makeita ole, herra konterlööri! sanon minä.
+
+Eipä sillä väliä, mitä on, sanoo hän; kunhan vaan kuningas saa omansa
+ja laki täytetään, niin eihän siinä ole mitään luvatonta!
+
+Eikähän siinä ollutkaan. Ja sitten nostaa kontrollööri tervavaatetta!
+ja siinä seisoo hän tervavaate kädessään ja katselee vierasta venheessä.
+
+Vieras ei hiisku halaistua sanaa. Olihan sillä laillinen syy siihen.
+Eikä kontrollöörikään virka mitään; on vaan aika tavalla ihmeissään.
+
+Hyi saakeli! sehän haisee! Ja sitten heitti kontrollööri tervavaatteen
+takaisin hänen päälleen.
+
+Ei se nyt ollut kohteliaasti tehty minun mielestäni, sillä olihan se
+kuitenkin ihminen, vaikka oli kuollut.
+
+Sitten määräsi kontrollööri, että ruumista oli vartioitava ja
+lähetettävä noutamaan poliisia eli vallesmannia eli herrassyötinkiä
+eli kirjuria, — piru tiesi ketä, mutta joku noista herroista oli
+tuotava maapitäjästä katsomaan, oliko mies oikein kuollut ja kaikki
+muuten reilassa, tai eikö se tuonut koleeraa muassaan, tai oliko
+sillä rakkauden kirjeitä tai arvopapereita taskussaan, niin että
+olisi voinut saada selville, kuka se oli. Ja varottakoon häneen sillä
+välin koskemasta! sanoo kontrollööri, ja kaikkea tätä ajatellessaan
+ja puhuessaan innostui hän niin, että aivan unohti pahoitteleimastaan
+siitä, ett'ei meillä ollut mitään muita "makeita" kotiin tuotavana.
+
+Teidän pitää seista vahdissa! sanoi hän; ja niin saimme me kaksi
+muskettia ja yhden sapelin tuppineen, sillä kontrollööri oli vanha
+aliupseeri eikä hänestä ollut mahdollista pitää vahtia ilman aseita.
+
+Me rupesimme siis vahtiin ja vähitellen, sitä mukaa kuin ilta kului,
+katosi väki rannasta. Melkein samaan aikaan noin kello puoli välissä
+kymmenen tuli kontrollööri ennen maata menoaan tarkastamaan, oliko
+kaikki tarpeellisessa kunnossa. Minä kun olin vanhin, seisoin sapelin
+kanssa, ja noilla muilla, Jensillä ja Hansilla, oli musketit; ja minä
+annoin heidän tehdä kunniaa, kun kontrollööri purjehti näkyviin ja se
+oli hänestä mieleen.
+
+Hyvä on! sanoi hän ja kohotti kätensä kypärään. Sana on lähetetty ja
+huomenna aamupäivästä ovat viranomaiset täällä; ja katsokaa nyt, että
+käyttäydytte kauniisti ettekä nuku! Jumalan haltuun!
+
+Saanko lähettää Hansin kapakkaan noutamaan jotain pulloon pantavaa?
+kysyin minä.
+
+Pulloon pantavaa? Vahdissa? Oletko hullu! huusi hän.
+
+Ka no, ka no! sanoin minä siivosti. Annetaan sitten olla; mutta
+tällainen syysyö on pitkä ja kylmä!
+
+Kun seistään vahdissa, ei palele! sanoi hän. Ja sitten hän poistui.
+
+Tuskin oli hän mennyt, kun Jens ja Hans panivat pyssynsä venheesen
+ruumiin viereen, ja Hans otti pullon ja teki lähtöä.
+
+Minne matka? kysyin minä ja pistin sapelin eteen.
+
+Pistä tikkusi tuppeen! sanoi Hans. Minä menen tietysti pulloa
+täyttämään.
+
+Hän meni kuin menikin ja kun tuli takaisin, jaoimme me vahtiajan
+kolmeen yhtä suureen osaan niin, että kahdella aina oli levon lomaa,
+sill’aikaa kuin kolmas kulki sapelin kanssa. Minulla oli ensi vuoro ja
+nuo molemmat muut pistäytyivät hiekkasärkän kupeesen ja vetivät palasen
+purjetta korvilleen. Olisi tietysti ollut mukavinta paneutua venheesen
+ison purjeen alle. Mutta siihen ei heillä näkynyt olevan oikein halua
+tuon vieraan toverin vuoksi.
+
+Kuu oli noussut ja valaisi rantaa ja venhettä ja sen yli levitettyä
+vaatetta, jonka alla ruumis oli. Kävelin edestakaisin rannalla sapeli
+kainalossa ja nyrkit taskussa. Katselin merta ja pilviä nähdäkseni,
+mistä tuuli huomenna puhaltaisi, katselin venhettä ja sen yli
+levitettyä vaatetta, ja häntä, joka alla makasi, ja kuljin siinä noin
+mietteissäni ajatellen tämän elämän tukaluuksia varsinkin merimiehelle,
+joka ei koskaan ole varma lopusta, silloin kun alkaa alusta; ja kuta
+enemmän minä sitä ajattelin, sitä raskaammalta alkoi vartiana olo
+tuntua ja minä kiittelin mielessäni Hansia, joka oli pitänyt huolta
+pullosta, sillä nythän minä saisin pienen sydämmen lämmittäjän.
+
+Menen siitä Hansin luo ja otan pullon hänen päällystakkinsa taskusta.
+Keikautan kulahduksen kurkkuuni ja aion taas panna pullon takaisin, kun
+Hans avaa silmänsä ja sanoo:
+
+Ota vaan eläkä ujostele!
+
+Luulin sinun nukkuvan, Hans, sanoin minä. Yö on kylmä. Millainen on
+maataksesi?
+
+Huono on, vastaa hän. Se on kaikki tuon saakelin hukkuneen syy. Mikset
+antanut hänen mennä, niinkuin pyysin.
+
+Herra Jumala, mutta pitäähän ihmisellä olla ihmisen tunteet!
+
+Kun hänestä olisi meille edes jotain hyötyä! vastasi Hans. Ja sitten
+nousi hän istumaan ja me katselimme hetken aikaa toisiamme silmiin.
+
+Arvaatko, mitä minä tässä maatessani olen miettinyt? sanoi Hans.
+
+Kukaties, jos ehkä arvaankin. Vaan arvaatko sinä, Hans, mitä minä olen
+miettinyt?
+
+Et vaan liene hänen saappaitaan? kysyi hän ja nousi kokonaan ylös ja
+alkoi lyödä käsiään yhteen.
+
+Menimme venheesen ja Hans kohotti vähän tervapeitettä ruumiin jalkain
+kohdalta.
+
+Sillä on uudet, hyvät saappaat! sanoo Hans.
+
+Ann' olla! sanon minä.
+
+Uskallan vannoa, ett'ei kukaan ole huomannut, oliko hänellä saappaita
+eli ei! sanoo Hans.
+
+Loittonin vähän katsomaan, nukkuiko Jens, ja kun nyt tulin takaisin
+venheelle ja katselin saappaita, jotka kiiluivat kuutamossa kuin vasta
+kiilloitetut, niin en voi kieltää, että ne näyttivät minusta oikein
+hyviltä saappailta.
+
+Ei, tämä ei kelpaa! Hän on kuitenkin ihminen, vaikka onkin kuollut; ja
+hänen tavaransa ovat hänen omansa, ja jos otamme ne, niin me varastamme!
+
+_Hänkö_ ihminen! huusi Hans. Ihminen on se, joka elää niinkuin sinä ja
+minä. Kun on kuollut, niin on tyhjää — tomua ja tuhkaa, niinkuin pappi
+sanoo. Ja tyhjällä ei voi olla mitään!
+
+Tuumin tuota hiukan, mutta en voinut päästä selville.
+
+Näetkös nyt! sanoi Hans. Jos ottaisimme hänen kellonsa tai paperinsa,
+niin olisi se varkautta. Sillä ne semmoiset kalut pitää jättää
+nuuskijoille, jotka huomenna tulevat. Mutta meren hylky pitää haudata
+niine vaatteineen, jotka sillä oli päällä löydettäessä. _Sen_ minä
+tiedän; ja miksi antaisimme me käärmeiden kaluta tuommoisia uusia hyviä
+saappaita, sitä en minä ymmärrä!
+
+Kynsin korvallistani ja sitten minä kysyin:
+
+Kuka ne sitten saisi nuo saappaat, sinä vai minä? Kahden pannahan
+niistä ei juuri ole.
+
+Hans katsoi minuun.
+
+Voimmehan heittää arpaa!
+
+Hän kumartui maahan ja otti kiven kouraansa ja vei kädet selän taa ja
+kysyi:
+
+Oikeako vai vasen?
+
+Ei, minä en saata! sanoin minä ja vetäysin pois.
+
+Mutta minä saatan! sanoi hän.
+
+Anna minulle pullosi, Hans!
+
+Otin hyvän kulauksen, ja sitten menimme me taas venheelle ja kävimme
+häneen käsiksi. Hans otti pois tervavaatteen ja minä tartuin toiseen
+jalkaan.
+
+Luuletko niiden lähtevän? kuiskasin minä.
+
+Mitä hittoja te siellä hommaatte? kysyi Jens takanamme.
+
+Hypähdimme kumpikin puolellemme ja käännyimme päin. Se oli Jens, joka
+oli herännyt ja istui.
+
+Ei käy päinsä! kuiskasin minä. Jens on niin hatara kuin uusi korvo; se
+ei voi koskaan pitää mitään takanaan!
+
+Katselemme vaan merenhylkyä! sanoin minä Jensille.
+
+Onko se vironnut henkiin? kysyi hän.
+
+Ei minun tietääkseni!
+
+Sittenhän saatamme taas nukkua! sanoi hän ja laskeutui toiselle
+kylelleen.
+
+Katselin Hansia. Hän oli säikähtänyt yhtä paljon kuin minäkin. Hän
+poistui ja panihe Jensin viereen mitään virkkamatta. Ja kun minä nyt
+asettelin tervavaatetta takaisin ruumiin päälle, niin paistoi kuu häntä
+suoraan silmiin, niinkuin aurinko oli päivällä paistanut, ja aivan oli
+niin kuin olisi hän katsonut minuun ja sanonut: sinä sen ruumisrosvo!
+
+Minun tuli oikein paha ollakseni. Sillä en minä ollut koskaan
+elämässäni aikonut anastaa mitään toiselta ihmiseltä enkä ole sitä
+jälkeenpäinkään tehnyt. Mutta tämähän oli eri asia. Sillä kun oikein
+ajattelin, niin eihän hän tarvinnut saappaitaan mihinkään.
+
+Mutta oli miten oli, minä kumarruin häntä kohden ja sanoin:
+
+Anteeksi, toveri, eläkä muistele sitä, mitä äsken ajattelin! Pidä sinä
+vaan saappaasi ja hyvää yötä nyt! Jos turskan saalis on hyvä tänä
+vuonna, niin jää siitä ehkä siksi tähdettä, että saan uudet saappaat
+tarvitsematta varastaa vanhoja kuolleelta toverilta!
+
+Ja sitten panin minä tervavaatteen hänen päälleen ja — en tiedä, mutta
+siltä se vaan tuntui, — minusta tuntui siltä kuin hän nyt lepäisi
+rauhallisemmin, kun sai pitää omansa. Me tahdomme kukin kernaasti pitää
+omamme!
+
+Kun vahtivuoroni oli lopussa, menin minä herättämään Jensiä.
+
+Entä saappaat? kysyi hän.
+
+Minkä Jumala on yhteen sovittanut, sitä ei pidä ihminen erottaman,
+sanoin minä. Ja minä luulen, että se sattui, sillä _sinä_ yönä ei
+kadonnut mitään saappaita, ja aamulla tuli väkeä rantaan ja sitten oli
+se myöhäistä.
+
+Kontrollööri tuli myöskin ja me jätimme hänelle aseemme, joiden kanssa
+oikein komeasti äkseerasimme auringon valossa.
+
+Onko mitään tapahtunut vahdissa? kysyi hän.
+
+Ei minkähän näköistä! vastasin minä kaikkien meidän kolmen puolesta.
+
+Mutta Hans ja minä katsahdimme toisiimme ja painoimme kielen poskea
+vasten ja siristimme toista silmää, ja sitten aivastin minä ja Hans
+sanoi: terveydeksi!
+
+- Puolen päivän aikaan tulivat herrat vaunulla ajaen. Niitä oli
+nimismies ja kirjuri ja pari muuta herraa. Heistä voi nähdä, että
+olivat syöneet hyvän aamiaisen; s.o. nimismies ja herrat — kirjuri ei.
+
+He tulivat luoksemme rantaan ja nimismies osoitti meitä sormellaan
+ja sanoi, että me olimme kalastajia. Toinen herroista pisti sormensa
+liivin taskuun ja minä jo luulin, että se antaa meille markan, mutta
+sen sijaan kaivoi hän sieltä kellonlasin, jonka pisti silmäänsä
+ja tuijotti meihin ja ilmoitti toiselle herralle, että me olimme
+kalastajia.
+
+Sitten alkaa nimismies kysellä ja tutkia ja koko ajan selittää
+hän kaikki noille kahdelle herralle, jotka varmaankin olivat
+hänen vieraitaan, hyvin korkeita vieraita. Luulin ensin heitä
+ulkomaalaisiksi, koska heille piti kaikki noin selittää; mutta kun he
+puhuivat tanskankieltä, tätä samaa mitä me muutkin, niin päättelin
+minä, etteivät he olleet koskaan ennen elämässään kalastajia nähneet.
+
+Kerroin heille koko jutun, missä ja miten olimme hänet löytäneet. Ja
+sitten oli hän tutkittava.
+
+Tätä kutsuvat nämä täällä "merenhylyksi", selitti nimismies; ja sitten
+kirjoitti toinen herroista jotakin kirjaan, niin että minä luulen, että
+sillä lienee ollut huono muisti.
+
+Käänsimme nurin kaikki hänen taskunsa; mutta emme löytäneet muuta kuin
+nahkakukkaron, joka oli hauras ja märkä, että käsiin hajosi. Annoin sen
+sisällön nimismiehelle, joka oli vetänyt hansikkaat käsiinsä, ja hänen
+kirjurinsa kirjoitti ylös.
+
+Siinä oli saksalainen pankin seteli, jonka nimismies arvosteli
+seitsemäksi tanskan taaleriksi. Sitten oli siellä palanen
+englanninkielellä kirjoitettua kirjettä, jossa ei nimismiehen ymmärtäen
+ollut mitään ajatusta, ja sitten oli muutamia uusia hollantilaisia
+kuparirahoja.
+
+Se ei ollut paljon! sanoi nimismies ja eikähän mies siinä ollut
+ihan vaarassakaan. Sitten puheli hän jotain kontrollöörin kanssa,
+hautaamisesta taisivat puhua; ja sitten nousivat vaunuihinsa ja ajoivat
+tiehensä.
+
+Iltapäivällä haudattiin hukkunut vähän matkaa länteen päin kylästä.
+Meitä oli koko joukko kalastajia siinä saapuvilla. Pappi heitti kolme
+lapiollista multaa hänen päälleen ja kaikki me paljastimme päämme ja
+katsoimme eteemme maahan emmekä mitään nähneet. Ja kun seisoin siinä
+noin, niin tulin ajatelleeksi, että olipa oikein onni, että hän oli
+saanut viedä saappaansa mennessään, vaikk'ei hän nyt olisi tarpeen
+vuoksi tarvinnutkaan.
+
+Sitten meni pappi; mutta me jäimme seisomaan ja kaikki ajattelimme me
+sitä samaa, että oli oikeastaan hyvin surullista, ett'ei tuollainen
+haaksirikkoon joutunut merimies parka saisi kuulla muutamia helliä
+sanoja haudallaan. Ja Jens, joka seisoi vierelläni alkoi katsella
+ympärilleen ja kohennella housujensa kaulusta, ja kun minä ymmärsin,
+mikä häntä vaivasi, niin nykäsin minä häntä kylkeen ja sanoin: tartu
+peräsimeen!
+
+Silloin astui hän askeleen eteenpäin ja hattu kourassa puhui hän
+näinikään:
+
+Kuulkaahan, toverit! Saattaahan olla, että tämä ei käy, mutta käyköön
+tai ei, minä sanon, mitä mielessäni kytee. Minusta on vaan niin kuin
+hänen, joka tässä nyt lepää, pitäisi saada jäähyväissana niiltä, jotka
+ovat hänet satamaan hinanneet, sekä niiltä, jotka ovat nähneet hänen
+viimeisen sijansa. Talonpoika tallustelee kaiken ikänsä ja katselee
+sitä sänkyä, jossa henkensä kerran heittää. Kalastaja ja merimies ei
+voi koskaan tietää, missä hän viimeiseen lepoonsa laskee. Ei kukaan
+tiedä, mistä _hän_ on tullut, joka nyt on tähän ajautunut, mutta
+sentähden on meidän muistettava häntä toverillisella mielellä; ehkäpä
+myöskin puuristillä eli takeetilla, johon voimme rahat rovoistamme
+koota. Ja jos minä tai Hans tai Ole tai Pehr tai kuka hyvänsä meistä
+joudumme vaaraan ja ajaudumme vieraille rannoille, niin toivomme, että
+kalastajat ja merimiehet tekevät meidän kanssamme samoin kuin me nyt
+teemme hänen kanssaan — vaikkemme tunne häntä emmekä tiedä, kuka hän
+on, eikä kukaan meitä siitä osaa kiittää. Mutta niin olkoon tapana
+kalastajain kesken. Ja sentähden: Jumala olkoon hänen kanssaan!
+
+Amen! sanoi luotsivanhin ja me kaikki muutkin.
+
+Niin hänet haudattiin. Ja Jensin kävi aina hyvin; mutta seuraavana
+vuonnahan se Hans hukkui Ameriikan matkallaan, jonne oli lähtenyt
+matruusina. Ja minä sain semmoisen kovan säilöstäjän, joka on minua
+siitä päivin vaivannut. Mutta usein olen minä ajatellut hukkunutta ja
+hänen saappaitaan.
+
+
+
+
+Laivakorput.
+
+
+Painakaa puuta! sanoi hän minulle. Ja minä katselin tuolia istuakseni.
+Mutta en löytänyt. Ne harvat tuolit, joita oli olemassa, olivat lasten
+hallussa, joita oli neljä tai viisi kiheräpäistä poikaa. Ne leikkivät
+nyt parhaallaan englantilaista panssarilaivastoa.
+
+Tulliapulainen tarttui suurimpaan laivaan, puhdisti sen kannen
+pumpulinenäliinalla ja työnsi eteeni uudistamalla pyyntönsä. Minä
+istuuduin.
+
+Ei näy olevan noista puutetta! Minä tarkoitin lapsia.
+
+Hän hymähti hänelle veitikkamaisella tavalla. Hänellä oli tuo
+tuollainen katoamattoman hyväntuulen lahja, joka oli puoleksi
+synnynnäistä huolettomuutta, puoleksi saavutettua elämän viisautta, ja
+jonka epätoivoisina hetkinä tahtoisi antaa koko kansalleen. Sen avulla
+voidaan elää hyvin raskaina aikoma; ja jos hyvät ajat taas tulevat,
+niin se iloisuus ei muutu uhkamielisyydeksi. Suuri osa keskisäädyn
+ihmisistä elää sen turvin — elivätpä sitten maalla tai merellä.
+
+Hänen kasvonsa olivat käännetyt minua kohti ja minä näin, että nenässä
+oli arpi kiinalaisen merirosvon veitsen jäleltä. Leuka oli tukeva,
+harmeneva poskiparta tuuhea, otsa leveä ja kova. Ne olivat merimiehen
+kasvot, jotka eivät vielä olleet kovettuneet virkamiehen kasvoiksi.
+Niiden pääpiirteet olivat veitikkamainen piirre suun ympärillä ja
+silmien hyväntahtoinen mielevyys.
+
+"Näitä on nyt kuusi sen pienen tytön kanssa, joka tuli perästäpäin.
+Saahan ne välistä nähdä puutetta ja saahan niiden edestä itsekin
+puutetta nähdä — vaan ei niistä kuitenkaan tahtoisi yhtäkään kadottaa,
+jos kuka kysyisi. Harald, elä kiusaa Petteriä! anna hänelle kauniisti
+korppu käteen...!"
+
+Sen jälkeen kertoi tulliapulainen tarinansa korpuista.
+
+— Voi sitä elää hyvinkin vähästä, kun täytyy. Mutta joskus saattaa se
+käydä _liian_ vähäksi. Mitä arvelette siitä, kun alkupalkakseen saa
+kaksisataa riksiä ja sillä pitää elättää itsensä, vaimonsa ja kaksi
+lasta —?
+
+Alkupalkaksi...?
+
+Niin; se alku kesti vähän liian kauvan — kauvemmin kuin nuo
+kaksisataa riksiä. Olin nainut — näettekös. — Meillä oli pieni poika,
+perintöruhtinas, joka oli tullut vähän liika aikaisin maailmaan. Sitten
+tuli toinen sitä nopeammin, jos kirkonkirjoihin katsotaan. Äiti ja
+minä rakastimme toisiamme ja rakastimme lapsiamme ja anoppimuori teki
+samoin — järjestyksen vuoksi. Mutta elää meidän täytyi. Minä olin
+kuninkaallinen luovija-apulainen S-havnissa, ja eukko ja anoppimuori
+olivat lasten kanssa kaupungissa erään talon kolmannessa kerroksessa
+Reverensgaden varrella. Ne saivat joka äyrin palkastani ja _minä_ imin
+kynsiäni. Sehän oli niinkuin pitikin —
+
+Te olitte siis erillänne perheestänne...?
+
+Tietysti. S-havnissa olisimme kaikki kuolleet nälkään. Sillä sotamiehiä
+oli siellä vaan muuan likainen aliupseeri, joka ei koskaan muuttanut
+kaulahuivia — ja tohveleita ei siellä käytetty. Tuumiskelen siinä
+itsekseni: tämä ei ole ollenkaan hauskaa! Vaan eihän sitä aina voi
+pitää hauskaakaan. Vaatteet alkoivat riippua päälläni niinkuin purjeet
+tyynessä; ja jos en olisi nuoruudestani tottunut siihen huonoon
+ruokaan, jota vanhoissa, huonoissa laivoissa tarjotaan, niin en nytkään
+olisi voinut elää paljaasta ilmasta.
+
+Silloin tällöin tarjosi aliupseeri minulle ryypyn ja vähän lihaa;
+mutta sitten saattoi kulua kahdeksankin päivää, ett'ei hänelläkään
+mitään ollut, ja mitä ryyppyyn tulee, johon _hän_ turvautui — niin olen
+minä, vaikka itse sen sanon, aina ollut kohtuullinen. Se näet kestää
+kauvimmin — ja täytyyhän ajatella virkaansa ja lapsiaan. Paljon työtä
+ei siellä ollut. Minulla oli kyllin aikaa ajatella tulevaisuuttani.
+Metsästelin hiukan ja kalastelin; ja sillätavoin elelin minä, niinkuin
+olen nähnyt villien ihmisten tekevän — paitse ett'en minä syönyt
+aliupseereja, syystä ett'ei heitä olisi voinut maistaa eikä haistaa.
+
+Eräänä päivänä oli minulla tiukka olla. Olin saanut kirjeen eukolta,
+että miehistöni siellä kaupungissa oli lisääntymässä. Olemmehan kaikki
+ihmisiä eikähän siihen asiaan ole mitään sanottavaa. Vihkiessämme puhui
+meille pappi velvollisuuksistamme siinä suhteessa; ja eukko ja minä
+rakastimme toisiamme, niinkuin jo sanoin. Mutta harmillista se sentään
+oli.
+
+Istuin vanhan vallin laidalla ja katselin vettä pitkin ja jos minulla
+ei olisi ollut niin nälkä, olisi se ollut hyvin kaunista. Nyt harmitti
+minua vaan, ett'ei kaikki tuo vesi ollut olutta ja nuo kivenmukulat
+rukiisia leipiä. Olisi tehnyt mieleni purra niitä, mutta minä säälin
+hampaitani ja olin purematta.
+
+Tuli siinä siten kaljaasi purjehtien, jonka arvelin olevan
+Svendborgista kotoisin, ja ankkuroipi aivan eteeni. En tiedä mistä
+syystä, mutta minä menen venheelleni, joka meillä on rannassa, ja
+soudan laivaan. Olihan siitä ainakin jotain hupia. Tulen kannelle ja
+kysyn kipparia; hän oli kajuutassaan peräkannella. Menen sinne ja sanon
+hyvän päivän ja kippari — joka todellakin oli Svendborgista — sanoo
+kanssa hyvän päivän, ja minä istuudun ja voin sekä nähdä että haistaa,
+että siinä äsken oli syöty päivällistä.
+
+No niin, tarinoimme minkä mistäkin, tuulista ja merivirroista ja sitten
+kysyy kippari: Saisiko olla vähän kahvia? Kiitos vaan, sanon minä, olen
+vasta syönyt ja juonut — oikein hyvää kalakeittoa ja voita ja leipää ja
+olutta päälle — mutta eihän kuppi kahvia ole koskaan pahitteeksi!
+
+Kuulehan, kokki — sanoo kapteeni — tuoppa kaksi mukia kahvia ja
+sokerirasia!... Ja sitten asetti hän rommipullon pöydälle.
+
+Saamme siitä kahvin, ja rommia sekaan, ja se maistoi niin makealle,
+että alkoi tehdä lisää mieli. Mutta minä olen olevinani, niinkuin
+en olisi mitään vailla ja me juttelemme minkä mistäkin, tuulista ja
+merivirroista; ja sitten tulee kokki vielä kerran sattumalta sisään
+ja ottaa jotain kirstusta, jonka päällä me istumme. Ja minä katsahdan
+kirstuun ja näen, että se on täynnä kauniita, suuria laivakorppuja.
+
+Mitä siellä on? kysyn minä ja osoitan sormellani.
+
+Missä? sanoo kippari ja käy katsomaan.
+
+Ka, nehän ovat korppuja! sanon minä.
+
+Hi, hi! sanoo svendenborgilainen ja ottaa yhden. Voitteko murtaa sen?
+
+Ja minä murran — noin vaan piloillani — korpun polveani vasten ja
+pistän palan toisensa perästä suuhuni ja naurahtelen kipparia vasten
+naamaa.
+
+On niin helkkunan kauvan siitä kuin minulla on ollut tämmöistä tavaraa
+hampaissani, sanon minä. Kun on ollut niin kauvan maissa, niin ne nuo
+mukulakivet maistavat!
+
+Ja minä nauran ja kippari nauraa ja me kilistämme kahvin kanssa, ja
+minä otan — noin vaan piloillani — vielä yhden korpun ja pistän sen
+takataskuuni.
+
+Kippari katsoo minuun ja kysyy jotenkin ihmeissään:
+
+Mitä te sillä teette? — Nähkääs, sanon minä, minulla on pieniä
+papanoita siellä kotona, jotka eivät tahdo saada hampaitaan esille.
+Nyt on siellä vanha mummo, joka on sanonut, ett'ei ole mitään muuta
+keinoa niin hyvää kuin antaa laivakorppuja järsittäväksi, kun ikeniä
+kutkuttaa. Vaan tuolla maissa ei meillä ole tämmöisiä. Sentähden minä —
+teidän luvallanne?
+
+Ottakaa pois vaan! Tuopa pitää muistaa sanoa eukolle kotiin tultua,
+sillä on niitä meilläkin ikeniä, joita kutkuttaa! — Ja niin antoi
+kippari minulle kantamuksen laivakorppuja.
+
+Menin maihin ja elin kuin — helppo on arvata miten. Ja joka kerta kun
+mursin korpun, ajattelin minä lapsia tuolla kaupungissa. Olihan se
+vähän petoskauppaa — mutta kas, kun rehellisesti ja puhtaasti antaa
+perheelle koko palkkansa...
+
+Niin saaneehan pistää korput omaan suuhunsa! sanoin minä.
+
+
+
+
+Intian saali.
+
+
+Oletteko kuullut siitä saalista — siitä Intian saalista?
+
+En, en ole kuullut.
+
+Niinpä saatatte kuulla nyt. Tulimme sotalaivallamme lämpimistä maista
+— St. Croix’ista. Ja aina sen pitää sattua niin, että tulemme näille
+merille kylmän aikana joko varhain keväällä tai myöhään syksyllä.
+Tällä kertaa oli nyt kylmä kevät, kun purjehdimme Englannin kanavaan
+eikä ilma lämminnyt Pohjan merelläkään. Miehillä oli nuha ja yskä, ne
+rykivät ja sylkivät. Oli sitten etumastossa mies, jolla mahtoi olla
+tavallista enemmän vettä suussa, sillä hänen sylkensä putoo kannelle,
+missä eräs vanhemmista aliupseereista seisoo, ja hänen nimensä oli
+Bunke.
+
+Hän huutaa heti ylös: Pidä suusi kiinni, sen sika — kun töllistelet! Ja
+samassa putoo mies mastosta ja suistuu suin päin mereen.
+
+Bunke karjuu: 'Mies mereen!' ja kun hän ehkä luuli olevansa syypää
+siihen, kiskasee hän puolisaappaat jalastaan ja heitäkse miestä
+pelastamaan.
+
+Laiva kulki hyvää vauhtia ja korkealla kuohui meri eikä mies — enemmän
+kuin muutkaan kalastajat — osannut uida; mutta siitä huolimatta pelasti
+Bunke hänet, ja kun laiva on noussut tuulta vasten ja venhe laskettu
+veteen, niin saamme heidät molemmat sen suuremmitta vaikeuksitta
+laivaan takaisin ja mies saa nuhteita ja Bunken nimi kirjoitetaan
+muistiin; ja kun päällikkö sitten myöhemmin tulee kannelle, niin kutsuu
+hän Bunken luokseen ja sanoo hänelle pari kaunista sanaa, jommoisia
+kiireessä voi sanoa semmoisista asioista, — ja sitten luovimme
+Pohjanmeren yli eikä kukaan ajattele enää koko asiaa.
+
+Mutta kun olemme päässeet Skageniin ja sää on vähän parantunut, vaikka
+tuuli onkin vastainen, niin kutsuu päällikkö Bunken luokseen ja sanoo
+aikovansa ehdottaa hänet pelastusmitalin saajaksi.
+
+Ymmärrän, herra kapteeni, sanoo aliupseeri ja nostaa kätensä lakin
+liepeesen.
+
+Mutta olen minä ajatellut — sanoo päällikkö, että matka on kestänyt
+kauvan ja että kotona Krokodiilikadulla on rahasta vähyys!
+
+Ymmärrän, herra kapteeni! sanoo Bunke.
+
+Onhan se kauniin näköinen tuollainen mitali punasessa nauhassaan, kun
+Fredriksbergillä kävellään, mutta onhan hyvä omatuntokin jo tarpeeksi
+kaunis koristus ja sentähden kysyn minä sinulta, tahdotko ennemmin
+kuusitoista taalaria hopearahassa? — sanoo päällikkö.
+
+Ymmärrän, herra kapteeni! sanoo Bunke, vaan saanko miettiä asiata
+huomisen?
+
+Voit antaa minulle vastauksen, kun olemme tulleet satamaan — Bunke!
+
+Ja sen sanottuaan meni päällikkö kannen alle. No, kuulen sitten
+illemmalla, että Bunke puhelee vanhan ystävänsä tykkimiehen kanssa
+tästä asiasta.
+
+Tykkimies sanoo:
+
+Minun mielestäni sinun pitäisi ottaa mitali. Eihän se lantti ole
+itsessään juuri minkään arvoinen, mutta se punanen nauhanpätkä —
+näetkös — se on se, joka pistää niiden maamoukkain silmiin, niin että
+saattavat nähdä, kun aliupseeri tulee nutun rinta kaukaa paistaen, että
+siinä on mies, joka ei ainoastaan kulje kuninkaan vaatteissa ja saa
+haukkua ihmisiä, vaan joka myöskin uskaltaa panna housunsa likoon, kun
+sattuu eteen nahjus, joka ei itse kykene itseään auttamaan.
+
+Siihen vastaa aliupseeri:
+
+Ymmärtävästi puhuttu. Mutta minä luulen kuitenkin, että ukko on
+oikeassa. Raha on rahaa. Tämä on ollut vähän pitkänlainen matka ja —
+eihän sitä ole tarvis salata — minä olen siroittanut kaikki mynttini
+maihin niille mustille neekerinaisille, jotka vaatteemme pesivät, ja
+niille muille mustille tyttärille, joiden kanssa karkelolta pidimme.
+Ollaanhan heikkoja ihmisiä!
+
+Heikkoja ollaan, jumala paratkoon! sanoo tykkimies.
+
+Ja sitten sanoo taas toinen:
+
+Kun nyt tulen kotiin Krokodiilikadulle, niin on eukko siellä
+odottamassa, ja eihän siinä ensi alussa muuta kuin suudellaan ja
+taputellaan, mutta sitten tulee eukko järkiinsä ja kysyy: Bunke, on kai
+sinulla se Intian saali, jonka lupasit? Ja siinä seison minä eikä siinä
+auta mitali eikä se punanen nauha, — kun ei eukko kuitenkaan saata
+niitä kantaa.
+
+Olet oikeassa! sanoo tykkimies. Aivan samalla tavalla käy, kun minä
+tulen kotiini Elefanttikadulle. Sielläkin on eukko, joka kysyy: Mitä
+tuomisia olet tuonut? — Se ero on vaan, että hän kysyy heti paikalla.
+Sillä hän ei ole niin rakasteleva luonnoltaan!
+
+_Minun_ eukkoni on — sanoo toinen. Hän on niin rakasteleva, ett'en
+saata vannoa, ett'eikö hänellä olisi ollut ystävää meidän merillä
+ollessamme. Sillä se nyt on naisten luonteen mukaista, että he _siinä_
+kohden ovat samanlaisia kuin me miehetkin. Eikä siitä kannata puhua,
+kun on merimies ja kun on vuosikausia matkoilla.
+
+Eipä, jumaliste, kannatakaan! sanoo tykkimies ja raapii korvallistaan.
+
+Mutta jos en minä nyt ole tuonut mitään kelvollista kotiin — sanoo
+aliupseeri — ja jos sijaiseni on ollut anteliaampi kuin minä, niin
+voisi tapahtua, että eukko ei enää voi haihduttaa häntä mielestään, ja
+sitä olisi vaikea ajatella merellä kulkiessa!
+
+Olisipa tietenkin! sanoo tykkimies; ja sitten menivät he kukin
+toimiinsa.
+
+Kun olimme ankkuroineet satamaan, niin menee Bunke päällikön luo
+ja sanoo miettineensä asiata ja olevansa aivan samaa mieltä kuin
+päällikkökin.
+
+Otatko siis rahat? kysyy päällikkö.
+
+Otan, herra kapteeni!
+
+Ja päällikkö lukee hänelle kuusitoista riksiä kouraan ja puristaa
+kiinni toisen silmänsä — niinkuin tekee aina, kun on hyvällä tuulella —
+ja kysyy:
+
+Mihinkä aiot ne käyttää — Bunke?
+
+Kapteenin luvalla — sanoo Bunke — aion ostaa eukolleni Intian saalin!
+
+Ja päällikkö nauramaan ja hänen viereisensä mieskin nauramaan; ja
+molemmat kysyvät he:
+
+Mistä hiidestä sinä saat sen Intian saalin?
+
+Mutta Bunke teki vaan kunniaa eikä mitään vastannut.
+
+Ja sitten meidät päästettiin pois.
+
+Kun sitten seuraavana päivänä kävelen Suurta Regnekatua pitkin eikä
+ole minulla muuta tekemistä kuin katsella kauppapuoteja, niin keksii
+silmäni eräästä ikkunasta vaaleansinisen keltaripsuisen saalin, jonka
+keskellä on suuri punanen tulipaani; ja tulin minä kohta ajatelleeksi
+Intiaa ja neekerinaisia, kun ne ovat sunnuntaisin kävelemässä.
+
+Ja Svaertekadulla tulevat vastaani aliupseeri Bunke ja tykkimies,
+vaikk'eivät näe minua, kun pälyvät kaikille tahoille, niinkuin olisivat
+karkureita etsimässä.
+
+Annan heidän kulkea omaa tietään ja minä kuljen omaani, ja tulee sitten
+suuri rukouspäivä, ja minä olen juuri eronnut muutamista ystävistäni
+ja harhailen Fredriksbergillä — niin näen minä samalla kertaa Bunken
+ja hänen ystävänsä tykkimiehen, ja heidän edellään kulkevat heidän
+eukkonsa.
+
+Se oli päivän selvä asia. Toinen heistä, se lihavampi, hymyili kuin
+aurinko joka kerta kuin kääntyi taakseen ja heilutteli pyrstöään
+niinkuin hanhi, joka vastikään on peseytynyt. Hänellä oli se
+vaaleansininen keltaripsuinen saali ja se suuri punanen tulipaani
+paistoi aivan keskeltä lanteita — ja minulle johtui mieleeni tuollainen
+hollantilainen kauppalaiva, jonka perään on maalattu suuri, heleä kukka.
+
+Toinen eukoista oli laiha ja pysyttelihe jäykkänä kuin mastopuu. Hän
+oli äkeissään; sen voi helposti nähdä. Mutta hänellä olikin vaan
+tavallinen saloppi, joka ei koskaan ollut St. Croix'ssa ollut.
+
+Laittausin aliupseerien viereen käymään niin lähelle kuin tungoksessa
+pääsin ja kuulin Bunken sanovan ystävälleen:
+
+Se paistaa niinkuin pitää — hä? Oli se aikamoinen keino tämä, jolla
+petin eukkoa. Mutta kun ei hän saa mitään tietää — ja kun _minä_
+tiedän, että rahat ovat rehellisesti ansaitut — ja että minä olen
+tehnyt velvollisuuteni — ja vähällä olin hukkua — niin, eikö totta —
+mitä...?
+
+Tietysti! vastasi tykkimies.
+
+Mutta luulen minä, että hän kumminkin oli vähän harmissaan eukkonsa
+puolesta.
+
+
+
+
+Tuuli kiihtyy.
+
+
+Kaksi poikaa näkyi seisovan ja jotain hommaavan aallonmurtajan
+pohjoisessa maan puoleisessa päässä. He pistivät pajunoksan, jonka
+päässä oli lihapalanen, kivien väliin hiekkarannalla. Sitten oli siellä
+jotain, joka liikkui; ensin oli se kuin harmaan ruskeata liekoa, mutta
+sitten pisti sieltä kolme jalkaa ulos toiselta puolen ja kolme toiselta
+ja sitten marssi se lihan kimppuun.
+
+Se tarttui kuin pienillä pihdeillä lihaan, pajunoksa tutisi vähän ja
+vedettiin ylös.
+
+Se oli krapu.
+
+Katso, se on oikea krapu. Sen myymme me krouvarille!
+
+Pajunoksa laskettiin taas pohjaan, nostettiin taas ylös ja niin tehtiin
+pari kertaa.
+
+Mutta kirkas vesi sameni samenemistaan eikä pohjaa voinut enää oikein
+erottaa.
+
+Toinen pojista katsahti taivaalle.
+
+Semmoisia suuria pilviä!
+
+Tuuli kiihtyy!
+
+He koettelivat vielä pari kertaa, mutta onnistumatta.
+
+Mennään kotiin!
+
+He tekivät lähtöä saaliineen.
+
+Katso! ne aikovat lähteä ulos kansipurrella!
+
+Mistä tuulee?
+
+Lännestä. Tuolla tulee Björn eväiden kanssa!
+
+Kyllä ne lähtevät!
+
+Björnillä on nahkapusero päällään.
+
+Mene syrjään! Muuten sysää se meidät veteen. Sillä on kiire!
+
+He juoksivat syrjään ja heittivät siihen krapunsa toistaiseksi.
+
+Björn Sivertsen tuli kiireesti kulkien toisessa kainalossa eväsvakka,
+toisessa öljyvaatteet. Hänen korvapartansa oli hiukan harmentunut,
+mutta yhtä navakka oli hän vieläkin liikkeissään, kun kiirettä piti.
+
+Hänen perässään tuli vaivaloisesti pehmeässä hiekassa paarustaen pieni,
+laiha mies, joka oli puettu kahvinruskeaan takkiin, viheriäisiin
+housuihin ja korkeaan, mustaan hattuun, jonka hän oli sitonut kiinni
+valkealla nauhalla leuvan alle. Hänellä oli sinisen punaseen ja
+neljällä solmulla kiinni sidottuun esiliinaan kääritty mytty kädessään.
+
+       *       *       *       *       *
+
+Björn ei hiljentänyt vauhtiaan, vaikka hänen tiensä nyt kulki
+aallonmurtajan suurien kivien yli, jotka lonkkuivat hänen jalkainsa
+alla.
+
+Vasta puolivälissä kääntyi hän jälelleen katsomaan.
+
+Hoi, räätäli, ota koivet mukaasi. Ja varo lyömästä nenääsi kiviin,
+sillä ne lyövät takaisin!
+S
+Kyllä minä tu-tulen! huusi pieni mies, joka vähä väliä muutteli
+myttyään kädestä toiseen, ja kiipeili kiveltä kivelle uskaltamatta
+katsoa Björnin jälkeen siinä pelossa, että menettäisi tasapainonsa ja
+luiskahtaisi.
+
+Kyllä minä tu- tu- voi saakeli, tuonne nyt meni myttyni!
+
+Pienet kravustajat, jotka olivat tätä tapausta odottaneet, käärivät
+lahkeensa, porkkasivat veteen ja pelastivat räätälin mytyn, joka oli
+joutunut tuuliajolle.
+
+Kiitoksia paljon! sanoi tuo pieni hyväntahtoinen mies, joka oli
+noussut ylös ja vuoron piteli lakistaan kiinni, jota tuulen puuskat
+retuuttivat, vuoron hieroi reisiluutaan.
+
+Kiitoksia paljon! Nämä ovatkin hyvin pahoja kiviä nämä kivet!
+
+Ei ole täällä parempiakaan! vakuutti toinen pienistä kravustajista.
+
+Ennen olivat ne vieläkin pahempia! vahvisti toinen. Talvella kaatui
+tässä Morten Svendsenin poika, kun meni venheesensä turskan koukkujen
+kanssa, ja taittoi molemmat isovarpaansa reikiin!
+
+Molemmat varpaansa? kysyi räätäli säikähtäen.
+
+Ihan molemmat! vakuutti poika hyvin tosissaan.
+
+Pääsinhän sitten Jumalan kiitos vähällä! Odottakaa, saatte pari
+vesirinkilää!
+
+Ja räätäli alkoi aukoa esiliinan solmuja. Mutta mytty oli läpi märkä
+eikä ole niinkään helppo aukoa märkiä solmuja.
+
+Eikö voisi saada nurkasta jotakuta tulemaan? ehdotti toinen pojista.
+
+Tuleeko siitä tulosta mitään? huusi Björn aallonmurtajan päästä.
+
+Hän huusi vielä jotain muutakin. Mutta tuuli oli maalta päin ja oli yhä
+kiihtynyt niin, ett'ei sanoja eroittanut.
+
+Räätäli lähti mennä hoippuroimaan.
+
+Minä muistan teitä, kun tulen takaisin! sanoi hän ja jatkoi vaivaloista
+matkaansa.
+
+Kiitos lahjastanne! huusivat pojat jälkeen. Ja onnea matkalle!
+
+Räätäli hoippuroi aallonmurtajan äärimmäiseen huippuun, jossa Björnin
+katettu venhe oli kiinnitetty sen itäiseen päähän ja nousi ja laski
+mainingissa, joka tuli aavalta mereltä. Venheessä oli kaksihaarainen
+lippu maston huipussa — se oli kuninkaallinen postivenhe — ja haarat
+seisovat suorina ilmassa, niinkuin olisivat olleet maalatusta
+läkkipellistä.
+
+Tuuli ei antanut niille hetkeksikään rauhaa laskeutumaan.
+
+Tuulella oli kiiru ja kiiru oli Björnilläkin.
+
+Ilma oli sinisen harmaa alhaalla taivaan rannassa; sitten tuli mustempi
+pilviryhmä, sitten valkeita paikkoja ja harmaata keskitaivaalla.
+
+Tuuli puhalsi maalta päin eikä ollut aaltoja; ainoastaan maininki
+tuntui; veden väri oli viheriä karien sisällä, sitten muuttui se
+likaisen sinipunervaksi, edempänä oli se harmaata ja tummanjuovikasta
+ja kauvimpana oli se aivan mustaa, täynnä valkeita pilkkuja. Ne
+muutamat venheet, jotka olivat ulkona, olivat pienentäneet purjeitaan
+enemmän tai vähemmän kantavuutensa ja lastinsa laadun mukaan. Matkan
+pituuden vuoksi näytti siltä kuin ne olisivat liukuneet aivan
+rauhallisesti rauhallista pintaa pitkin.
+
+Räätäli pysähtyi ja katseli vettä pitkin.
+
+No, Jumalan kiitos, eihän tuo näytä aivan pahalta!
+
+Siitä huolimatta täytyi hänen joka hetki tarttua hattuunsa.
+
+Sillä tuulen puuskat olivat voimakkaat täällä ulkona.
+
+Tuleeko _tuo_ hattu mukaan? kysyi Björn, joka oli hypännyt kannelle ja
+järjesteli nuoria.
+
+Mukaanhan sen olisi tarkoitus tulla! vakuutti räätäli.
+
+Sama minulle on! Tömähdä nyt venheesen, räätäli, mutta ojenna minulle
+ensin myttysi! Mitä hittoja, sehän on märkä!
+
+Onhan se vähän kastunut. Tässä on majakkamestarin häähousut ja liivit;
+mutta minä toivon niiden kuivavan, ennenkun tulemme perille; samoinkuin
+vesirinkiläinkin!
+
+Kai ne kuivavat, vastasi Björn, jos eivät kastu vielä enemmän. Se näkyy
+kiihtyvän!
+
+Kuka? kysyi räätäli ja katseli ympärilleen. Tuleeko tänne vielä muita?
+Minä en näe ketään!
+
+Mitä sanot? murisi karhu ja pani kätensä torvelle korvan eteen. _Tuuli
+kiihtyy!_ sanoin minä. Mutta kunhan ei vaan kampea pohjoisempaan, niin
+ei ole hätää. Ja sentähden täytyy meidän joutua. Onko rossi selvillä,
+Niels?
+
+Niels ei vastannut; hän oli niinkuin ei olisi kuullut, mutta Björn ei
+siitä välittänyt. Veli oli ollut "kummallinen" viime aikoina. Hänen
+vaimonsa oli kuollut äskettäin. Mutta venheessä kuulee kyllä kaiken,
+mitä tapahtuu ja sanotaan. Ja Björn luotti veljeensä niinkuin itseensä.
+
+Heitä irti sitten! huusi hän. Vedä yläpuomin nuoraa ja pane kiinni!
+Anna kokkapurjeen olla, kunnes olemme peräyneet. Kas niin! nosta
+nyt kokkapurje, pian! muuten nousemme tuuleen. Emme saa kadottaa
+kynnen vertaakaan; matka tulee muutenkin pitkä, ell'en erehdy. Onko
+kokkapurje kiinni? Hyvä! Anna sen olla kiinni tuulen puolella, kunnes
+olemme kääntyneet. Kas niin! ann' mennä! Nosta yläpuomi! Räätäli, auta
+sinäkin, vaan elä litistä peukaloasi, tuuli on navakka!
+
+Se oli tuo yksi Björnin tunnetuita temppuja hänen pyrkiessään sillasta
+väljälle vedelle karien välitse. Sitä katselivat maista sekä nuo pienet
+kravun pyytäjät että suuremmat turskan pyytäjät ja yksimielisesti
+tunnustettiin se hyväksi.
+
+Hän heitätti rossin irti juuri oikeaan aikaan, kun venhe oli asettunut
+varmaan kulmaan siltaa vasten. Sitten antoi hän venheen peräytyä,
+kunnes oli vettä juuri riittävästi peräsimen alla. Sitten nostatti hän
+ylös puolen isoa purjetta, niin että yläpuomi eli kaheli riippui alas,
+ja kohta kun vene sen voimasta oli alkanut liukua eteenpäin, antoi hän
+nostaa etupurjeen ja kiinnittää sen tuulen puolelle, jolla hän esti
+venheen nousemasta tuulta vasten. Itse hoiti hän peräsintä ja piti aina
+valmiina yhden suurista airoista voidakseen tarpeen tullessa sen avulla
+määrätä venheen liikkeet; sitten nostatti hän ylös koko isopurjeen,
+päästi kokkapurjeen menemään toiselle puolelle ja sillä tavoin mennä
+suhahti hän laiturin pään ohi melkein sitä hipaisten ja asetti kokan
+niin paljon pohjoista kohden kuin mahdollista.
+
+Se oli temppu, johon tarvittiin täsmällisyyttä ja nopeutta venheen
+miehistön puolelta. Miehistönä oli veli Niels yksin — räätäliä ei
+otettu lukuun.
+
+Mutta tänään oli pieni ryppy Björnin otsassa. Tuo tavanmukainen
+täsmällisyys ei ollut tällä kertaa tarpeeksi suuri.
+
+Saisit liikkua vähän ravakammin, Niels! huusi hän. Sitä vaille,
+ett'emme töytänneet pollariin; ja sitten olisivat nauraneet meille
+tuolla maissa — venheestä puhumattakaan! Se olisi tuskin kestänyt sitä
+iskua!
+
+Niels ei vastannut. Hän seisoi kokassa ja askaroi jotain halkaisijan
+kanssa. Näytti siltä kuin olisi hän laittautunut sitä nostamaan.
+
+Anna sen halkasijan olla! huusi Björn. Meillä on liiaksi purjetta.
+Kohota vähän isoa purjetta; meillä on liiaksi tuulta. Mutta liiku vähän
+nopeammin!
+
+Hyvin rakennettu, vakava merivenhe kiisi ohitse äärimmäisien karien,
+jossa meri jo vaahtona kuohui. Halkasijan puomi oli jo kerran nenänsä
+kastellut ja räätäli oli laskenut luisua edestakaisin kantta pitkin,
+kunnes hän viimeinkin kädet selän takana ja jalat harrallaan pääsi
+puristaumaan kiinni tuulen puoleisiin mastotouveihin, jossa hän nyt
+seisoi ja näkyi ikävöivän jotakin.
+
+Niels totteli vastenmielisesti. Hän nosti purjeen yläpuomin nokkaa ja
+sai sen siten vakavammaksi. Sitten meni hän takaisin kokkaan ja alkoi
+taas askaroida halkasijan kanssa.
+
+Björn seurasi hänen liikkeitään yhä kasvavalla jännityksellä.
+
+Suuri karhu ei ollut enää nuori. Aika ja ankara työ olivat purreet
+merkkinsä häneen; mutta jättiläisvoimat olivat vielä tallella.
+Oli siinä muutakin kuin voimaa. Aikain kuluessa oli hän tottunut
+mainiosti komentamaan. Hänen vähäkuuloisuutensa oli lisääntymässä,
+mutta se vaikutti, että hänen vielä suuremmassa määrin täytyi luottaa
+itseensä kaikissa tilaisuuksissa. Sillä tavoin oli hän suuren
+hyväntahtoisuutensa ohessa käynyt vähän liika käskeväksi, joka välistä
+suututti veljeä. Se kävi ilmi sekä hänen äänestään että käytöksestään.
+Ääni oli aina yhtä oktaavia ylempänä tai alempana kuin olisi tarvinnut;
+eihän hän voinut itse kuulla puhettaan.
+
+Vaan siitä huolimatta purjehtivat veljekset hyvässä sovussa
+postivenheellään.
+
+Mutta viime aikoina oli Niels, niinkuin sanottu, käynyt vähän
+kummalliseksi syystä, että hänen vaimonsa äsken oli kuollut.
+
+Kaikki vaikutti voimakkaasti veljeen, suru niinkuin ilokin, ja Björn
+oli jo viime retkellä huomannut muutamia säännöttömyyksiä annettujen
+käskyjen täytäntöön panossa, samalla kun Niels tinki lisäilemään
+purjeita kovassakin tuulessa. Mitä veli oli vastannut, kun hän nuhteli
+häntä siitä, sitä ei Björn voinut kuulla niin pitkän matkan päästä,
+mutta hän pudisteli pörröistä päätään ja päätti mielessään pitää miestä
+silmällä toisella kertaa.
+
+Ja nyt oli toinen kerta ja nyt olivat he taas purjehtimassa ja tuuli
+kiihtyi.
+
+Kuta enemmän tuuli kiihtyi ja kuta kalpeammaksi räätäli kävi, sitä
+enemmän synkkenivät Nielsin kasvot ja sitä suuremmaksi kasvoi hänen
+halunsa saada halkasija nostetuksi.
+
+Silloin tällöin hän naurahti ja näytti valkosia hampaitaan räätälille,
+kun venhe oikein kallistui ja vesi huuhteli kannen yli.
+
+Räätäli katseli häntä hätäytyneen näköisenä, vääntäen likomärkää
+takkiaan.
+
+Luuletteko, että se siitä paranee?
+
+Ei se mitään. Me lisäämme purjeita!
+
+Ta- tarkoitatteko to- todellakin, että voimme lisätä pu- purjeita?
+kysyi tuo pieni mies.
+
+Saadaanhan nähdä! huusi Niels ja alkoi taas askaroida halkasijan kanssa.
+
+Ota sisään halkasijan puomi! komensi Björn. Ei se meitä nyt hyödytä.
+
+Saa olla, missä on! vastasi Niels.
+
+Björn ei kuullut vastausta ja odotti tyynesti käskynsä täyttämistä.
+
+Se painaa kovasti peräsintä! sanoi hän räätälille, joka näkyi yhä
+enemmän alkavan ikävöidä jotakin.
+
+Vai — niin! sanoi pieni mies kohteliaasti koettaen käsittää, mitä
+perämies oli tarkoittanut.
+
+Samassa lensi hänen hattunsa mereen.
+
+Voi! huusi hatun omistaja.
+
+Björn viittasi hänelle, että tulisi peremmäksi katsomaan, ja siitä
+näkivät he molemmat, mitenkä korkea hattu kellui aalloilla kuin
+vesilintu, kunnes vaahdoksi murtuva laine kaasi sen ja upotti samassa.
+
+Siitä ei ole merellä sen suurempaa hyötyä kuin räätälistä helvetissä!
+virkkoi Björn ja tarjosi pienelle miehelle pullostaan.
+
+Räätäli joi ja tunsi jo voivansa paremmin.
+
+Mutta silloin kallistui venhe aivan tuhottomasti ja vettä pursusi
+sisään tuulen alla olevan laidan ylitse. Halkasija oli vedetty mastoon.
+
+Riivaako sinua piru? huusi Björn vähän hämmästyksissään ja painoi
+peräsimen tuulta vasten. Niels!
+
+Niels ilmaantui maston takaa.
+
+Laske alas halkasija! Kuuletko?
+
+Saa olla, missä on!
+
+Alas! sanon minä; ja meidän täytyy pienentää purjeita, sanon minä.
+Johan meillä kohta on myrsky.
+
+Ann' puhaltaa niin helvetisti kuin tahtoo!
+
+Mitä sanot?
+
+Minä sanon, että minä en piru vieköön välitä mistään, ja jos sinä
+pelkäät purjehtia, niin anna minun itseni tulla perään! karjui Niels.
+
+Björn nousi ylös.
+
+Räätäli kalpeni ja tarttui häntä käsivarteen.
+
+Se oli paksu kuin hakkuri.
+
+Björn katsahti räätäliin.
+
+Luuletko voivasi vähän aikaa puristaa tätä tikkua, niin kauvan kuin
+minä pesen hänen korvan tauksiaan?
+
+Ja hän antoi räätälille peräsimen varren.
+
+Anna hänen olla! pyysi pieni mies.
+
+Venhe kallistui pahasti. Vettä kuohui koskena laidan yli sisään. Björn
+tarttui vanhaan viskaimeen ja lennätti sen veljensä päätä kohden.
+
+Alas halkasija, sanon minä!
+
+Niels väisti päätään ja nauroi hurjasti.
+
+Björn sysäsi räätäliä, niin että tämän kaitanen ruumis riippui kuin
+riepu peräsimen varren päällä ja pakoitti venheen ylös tuuleen. Sitten
+juoksi hän kannelle ja karkasi käsi kohona veljensä kimppuun.
+
+Sinä olet hullu, Niels!
+
+Hänen voimakas kätensä putosi veljen niskaan ja pakoitti hänet
+polvilleen. Toisella kädellä heitti hän halkasijan selkänuoran irti
+ja kiskasi purjeen kannelle. Sitten nosti hän ylös veljensä niskasta
+ja kantoi hänet kuin koiran penikan peremmä heittäen hänet räätälin
+jalkoihin.
+
+Venhe oli kääntymässä. Niels tarttui vaistomaisesti peräsimeen. Björn
+kumartui ja antoi puomin solahtaa selkänsä yli. Kun hän sitten oli
+reilannut kokkapurjeen, meni hän rauhallisesti, niinkuin ei mitään
+olisi tapahtunut, takaisin perään.
+
+Siinä istuivat he nyt kolmisin polvet polvia vasten ja äänettöminä.
+
+Lie parasta, että pienennämme purjeita, niin kauvan kuin venhe on tällä
+laidalla! sanoi Björn.
+
+Nielsillä ei ollut mitään sitä vastaan.
+
+Kun kaikki oli reilassa, käänsi Björn taas venheen toiselle laidalle.
+
+Sitten ojensi hän pullonsa räätälille. Räätäli värisi ja ryyppäsi.
+
+Pidähän huolta majakkamestarin häähousuista! sanoi Björn
+ystävällisesti. Pelkään että niitä täytyy käyttää suolattomassa
+vedessä, ennenkun hän voi ne jalkaansa vetää!
+
+Ja sitten tirkisti Björn tuulen puolelle, josta vihurit tulivat ja
+survaisten vierustoveriaan ystävällisesti kylkeen, sanoi hän niin
+tyytyväisenä kuin olisi tanssilattialla kävellyt:
+
+Tuuli kiihtyy, räätäli; tuuli kiihtyy!...
+
+       *       *       *       *       *
+
+Kun suuri karhu sittemmin kertoi minulle tämän kohtauksen, lisäsi hän:
+
+Herralta olen saanut rotevat jäseneni, kuninkaalta venheeni ja henkeni
+tulee minun säilyttää eukkoa ja kakaroita varten. Enhän voi panna
+henkeäni ja jäseniäni ja venhettäni alttiiksi sen vuoksi, että Niels
+on höperö eikä voi unhottaa vaimoaan. Saahan hän Herran nimessä
+toisenkin, jos tahtoo. _Minäkin_ aion itkeä vetreät vedet, aionpa toden
+totta itkeä sinä päivänä, kun Tiina laudalle oikasekse. Mutta — hän
+naurahti ja teki liikkeen kädellään — on niitä tyttöjä maailmassa,
+ja voihan siinä ensin katsoa, ennenkun kupeelle ajaa, ovatko laidat
+niin lujat, että kestävät matkalla. Jos oli matka lyhyt ensi kerralla,
+niin katsokoon, että toisella kertaa kestää kauvemmin. Antakoon Jumala
+meille hyvän omantunnon viimeiselle taipalelle lähtiessämme! se nyt on
+minun ajatukseni maailman menosta ja pankoot sen vaan kernaasti minun
+puolestani pöytäkirjaansa...!
+
+
+
+
+Mykän kertomus haaksirikosta.
+
+
+Jos voisi sanoa, että toivottomuus on hengillä jossain kunnassa, niin
+voisi sen sanoa Rantapitäjästä. Surullisia hiekkasärkkiä, pitkiä ja
+yksitoikkoisia kuin suru itse; meren nuolemia hiekkarantoja; rannoilla
+laivain hylkyjä tien viittoina, missä ei mitään tietä ollut; tuo
+ijänikuinen hermostuttava kalalokki ainoana vaihteluna; epävakaisen
+taivaan alituiset sadekuurot, jotka itkivät yhtä monta kertaa
+päivässä kuin pahankuriset lapset; siellä täällä muutamia huoneita
+ja talojen tapaisia; lehmän ja parin lampaan laihat haamut jollain
+kanervaniityllä; haisevia vesilätäköitä hiekkasärkkien välissä — ja
+jos tulit näiden särkkien lomitse tasaselle rannalle, niin oli siellä
+tuo alituinen maininki, joka karien yli liukui maata kohti ja kohisi
+ja veti henkeänsä niinkuin joku, joka on kävellyt liika kiivaasti ja
+tahtoo kertoa jostain hyvin tärkeästä — hyvin ikävästä asiasta; mutta
+ei saa sanaa suustaan, kun henkeä ahdistaa. Ja hän pyörittää silmiä
+päässään, ja huokaa, ja sammaltaa: voi... voi, Jumala auttakoon...
+Jumala minua auttakoon!...
+
+Vaunuissa ei ollut vietereitä — tietysti; mutta leveä istuin riippui
+nahkaremmien varassa ja siinä oli kylläksi sijaa tohtorille ja minulle.
+Siinä oli liiaksi sijaa, ja me tulimme usein lähempään yhteyteen
+toistemme olkapäiden ja hatunlierien kanssa kuin mitä tavallisessa
+ajossa on tapana tulla.
+
+Anteeksi... ka, anteeksi... se nyt on saak...! Ja sitten täytyi meidän
+nauraa, mutta kävimme kohta taas totisiksi. Ja sitten olivat piippumme
+taas uudelleen sytytettävät.
+
+Se tapahtui, kun käänsimme alas rantaan. Unohdin sytyttämästä piippuni,
+mutta tohtori ei antanut häiritä itseään.
+
+Ette ole tottunut tähän! sanoi hän ja napautti kopan kannen kiinni.
+Myönnän, että täällä on surullista, saakelin surullista, varsinkin
+syksyllä. Mutta kun saa kulkea täällä melkein joka päivä — ja öillä
+myös — niin — nyt se taas sammui — pa, pa, pa — niin — te ymmärrätte —
+tottumus on toinen luonto — ja sitä paitse — mihinkäpä emme ajan oloon
+tottuisi?
+
+Oletteko koskaan ollut haaksirikkoa näkemässä omin silmin? kysyin minä.
+
+Omin silminkö? Tuota niin, että — hm! oikeastaan — olen aina tullut
+jälestäpäin — tarkastamaan ruumiita ja sen semmoista.
+
+Niin minäkin! sanoin minä.
+
+Ajoimme edelleen äänettöminä.
+
+Hevosparat kiskoivat vaunuja hiekan läpi; kuskimme löi niitä mitään
+sanomatta; johtui mieleeni, että tulos olisi ollut sama, ell'ei
+hän olisikaan piiskaa käyttänyt, mutta en saanut sanaa suustani
+irtautetuksi; mieleni oli raskas, olin hermostunut, kärsin, mutta ennen
+kaikkia olin vaiti, itara sanoistani. Ja yhä huuhtoi tuo maininki meitä
+kohden, huohottaen ja henkeään pidättäen. Ajoimme kuin hautuumaan
+laitaa ja toisella puolella oli meri, joka lakkaamatta huokaili: Jumala
+minua auttakoon...!
+
+No, mietittekö ja valmisteletteko sitä aihetta? virkkoi vierustoverini.
+
+Mitä aihetta?
+
+Haaksirikkoja!
+
+Sanoinhan minä jo, etten ole nähnyt yhtään semmoista, ettekä tekään.
+Vaan voisittehan kuitenkin kertoa minulle jostain haaksirikosta!
+
+Sen kyllä voin. Olen kuullut niistä yllin kyllin kerrottavan näinä
+neljänä vuotena — eihän täällä _muusta_ kuulekaan puhuttavan. _Pelataan
+_ korttia ja _puhutaan_ haaksirikoista. Mikäs se nyt olikaan se
+viimeinen...
+
+Hevoset olivat pysähtyneet huokaamaan. Sadekuuro oli juuri kulkenut
+ylitsemme ja me olimme pistäneet piippumme piiloon. Meri oli alkanut
+kohoilla; se ei enää murissut, se huusi minulle, mutta minä en sitä
+ymmärtänyt.
+
+Särkkien välitse ja hautojen yli tuli aivan vaunujemme editse muuan
+olento kävellen, kantaen olallaan köysikääröä. Hevoset seisoivat ja
+tuo olento seisoi. Se oli pitkä, laiha, voimakkaan näköinen mies,
+vähän eteenpäin kumarissa, jommoisiksi asukkaat tällä rannalla käyvät.
+Hän selvitti nuoran rantaan tultuaan, katseli merelle, niinkuin
+olisi hänellä ollut jotain laineille sanomista — tai niin kuin olisi
+kuunnellut, mitä ne huusivat. Sitten heitti hän nuoran kuohuihin,
+lappoi sitä taas maihin, näytti säpsähtävän, juoksi vähän taapäin,
+heitti taas ja päästeli tätä tehdessään ääniä, jotka eivät olleet juuri
+ollenkaan ihmisäänen tapaisia.
+
+Hän käyttäytyi kuin lapsi leikkiessään; tarkastelin häntä; hänen
+tukkansa oli harmaa, mutta muuten ei hän ollut vanhan näköinen. Hän
+tuijotti meihin, jotenkin välinpitämätönnä läsnäolostamme. Sitten alkoi
+hän leikkinsä alusta.
+
+Siinähän hän on Mads! sanoi tohtori. Ja hän jatkoi kääntyen minulle
+puhumaan: Mads, niin, siinähän se nyt on se mies kuin teitä varten
+kutsuttu. Hän oli yksin tällä autiolla rannalla eräänä iltana, kun
+suuri laiva joutui haaksirikkoon. Hän oli katsomassa sitä näytelmää
+alusta loppuun. Se oli aivan erikoisen kamala haaksirikko. _Hän_ olisi
+voinut kertoa siitä teille. Sen pahempi...
+
+Sen pahempi? kysyin.
+
+Tohtori katsahti minuun ja kaatoi pois ihven piipustaan.
+
+Hän tuli höperöpäiseksi sen yön jälkeen — niinkuin näette. Ja
+merkillisintä on, että hän kadotti puhelahjansakin. En puhukaan
+tukasta; — se oli tulipunanen sitä ennen.
+
+Tuliko hän hulluksi? kysyin minä hiljaa.
+
+Aivan niin — ja mykäksi. Olisiko mahtanut olla sukuvikaa...! sanoi
+tohtori.
+
+
+
+
+Tosi satu.
+
+
+Käyskentelin eräänä päivänä hiekkarantaa pitkin Skagenin pölyisellä
+rannikolla. Ilma oli samea. Majakan huippu häämöitti kuin suunnattoman
+suuren maston pää yli vaaleanharmaiden hiekkasärkkien. Laivain hylkyjä
+oli kuin siroteltu matalalle rannalle; karien ympärillä huokuivat
+aallot onttoäänisesti. Se voi ennustaa myrskyä, se voi myöskin olla
+viimeisen myrskyn maininkia. Tulevat ja menevät myrskyt ojentavat
+täällä alituisessa yhtymäpaikassaan kättä toisilleen.
+
+Seisoi siinä muutamia ihmisiä aallonmurtajan päässä, jota meri nuoleksi
+pitkin, valkein kielin.
+
+He tuijottivat kaikki samaan paikkaan ja näkyivät lausuvan arveluitaan
+samasta asiasta.
+
+Lähestyin heitä ja tervehdin; he vastasivat lyhyesti ja jatkoivat
+mietteitään.
+
+Kuollut kai hän lienee! sanoi Niels Ole Christofersen ja painoi poroa
+lyhyen piipunnysänsä koppaan.
+
+Se on nuori mies! huomautti kalastaja Sören Kappelborg. Lienevätkö
+saappaat uudet? kysyi Jens Taneren itseltään ja pureksi mälliään. On
+ruotsalaisen näköinen! lopetti viimein Hans Lauritsen ja porkkasi
+muutamia askelia veteen vetääkseen ruumiin maihin.
+
+Miehet olivat minulle vanhoja tuttuja Gammel-Skagenista.
+
+Ruumis oli merenhylky, tuntematon, nimetön, koditon, päällään vaan
+muutamia vaatekappaleita. Siihen tuli muitakin.
+
+Tuntematon kannettiin pois ja asetettiin laudalle. Rantavouti ja
+tohtori saapuivat. Tuntematon ei näyttänyt kauvan vedessä olleen.
+Hänellä oli nuorekkaat, melkein miellyttävät kasvot. Otsassa oli iso
+reikä.
+
+Onko hän äkkiä kuollut? kysyin minä. Hm, äkkiä...? murahti rantavouti
+ja käänsi ruumista. Ovat ne vaateriepuja nuokin!
+
+Eräs toinen arveli, että häntä mahdollisesti oli isketty ohimoihin ja
+että hän sen johdosta oli pudonnut mereen.
+
+Lääkäri raotti virkansa puolesta silmänluonta ja painoi kurkkua.
+
+Turhaan minua tänne noudettiin. Näkeehän jokainen, että mies on kuollut!
+
+Muuta ruumissaarnaa ei mies saanut.
+
+Minua ihmetytti, miten vähän melua tuommoisista asioista Skagenissa
+pidetään. Kaikkienhan meidän kuoleman pitää. Se saattaa sattua
+sinulle tänään ja minulle huomenna ja sentähden on parasta olla sitä
+kovin paljon ajattelematta. Se on heidän mielipiteensä ja onhan se
+käytännöllistä oppia oloissa, joissa elämä ja kuolema keikkuvat kuin
+venhe aallon harjalla.
+
+Kun seuraavan kerran tapasin tuttavani Gammel-Skagenista, puuttui
+heistä yksi, Hans Lauritsen.
+
+Minnekkä on Hans joutunut? kysyin.
+
+Luotsi Ole Christoffersen painoi niinkuin tapansa oli poron syvemmälle
+piippuunsa ja teki piipun varrella merkitsevän liikkeen merelle päin.
+
+Vai sillä tavoin! sanoin minä. Ja sinne jäi?
+
+Turskien ruokana on, eivätkö liene jo lihaa luistaan kalunneet! vastasi
+luotsi ja pyysi tulitikkua.
+
+Milloin se tapahtui? kysyin minä.
+
+Siinä purjevenheessä viime syksynä. Huuhtautui pois kannelta ja me
+muut kolme olimme kolmekymmentä tuntia venheen pohjalla sen ollessa
+kumollaan päämme päällä. Ettekö ole kuulleet siitä kerrottavan?
+
+En sanonut kuulleeni ja hän kertoi:
+
+Oli Mikkelin aika eli jos tarkkaan sanon, oli syyskuun 27 päivä
+aamulla, kun Gammel-Skagenista keksimme merellä purjevenheen, jolla oli
+hätälippu mastossa. Oli niin parahaksi valoisa, että näimme, miten se
+pyöri meressä, sillä aallot olivat ankarat karin luona, vaikk'ei vielä
+ollutkaan täysi myrsky.
+
+On siinä tietämistä noin pienellä aluksella! sanoin minä Sören
+Kappelborgille, joka seisoi vierelläni. Mitä hänellä lienee lastinaan?
+
+Itsepähän parhaiten tiennee! vastasi Sören. Vaan ei ole kaikki oikein;
+näetkö lipun puolimastossa?
+
+Näenhän sen. Kenties on kippari pudonnut mereen. Vaan saattaahan siltä
+olla hauska tietää, mitä lastia siinä on!
+
+Saattaapa saattaa! vastasi Sören. Mutta nyt soudamme minä ja Jens
+Taveren kuulemaan, miten on asiat.
+
+Hän ja Jens ja useat muut astuivat venheesen ja soutivat ulos. Näimme,
+että he saivat aluksen ankkuroiduksi ja käännetyksi tuulta vasten ja
+sitten tulivat he maihin kipparin ja hänen matruusinsa kanssa.
+
+Heillä oli ollut vaivaloinen matka ja molemmat olivat he niin
+uuvuksissa ett'eivät mihinkään kyenneet.
+
+Hän tahtoi nyt saada miehiä viemään alustaan Frederikshavniin ja
+kun olimme siitä aikamme tuumineet, tarjousin minä viemään aluksen
+määräpaikkaan, jos Sören Kappelborg, Jens Taneren ja Hans Lauritsen
+tulisivat avukseni.
+
+Kun tulin kotiin hakemaan öljyvaatteitani, näin, että ilmapuntari yhä
+oli laskeutunut, taivaskin oli likainen ja myrsky nähtävästi tulossa.
+No, ajattelin minä, olethan ennenkin ottanut vettä niskaasi, ja ehkä
+pääset tälläkin kertaa kunnialla!
+
+Samaa mieltä olivat muutkin ja me nousimme alukseen heitettyämme
+hyvästit kipparille ja matruusille, jotka olivat niin kurjassa tilassa,
+ett'ei heitä voinut moittia, vaikka jättivätkin aluksensa vieraiden
+varaan.
+
+Astuimme alukseen kello 9 aamupäivällä. Mutta kun tahdoin odottaa
+nähdäkseni, millaiseksi ilma oikeastaan muuttuisi, niin annoimme
+aluksen olla ankkurissa aina kello yhteentoista, jolloin kettinki
+katkesi.
+
+Siinä se meni! sanoi Sören, joka oli miehistä näppärin. Nyt täytyy
+meidän nostaa purjeet ja luovia!
+
+Asetimme purjeet pieniksi ja pysyttelimme puolille päivin maan
+rannassa. Keitimme kahvit ja teimme pari voileipää mieheen. Ja se oli
+ensimmäinen ja viimeinen ateriamme siinä aluksessa.
+
+Kovin kiihtyy! sanoi Jens Taneren, joka oli nuorin ja oli alkanut
+käydä kipeäksi kovassa meren käynnissä. Skagerakin laineet eivät ole
+leikkikaluja. Mutta teki poika siitä huolimatta tehtävänsä niinkuin me
+muutkin.
+
+Otimme kolme reiviä sisään isosta purjeesta ja yhden kokkapurjeesta.
+
+Pienet ovat purjeet, mutta me saamme ottaa ne pienemmiksikin vielä, sen
+saatte nähdä.
+
+Pysyttelimme oman maan puolella välttääksemme tulemasta liika lähelle
+Ruotsin rannikkoa. Tuli sieltä sakeita vihureja, taivas oli nokimusta,
+ja aallot kohosivat niin korkeina ja jyrkkinä, ett'ei kohta ollut
+kuivaa riepua päällämme, vaikka meillä olikin öljylakit.
+
+Vielä se siltaankin äityy! sanoin minä.
+
+Ja äityihän se.
+
+Iltapäivällä puhalsi jo hirmumyrsky ja kokkapurjeen puhalsi pois.
+Käärimme ison purjeen niin, että saimme siitä kolmikulman.
+
+Irroitimme halkasijan tehdäksemme siitä kokkapurjeen. Saimmekin sitä
+vähän matkaa puomia myöten venheesen päin kiskotuksi, mutta nyt oli
+jo tullut pimeä ja meitä pelotti, että se, joka työskenteli kokassa,
+huuhtoutuisi mereen. Olimme kaikki enemmän veden alla kuin sen päällä.
+Teimme parastamme ja Sören ja Hans pureutuivat kuin kissat kiinni
+kokkapuoleen venhettä. Saimme halkasijan vedetyksi puolimastoon, mutta
+tuskin oli tuuli siihen tarttunut, kun se pamahtaen lensi tiehensä.
+
+Siinä meni sekin! sanoi Sören.
+
+Nyt olimme ilman kokkapurjetta ja niinkuin tiedätte on purjehtiminen
+yhdellä purjeella ylen tukalaa. Oli pilkkosen pimeä; näimme vaan
+lakkapäiden välkähtelevän, kun ne karkasivat niskaamme niinkuin Simson
+filistealaisten niskaan. Ajauduimme jälelle päin ja minun täytyi ohjata
+länttä kohden, ett'emme joutuisi Ruotsin rannikolle, sillä pahempaa
+kuin sen edustalla kiikkuminen ei olisi ollut toista.
+
+Oli niinkuin sanoin pimeä kuin säkissä. Oli pitkä yö edessä;
+hirmumyrsky oli, ja meillä oli vaan palanen kokkapurjetta pienessä
+aluksessamme, jossa oli jo niin paljon vettä, että täytyi ruveta
+pumppuamaan. Hyökylaine toisensa perästä karkasi niskaamme; kokka
+rutisi ja natisi tuolla pimeässä ja pian olivat aallot raastaneet
+irti kaiken, mikä oli irti saatavissa tuulen puolella. En ole koskaan
+semmoisessa aallokossa purjehtinut. Sain suunnan merkkiä Skagenin
+majakasta, joka oli kaakossa meistä, ja laskin, että olimme noin viisi
+peninkulmaa maista. Hans ja Sören istuivat vuoroin perässä ja pieksivät
+käsiään yhteen, sillaikaa kuin Jens Taneren loikoi kajuutassa, sillä
+poikaparka oli nyt kokonaan meritaudin kourissa. Silloin tulee
+hyökyaalto poikkiteloin perästä päin.
+
+Peräsin alas! karjasee Sören. Ja minä kampeankin peräsimen alas, mutta
+aalto kuohui jo niskassani. Se löi kajuutan katon pois niinkuin olisi
+hatun päästä lyönyt ja me kuulimme, miten vesi virtasi kajuuttaan.
+
+Jens kimposi ylös kuin tulppa pullon suusta. Hän oli kokonaan unohtanut
+tautinsa ja huusi, että venhe uppoo.
+
+Ei se nyt kuitenkaan vielä sillä kertaa uponnut. Saimme pelastetuksi
+kajuutan katon, joka oli lentänyt alapuolelle tuulen ja panimme sen
+paikoilleen. Ja sitten pumppuihin käsiksi!
+
+Ei se nyt ole niinkään hullua se pumppuaminen, kun tinka tulee. Se
+lämmittää sormia ja pitää mieltä vireessä.
+
+Noin puolen yön aikana näimme purjelaivan, joka tuli takaapäin suoraan
+selkäämme. Puhalsimme torveen, mutta emme saaneet vastausta. Ne
+laskivat niin liki meitä alapuolelta tuulen, että voimme erottaa laivan
+ja mastot ja nähdä, että se oli kuunari. Niin, se oli niin lähellä
+meitä, että oli aivan taivaan ihme, ett'ei se ajanut päällemme.
+
+Kun se humahti ohitsemme pimeässä ja myrskyn raivotessa, ajattelimme
+me jokainen istuessamme tuossa pienessä huonossa venheessämme samaa
+asiata: sitä näet, että olisi ollut meille helpoin asia maailmassa
+hypätä laivaan. Tiesimme kyllä jokainen, ett'ei meillä olisi isoa
+iloa odotettavanamme siinä, missä olimme; mutta tiesimme toisekseen,
+että alus oli uskottu huostaamme ja että olimme antaneet sanamme sen
+pelastaaksemme. Merimies ei saa luopua sanastaan eikä aluksestaan niin
+kauvan kuin suinkin voi pitää kiinni kummastakin.
+
+Tartuimme taas pumppuihin ja olimme saaneet sen melkein tyhjäksi, kun
+minä annoin peräsimen varren Hans Lauritsenille ja itse Sörenin kanssa
+menin kannen alle sytyttämään piippuani ja jos mahdollista etsiäkseni
+jotain muutakin lämmittävää virvoketta. Jens makasi taas siellä
+alhaalla venheen pohjalla ja taisteli meritautinsa kanssa.
+
+Mennessämme kannen alle sanoi Hans perästä:
+
+Olisi hauska tietää, paljoko kello on. Yö on pitkä ja musta; on
+niinkuin ei se siitä enää koskaan valkeneisi.
+
+Se oli viimeinen sana, minkä häneltä kuulimme.
+
+Kun nyt tulimme alas kannen alle, seisoin minä lattialla, jalat
+hajallaan ja iskin tupakkaa piippuuni. Jens makasi penkillä ja Sören
+istui hänen vieressään ja raapi tulta tikkuun; muistelen hänen
+sanoneen, että se tikku oli viimeinen.
+
+Kuinkas jaksat, pikku Jens? kysyin minä ja ojentausin tikkua ottamaan.
+
+En muista, mitä hän vastasi. Sen vaan muistan, ett'en saanut piippuani
+sillä kertaa sytytetyksi. Juuri kuin tikku alkoi palaa ja me voimme
+nähdä toistemme kasvot, kuulimme ylhäältä kannelta hyökyaallon kohinan.
+
+Jos se sen kestää, niin kestää useampiakin! sanoin minä; sillä en ole
+ikänäni kuullut hyökyaallon sillä tavalla ärjyvän.
+
+Samassa sammui tulitikku ja me kaaduimme nurin niskoin pimeään ja
+veteen pää alaspäin ja tallukat ylös.
+
+Sören sai ensiksi sanan suustaan: Venhe on kumollaan; nyt olemme
+elävältä haudatut!
+
+Kun taas selvisimme seisomaan, ulottui vesi meitä rintaan. Kysyin,
+missä Jens on, mutta hän ei vastannut.
+
+Kumarruin alas ja haparoin vedessä, ja sain selville, että hän oli
+kouristautunut kiinni kajuutan kaappiin.
+
+Olimme nyt kukin hetken aikaa tuossa asemassa, mikä lukien pätkän
+isämeidän rukousta, mikä virkkaen jotain kotiväestään, ja minä
+puolestani olin sen lisäksi vielä sitä mieltä, että nyt tässä ei auta
+muu kuin hukkuminen.
+
+Mutta Sören Kappelborgin mieleen johtui, että kajuutan lattiassa
+pitäisi olla luukku, niinkuin on tavallista tällaisissa aluksissa. Hän
+tunnusteli nyt käsillään ja löysikin kellarin luukun, joka ennen oli
+ollut jalkaimme alla, mutta nyt oli päittemme päällä.
+
+Kun vaan nyt löytäisin jotain asetta, jolla sen auki murran! sanoi hän.
+
+Tu'in häntä ja hän sukelti veteen ja löysikin sieltä viimein
+laudanpalasen, johon oli nauloja lyöty. Sillä sai hän luukun auki ja
+nyt tuntui meistä olo jo heti paremmalta.
+
+Otimme ensin huostaamme Jensin, joka oli kouristautunut kaappiin kiinni
+ja oli milloin sen päällä milloin alla ja oli aina vähällä hukkua.
+Kuulimme hänen pulikoivan vedessä ja kun suolainen vesi aina vähän
+loistaa, niin näimme hänestä silloin tällöin vilahduksen. Sören käski
+häntä heittämään kätensä irti ja nousemaan pystyyn, vaan kun se ei
+auttanut ja hän pöperryksissään yhä vaan kiikkui kaapissa kiinni, niin
+löi Sören häntä pari kertaa oikein aikatavalla käsiin ja jalkoihin,
+sanoen, että jo oli siinä kylläksi, kun Hans tuolta kannelta oli mereen
+uponnut, vieläkö sinäkin tässä laittaut hukkumaan kuin sika tynnyriin.
+Sillä tavoin sai hän Jensin jaloilleen ja nyt kiipesin minä Sörenin
+avulla luukun läpi ja koetin laittautua olemaan niin mukavasti kuin
+mahdollista laivan kellariholvissa.
+
+Ei se muuten liioin mukavata ollut. Mahduin parahiksi köölin alla
+olemaan, kun painoin pääni polvien väliin ja vedin jalat koukkuun.
+Ruumiin täytyi taittua linkkuveitseksi eikä toisilla ollut niinkään
+hyvä olla.
+
+Sören kömpi jälessäni. Hän pisti päänsä ja yläruumiin kahden
+perimmäisen kaaren väliin; toinen jalka oli hänellä koukussa
+kupeellaan, toinen riippui kajuutassa. Ei ollut sekään mukavaa; mutta
+pahinta kaikesta oli, että pää täytyi pitää kajuutan lattiata vasten,
+jonka sisäpuoli oli täynnä lautain läpi tulleita nauloja, niin että se
+oli kuin pellavahäklä. Hänen täytyi siis joka hetki pitää käsivarsi
+päänsä alla kuin tyynynä, joka otti vastaan pistot joka kerta kuin
+kumollaan oleva alus tyrskähti aallokossa. Niin tuumaili siinä mies,
+että oli hän ennen mukavamminkin maannut.
+
+Jens Taneren ei päässyt edes niin ylös kuin me muut. Hänen täytyi koko
+ajan seista vedessä kainaloitaan myöten; pään ja kädet oli hän saanut
+luukusta sisään. Sen sijaan saattoi hän liikutella jalkojaan ja potkia,
+kun tuli liika kylmä. Jalkainsa alla oli hänellä kajuutan rauta-uuni,
+joka oli kaatunut aluksen kaatuessa ja vierähtänyt juuri kellarin
+luukun alle ihan niinkuin me itse olisimme sen siihen asettaneet.
+Meritautia ei hän nyt enää juuri tuntenut, ei ainakaan siitä sen
+enempää puhunut.
+
+Emme me muutkaan juuri pitkiä puheita pitäneet.
+
+Aluksi virkkoi Sören jonkun sanan enemmän kurillaan kuin tarpeen vuoksi.
+
+Täällä haisee perhanasti! sanoi hän.
+
+Ja oikeassa hän olikin. Kellari oli täynnä likaa ja semmoista, jota
+ei nimeltään mainita. Olisimme varmaankin tukehtuneet, vaikkakin oli
+tuota joskus ennenkin haistettu; mutta kun aluksen hylky keikkui niin
+kovasti, saimme joka tyrskäyksessä puhdasta ilmaa sisään. Välistä,
+kun peräpuoli upposi veden alle, tuli oikein hyvästi tuoretta ilmaa
+sisään. Joka kerta kuin peräpuoli taas painui alas, pusertui ilma niin
+kovasti allamme, että se melkein kantoi meitä, ja kun perä taas kohosi,
+imeytyi ilma pois niinkuin uunin piipussa, niin että oli oikein vaikea
+hengittää.
+
+Sillä tavoin istuimme koko yön, kunnes rupesimme arvailemaan, että
+mahtoi olla tiistai päivä.
+
+Kuinka jaksat, Jens? kysyin minä.
+
+Tuossahan menee! vastasi hän.
+
+Mitä mietit, pikku Jens? kysyin taas.
+
+Ajattelen setääni siellä kotona, vanhaa Ole Gaihedeä. Hänen oli aina
+tapana maata talvella porsaan kanssa samassa sängyssä, että elukalla
+olisi hyvä olla. Tekisi mieleni olemaan porsaan siassa!
+
+Ei olisi pahitteeksi olo parempi, sanoin minä. Mutta voisi meillä olla
+pahempikin. Olemmehan ainakin elossa.
+
+Olemme vielä, vastasi Sören.
+
+Mitäs sinä ajattelet, Sören? kysyin minä.
+
+Ajattelen sitä, kuinka olisi ihanata, jos saisi kengät jalastaan.
+Jalassa eivät ne minua nyt isosti hyödytä. Olisivat parempaan tarpeesen
+kädessä pääni alla; naulat ovat tuiki terävät!
+
+Autoin häntä vetämään kenkiä jaloista. Oli siinä tekemistä, mutta
+viimeinkin saimme ne pois ja pannuksi hänen alleen.
+
+Kas, se auttoi! sanoi hän.
+
+Elä millään muotoa nuku, Ole! sanoi hän hetken kuluttua. Painat niin
+kovasti selkääni, että on vaikea hengittää. Tässä on terävä lauta
+rintani alla, minä makaan kuin veitsen terällä.
+
+Ymmärsin hyvin kyllä, ett'ei hänen ollut hyvä olla. Olin vanhin
+meistä kolmesta. Olen kohta viidenkymmenen ja unteluus alkaa sillä
+iällä lähestyä. Mutta kun Sören oli varoittanut minua, tein parastani
+pitääkseni silmäni auki.
+
+Lie siinä taas kulunut puolikymmentä tuntia ja laskujen mukaan lienee
+iltapäivä ollut käsissä. Kysyn silloin Söreniltä:
+
+Onko sinulla nälkä, Sören?
+
+Ei ole, sanoi hän.
+
+Entä jano?
+
+Ei, sanoi hän. Mutta kernaasti tekisin tarpeeni!
+
+Ann' mennä vaan! sanoin minä. On täällä ollut ihmisiä ennen kuin me
+tänne tulimme.
+
+Kohta sen jälkeen raapasi alus pohjaa.
+
+Sinäkö siellä, Sören? kysyin minä.
+
+En, vaan alus raapasi!
+
+Silloin on tässä kallioita, sanoin minä. Ja silloin olemme Ruotsin
+puolella!
+
+Niin ollaan, Jumala meitä auttakoon! sanoi Jens.
+
+Saatanee nyt nähdä, tahtooko hän sen tehdä! sanoin minä. Ja jos vaan
+voipi, niin kyllä kai tekee; mutta työllä hän siinä tulee olemaan!
+
+Alus jysähti kolme kertaa pahasti ja nyt pääsi Söreniltä ensi kerran
+huuto, kun naulat tunkivat syvälle lihaan.
+
+Toisella kerralla kuulimme maston ja keularaakapuun katkeavan.
+Kolmannella kerralla taisi perä poikki mennä.
+
+Kun taas huomasin, että oli tultu syvälle vedelle, sanoin minä:
+
+Se oli varmaan "Rödskaeret". Täällä on 32 syltä vettä karin ja maan
+välissä, mutta sitten tulee taas kallioita, "Lille Rödskaeret". Jos
+pääsemme sen yli, niin tulemme "Homösva Skaerefiin" ja siihen voimme
+pysähtyä! Se olisi hyvä! sanoi Jens. Samassa painui koko peräpuoli alas
+veden alle ja ilma puristui niin tiukkaan, että me menimme melkein
+litteiksi.
+
+Luulimme aluksen hajoavan ja valmistuimme jo siihen, ett'ei
+pelastuksesta enää ollut toivoakaan. Emme hiiskuneet sanaakaan, mutta
+pidimme kiinni toisistamme. Silloin kohosi hylky vähän ja nyt seurasi
+kuusi jysähdystä peräkkäin, ja sitten olimme taas irti. Ai saakeli!
+sanoi Sören. Elä kiroo! sanoin minä. Nyt se nähdään...! Ja tuskin olin
+saanut sen sanotuksi, kun jysähdimme viimeisen kerran ja pysähdyimme.
+Se on "Hornösva"! sanoin minä. Mutta nyt alkoi lasti, joka viime
+jysähdyksessä oli murtanut kajuutan seinän, solua perään päin. Sörenin
+toinen jalka joutui väliin ja oli vähällä musertua peräkaarta vastaan.
+Hänellä ei ollut enää voimia vetää sitä pois, mutta minä sain housuista
+kiinni ja sain jalan viskatuksi ylös. Sitä en olisi saanut tehdyksi,
+jos hänellä olisi ollut, kengät jalassaan, sillä silloin olisi kantapää
+litistynyt lautain väliin; josta voi nähdä, että on hyvä riisua ajoissa
+kenkänsä.
+
+Se tapahtui auringon laskun aikaan tiistai-iltana. Kun huomasimme
+olevamme kiinni, menivät Sören ja Jens huutamaan apua musertuneen perän
+läpi.
+
+Onko siellä ketään kuuluvissa? kysyin minä.
+
+Eivät sanoneet olevan. Mutta olihan mahdoton kuullakaan mitään, sillä
+aluksessa pitivät kaikellaiset irtonaiset kapineet kauheata kolinata ja
+katkennut masto, joka oli kiinni nuorissaan ja seurasi mukana, jyskytti
+ulkoapäin aluksen kylkeen. Ja aallot kuohuivat yhä kallion yli.
+
+Ei siitä mitään tule! sanoin minä. Toivokaamme saavamme olla tässä
+huomiseen aamuun ja säilyä paleltumasta.
+
+Sören ei ollut samaa mieltä. Hän tahtoi ryömiä kalliolle apua
+huutamaan, kun arveli olevan ihmisiä läheisyydessä.
+
+Ruotsalaiset ovat kyllä nähneet meidät! sanoi hän. Niillä on silmät
+kuin kalalokilla. Pyytelin häntä hartaasti jäämään. Kun olemme yhtä
+pitäneet tähän saakka, niin pidetään vielä tämä yö. Sinä olet meistä
+voimakkain; voimme tarvita voimiasi auttamaan meitä huomenna tästä
+ruumis-arkusta. Jos nyt pääsetkin kalliolle, niin tempaavat aallot
+sinut mukaansa ilman mitään hyötyä niin totta kuin nimeni on Ole
+Christoffersen ja minä olen luotsina Skagenissa.
+
+Sören ja Jens ryömivät taas piiloihinsa. Mutta kun Sören nyt kerran
+oli saanut oikaista jäseniään, ei hän enää voinut kestää aikaisemmassa
+asennossaan naulojen päällä. Hän meni taas alas perään ja seisoi
+vedessä koko yön.
+
+Minä itse istuin kyyryisissäni siinä, missä olin istunut. Tunsin,
+että jos nousisin pois, en enää voisi asettua entiseen asentooni, jos
+se kävisi tarpeelliseksi. Sillä minä olin yhtä murea kuin talven yli
+säilytetty omena.
+
+Niin kului sitten sekin yö. Mutta nyt emme enää kysyneet toisiltamme,
+mitä ajattelimme. Ainoastaan Jens alkoi aamupuoleen yötä puhella hiukan
+hurjasti kotiväestään, niinkuin olisi unessa hourinut. Hän sanoi
+kuulleensa sorsan rääkyvän ulkona ja se oli saattanut hänet kotiaan
+ajattelemaan.
+
+Kohta sen jälkeen huusi hän:
+
+Vesi nousee, nyt upotaan!
+
+Se on vale! sanoi Sören. Meren valosta huomasimme, että oli vielä yö.
+Ja me päätimme tulleemme karille pakoveden aikaan ja että se nyt oli
+vesi, joka nousi, eikä alus, joka upposi.
+
+Huusimme nyt kaikki niin kovasti kuin voimme apua; mutta vastausta ei
+kuulunut. Silloin sanoi Sören Kappelborg, joka oli jo puolikuoliaaksi
+puristunut, että hänen kaikkia jäseniään niin pakotti ja kirveli,
+ett'ei hän enää voisi kauvemmin kestää. Käyköön miten käy, mutta hänen
+täytyy koettaa päästä ulos niin kauvan kuin vielä on voimia vähänkään.
+
+Kysyin, oliko hänen nälkä, mutta hän ei sanonut olevan ja samoin
+vastasi Jens.
+
+Silloin tarttui Sören minua käteen ja minä tartuin Jensiä ja me
+kahlasimme varovasti perään tulleen aukon luo. Täällä käytti Sören
+tilaisuutta hyväkseen, kun vesi virtasi ulos, ja sukelsi aluksen alle
+ja sai onneksi kiinni peräsimestä, ennenkun aalto tuli takaisin. Sitten
+kiipesi hän aluksen pohjalle.
+
+Näetkö mitään, Sören? huusin minä hänelle.
+
+Näen majakan kokan puolella!
+
+Millaisen majakan?
+
+Punaista ja valkeata!
+
+Hyvä on! sanoin minä.
+
+Sitten kuulin hänen huutavan apua ja olin niinkuin kuulevinani
+vastauksen kaukaa. Nyt tulee apua! sanoin minä Jensille. Jo olisikin
+aika tulla! Kylmä jähmetytti jäseniämme. Mutta se, että ihmisiä oli
+läheisyydessä, muutti asiat.
+
+Sören oli hylyn pohjalla istuen keksinyt ruotsalaisia kalastajain
+venheitä ja huutanut lähimmäiselle. Kalastaja, joka juuri parhaallaan
+järjesti kantolastia venheessään, säikähti kuullessaan ihmisäänen
+aluksesta, jonka oli luullut "kuolleeksi", niin että pudotti raskaan
+kiven purtensa pohjaan ja oli vähällä saada aikaan suuren vahingon.
+Ne kai luulivat, että se oli profeetta Joonas, jonka se suuri meri\
+kummitus suustaan sylkäsi, niinkuin kaikki olemme sen tapauksen
+vanhasta kuvaraamatusta nähneet.
+
+Ettekö te helvetissä näe, että täällä on tanskalaisia kalastajia
+Skagenista! huusi Sören.
+
+Hän laskeutui taas veteen hylyn taa, piteli molemmilla käsillään
+peräsimestä ja veti oikealla ensin minut ja sitten Jensin ulos.
+
+Hylystä vietiin meidät ensin venheisiin ja sitten Fjellbackan
+kalastajakylään. Se on sanottava, että ihmiset siellä olivat oikein
+ystävällisiä meitä kohtaan; — mutta onhan se ymmärrettävääkin, että kun
+niin usein tulevat suurissa merivenheissään Skageniin ja saavat meiltä
+pyytämämme kalat hyvään hintaan, niin eivät voi tylyjä olla, kun me
+tulemme heitä tervehtimään — — kumollaan olevan aluksen kellarissa!...
+
+Kiitin kertojaa ja kysyin, tarkastellessani hänen ahavoittuneita
+kasvojaan, eikö hänellä tai muilla ollut jälkivaivoja siitä retkestä.
+
+Ei erinäisiä! vastasi hän ja siirsi mällin toiseen suupieleen. Onhan
+sitä tottunut, joskaan ei aivan niin paljoon, niin kuitenkin johonkin.
+Pahimmin kävi Hans Lauritsenille; mutta ei kai hänenkään ole sen
+pahempi olla nyt kuin meidänkin kerran on tuleva olemaan. Me uskomme
+näet täällä Skagenissa niin, että Taivaan Taatto ottaa rehellisen
+kalastajan hyvästi vastaan, kun kerran sinne Hänen pakinoilleen tulemme.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK KALASTAJIA ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
+
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact.
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
